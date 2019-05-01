@@ -1,1 +1,2 @@
 {"expected": ["lamp matte standard", "home/retail/modern", 1, 0.0], "id": "pricecraft-001", "input": [" lamp matte standard ", " home/retail/modern ", "1", "0"]}
+{"expected": ["aluminum tripod studio", "secondhand/accessories", 1, -0.0], "id": "pricecraft-extension-001", "input": ["aluminum tripod studio", "secondhand/accessories", "1", "-0"]}
