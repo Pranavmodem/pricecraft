@@ -8,3 +8,4 @@
 {"error": "price must be a number", "id": "pricecraft-extension-005", "input": ["aluminum bicycle rack studio", "secondhand/equipment", "5", "1,25"]}
 {"error": "price must be between", "id": "pricecraft-004", "input": [" 手袋 matte standard ", " clothing/outlet/modern ", "1", "NaN"]}
 {"error": "price must be between", "id": "pricecraft-extension-006", "input": ["aluminum travel kettle studio", "secondhand/household", "1", "1e309"]}
+{"expected": ["aluminum watch strap studio", "secondhand/accessories", 2, 24.75], "id": "pricecraft-extension-007", "input": ["aluminum watch strap studio", "secondhand/accessories", "2", " 24.75 "]}
