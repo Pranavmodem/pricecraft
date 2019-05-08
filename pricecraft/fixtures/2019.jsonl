@@ -11,3 +11,4 @@
 {"expected": ["aluminum watch strap studio", "secondhand/accessories", 2, 24.75], "id": "pricecraft-extension-007", "input": ["aluminum watch strap studio", "secondhand/accessories", "2", " 24.75 "]}
 {"error": "price must be between", "id": "pricecraft-005", "input": [" running shoes matte standard ", " sports/trade/modern ", "1", "-0.01"]}
 {"error": "price must be between", "id": "pricecraft-extension-008", "input": ["aluminum book stand studio", "secondhand/equipment", "3", "-Infinity"]}
+{"error": "price must be between", "id": "pricecraft-006", "input": [" o'neill jacket matte standard ", " clothing/consignment/modern ", "1", "1000000.01"]}
