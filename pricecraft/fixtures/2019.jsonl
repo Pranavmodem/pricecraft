@@ -13,3 +13,4 @@
 {"error": "price must be between", "id": "pricecraft-extension-008", "input": ["aluminum book stand studio", "secondhand/equipment", "3", "-Infinity"]}
 {"error": "price must be between", "id": "pricecraft-006", "input": [" o'neill jacket matte standard ", " clothing/consignment/modern ", "1", "1000000.01"]}
 {"error": "price must be a number", "id": "pricecraft-007", "input": [" 10\" speaker matte standard ", " audio/direct/modern ", "1", "not priced"]}
+{"error": "condition must be", "id": "pricecraft-008", "input": [" camera body matte standard ", " electronics/retail/vintage ", "0", "3.18"]}
