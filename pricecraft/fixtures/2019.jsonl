@@ -15,3 +15,4 @@
 {"error": "price must be a number", "id": "pricecraft-007", "input": [" 10\" speaker matte standard ", " audio/direct/modern ", "1", "not priced"]}
 {"error": "condition must be", "id": "pricecraft-008", "input": [" camera body matte standard ", " electronics/retail/vintage ", "0", "3.18"]}
 {"error": "condition must be", "id": "pricecraft-009", "input": [" wooden stool matte standard ", " home/resale/vintage ", "6", "3.55"]}
+{"error": "condition must be", "id": "pricecraft-010", "input": [" toy train matte standard ", " collectibles/auction/vintage ", "3.0", "3.92"]}
