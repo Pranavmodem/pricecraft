@@ -17,3 +17,4 @@
 {"error": "condition must be", "id": "pricecraft-009", "input": [" wooden stool matte standard ", " home/resale/vintage ", "6", "3.55"]}
 {"error": "condition must be", "id": "pricecraft-010", "input": [" toy train matte standard ", " collectibles/auction/vintage ", "3.0", "3.92"]}
 {"error": "title and category", "id": "pricecraft-011", "input": [" ", " home/outlet/vintage ", "1", "4.29"]}
+{"error": "title and category", "id": "pricecraft-012", "input": [" children’s book matte standard ", " ", "1", "4.66"]}
