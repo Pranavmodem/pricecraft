@@ -20,3 +20,4 @@
 {"error": "title and category", "id": "pricecraft-012", "input": [" children’s book matte standard ", " ", "1", "4.66"]}
 {"expected": ["desk light matte standard", "home/consignment/vintage", 1, 5.03], "id": "pricecraft-013", "input": [" desk light matte standard ", " home/consignment/vintage ", "  1", "5.03"]}
 {"error": "price must be between", "id": "pricecraft-014", "input": [" trompeta matte standard ", " music/direct/vintage ", "1", "inf"]}
+{"expected": ["ручка matte standard\nwith instructions", "stationery/retail/seasonal", 1, 5.77], "id": "pricecraft-015", "input": ["ручка matte standard\nwith instructions", " stationery/retail/seasonal ", "1", "5.77"]}
