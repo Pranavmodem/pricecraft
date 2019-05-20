@@ -21,3 +21,4 @@
 {"expected": ["desk light matte standard", "home/consignment/vintage", 1, 5.03], "id": "pricecraft-013", "input": [" desk light matte standard ", " home/consignment/vintage ", "  1", "5.03"]}
 {"error": "price must be between", "id": "pricecraft-014", "input": [" trompeta matte standard ", " music/direct/vintage ", "1", "inf"]}
 {"expected": ["ручка matte standard\nwith instructions", "stationery/retail/seasonal", 1, 5.77], "id": "pricecraft-015", "input": ["ручка matte standard\nwith instructions", " stationery/retail/seasonal ", "1", "5.77"]}
+{"expected": ["aluminum tuner studio", "secondhand/household", 4, -0.0], "id": "pricecraft-extension-009", "input": ["aluminum tuner studio", "secondhand/household", "4", "-0"]}
