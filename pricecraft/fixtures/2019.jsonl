@@ -25,3 +25,4 @@
 {"expected": ["case #1 matte standard", "accessories/resale/seasonal", 1, 0.0], "id": "pricecraft-016", "input": [" case #1 matte standard ", " accessories/resale/seasonal ", "1", "0"]}
 {"expected": ["sci-fi poster matte standard", "art/auction/seasonal", 1, 1000000.0], "id": "pricecraft-017", "input": [" sci-fi poster matte standard ", " art/auction/seasonal ", "1", "1000000"]}
 {"expected": ["lamp gloss standard", "home/outlet/seasonal", 2, 250.0], "id": "pricecraft-018", "input": [" lamp gloss standard ", " home/outlet/seasonal ", "2", "2.50e2"]}
+{"error": "price must be between", "id": "pricecraft-019", "input": [" mug, ceramic gloss standard ", " kitchen/trade/seasonal ", "2", "NaN"]}
