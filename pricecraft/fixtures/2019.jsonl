@@ -30,3 +30,4 @@
 {"error": "price must be between", "id": "pricecraft-020", "input": [" café grinder gloss standard ", " kitchen/consignment/seasonal ", "2", "-0.01"]}
 {"expected": ["ceramic tripod studio", "secondhand/equipment", 1, 999999.99], "id": "pricecraft-extension-011", "input": ["ceramic tripod studio", "secondhand/equipment", "1", " 999999.99 "]}
 {"expected": ["ceramic folding table studio", "secondhand/household", 2, 1e-07], "id": "pricecraft-extension-012", "input": ["ceramic folding table studio", "secondhand/household", "2", "1e-7"]}
+{"error": "price must be a number", "id": "pricecraft-extension-013", "input": ["ceramic mixer studio", "secondhand/accessories", "3", "1,25"]}
