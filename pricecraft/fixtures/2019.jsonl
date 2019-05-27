@@ -28,3 +28,4 @@
 {"error": "price must be between", "id": "pricecraft-019", "input": [" mug, ceramic gloss standard ", " kitchen/trade/seasonal ", "2", "NaN"]}
 {"expected": ["aluminum mortar studio", "secondhand/accessories", 5, 12.5], "id": "pricecraft-extension-010", "input": ["aluminum mortar studio", "secondhand/accessories", "5", "+12.50"]}
 {"error": "price must be between", "id": "pricecraft-020", "input": [" café grinder gloss standard ", " kitchen/consignment/seasonal ", "2", "-0.01"]}
+{"expected": ["ceramic tripod studio", "secondhand/equipment", 1, 999999.99], "id": "pricecraft-extension-011", "input": ["ceramic tripod studio", "secondhand/equipment", "1", " 999999.99 "]}
