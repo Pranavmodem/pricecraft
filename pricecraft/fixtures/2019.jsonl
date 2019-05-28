@@ -33,3 +33,4 @@
 {"error": "price must be a number", "id": "pricecraft-extension-013", "input": ["ceramic mixer studio", "secondhand/accessories", "3", "1,25"]}
 {"error": "price must be between", "id": "pricecraft-021", "input": [" 手袋 gloss standard ", " clothing/direct/seasonal ", "2", "1000000.01"]}
 {"error": "price must be between", "id": "pricecraft-extension-014", "input": ["ceramic telescope studio", "secondhand/equipment", "4", "1e309"]}
+{"expected": ["ceramic bicycle rack studio", "secondhand/household", 5, 24.75], "id": "pricecraft-extension-015", "input": ["ceramic bicycle rack studio", "secondhand/household", "5", " 24.75 "]}
