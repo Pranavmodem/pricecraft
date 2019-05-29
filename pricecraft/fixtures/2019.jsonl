@@ -38,3 +38,4 @@
 {"expected": ["ceramic watch strap studio", "secondhand/equipment", 2, -0.0], "id": "pricecraft-extension-017", "input": ["ceramic watch strap studio", "secondhand/equipment", "2", "-0"]}
 {"error": "price must be a number", "id": "pricecraft-022", "input": [" running shoes gloss standard ", " sports/retail/basic ", "2", "not priced"]}
 {"expected": ["ceramic book stand studio", "secondhand/household", 3, 12.5], "id": "pricecraft-extension-018", "input": ["ceramic book stand studio", "secondhand/household", "3", "+12.50"]}
+{"expected": ["ceramic tuner studio", "secondhand/accessories", 4, 999999.99], "id": "pricecraft-extension-019", "input": ["ceramic tuner studio", "secondhand/accessories", "4", " 999999.99 "]}
