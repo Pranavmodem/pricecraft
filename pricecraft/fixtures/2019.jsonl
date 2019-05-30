@@ -39,3 +39,4 @@
 {"error": "price must be a number", "id": "pricecraft-022", "input": [" running shoes gloss standard ", " sports/retail/basic ", "2", "not priced"]}
 {"expected": ["ceramic book stand studio", "secondhand/household", 3, 12.5], "id": "pricecraft-extension-018", "input": ["ceramic book stand studio", "secondhand/household", "3", "+12.50"]}
 {"expected": ["ceramic tuner studio", "secondhand/accessories", 4, 999999.99], "id": "pricecraft-extension-019", "input": ["ceramic tuner studio", "secondhand/accessories", "4", " 999999.99 "]}
+{"error": "condition must be", "id": "pricecraft-023", "input": [" o'neill jacket gloss standard ", " clothing/resale/basic ", "0", "8.73"]}
