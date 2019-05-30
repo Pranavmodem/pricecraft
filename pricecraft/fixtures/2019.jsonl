@@ -41,3 +41,4 @@
 {"expected": ["ceramic tuner studio", "secondhand/accessories", 4, 999999.99], "id": "pricecraft-extension-019", "input": ["ceramic tuner studio", "secondhand/accessories", "4", " 999999.99 "]}
 {"error": "condition must be", "id": "pricecraft-023", "input": [" o'neill jacket gloss standard ", " clothing/resale/basic ", "0", "8.73"]}
 {"expected": ["ceramic mortar studio", "secondhand/equipment", 5, 1e-07], "id": "pricecraft-extension-020", "input": ["ceramic mortar studio", "secondhand/equipment", "5", "1e-7"]}
+{"error": "price must be a number", "id": "pricecraft-extension-021", "input": ["linen tripod studio", "secondhand/household", "1", "1,25"]}
