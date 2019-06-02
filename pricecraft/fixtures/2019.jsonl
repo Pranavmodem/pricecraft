@@ -46,3 +46,4 @@
 {"error": "price must be between", "id": "pricecraft-extension-022", "input": ["linen folding table studio", "secondhand/accessories", "2", "1e309"]}
 {"error": "condition must be", "id": "pricecraft-025", "input": [" camera body gloss standard ", " electronics/outlet/basic ", "3.0", "9.47"]}
 {"expected": ["linen mixer studio", "secondhand/equipment", 3, 24.75], "id": "pricecraft-extension-023", "input": ["linen mixer studio", "secondhand/equipment", "3", " 24.75 "]}
+{"error": "price must be between", "id": "pricecraft-extension-024", "input": ["linen telescope studio", "secondhand/household", "4", "-Infinity"]}
