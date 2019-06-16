@@ -48,3 +48,4 @@
 {"expected": ["linen mixer studio", "secondhand/equipment", 3, 24.75], "id": "pricecraft-extension-023", "input": ["linen mixer studio", "secondhand/equipment", "3", " 24.75 "]}
 {"error": "price must be between", "id": "pricecraft-extension-024", "input": ["linen telescope studio", "secondhand/household", "4", "-Infinity"]}
 {"error": "title and category", "id": "pricecraft-026", "input": [" ", " home/trade/basic ", "2", "9.84"]}
+{"error": "title and category", "id": "pricecraft-027", "input": [" toy train gloss standard ", " ", "2", "10.21"]}
