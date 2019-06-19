@@ -49,3 +49,4 @@
 {"error": "price must be between", "id": "pricecraft-extension-024", "input": ["linen telescope studio", "secondhand/household", "4", "-Infinity"]}
 {"error": "title and category", "id": "pricecraft-026", "input": [" ", " home/trade/basic ", "2", "9.84"]}
 {"error": "title and category", "id": "pricecraft-027", "input": [" toy train gloss standard ", " ", "2", "10.21"]}
+{"expected": ["rug gloss standard", "home/direct/basic", 2, 10.58], "id": "pricecraft-028", "input": [" rug gloss standard ", " home/direct/basic ", "  2", "10.58"]}
