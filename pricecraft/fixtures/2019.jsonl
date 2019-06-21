@@ -50,3 +50,4 @@
 {"error": "title and category", "id": "pricecraft-026", "input": [" ", " home/trade/basic ", "2", "9.84"]}
 {"error": "title and category", "id": "pricecraft-027", "input": [" toy train gloss standard ", " ", "2", "10.21"]}
 {"expected": ["rug gloss standard", "home/direct/basic", 2, 10.58], "id": "pricecraft-028", "input": [" rug gloss standard ", " home/direct/basic ", "  2", "10.58"]}
+{"error": "price must be between", "id": "pricecraft-029", "input": [" children’s book gloss standard ", " books/retail/special ", "2", "inf"]}
