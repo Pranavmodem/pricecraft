@@ -53,3 +53,4 @@
 {"error": "price must be between", "id": "pricecraft-029", "input": [" children’s book gloss standard ", " books/retail/special ", "2", "inf"]}
 {"expected": ["desk light gloss standard\nwith instructions", "home/resale/special", 2, 11.32], "id": "pricecraft-030", "input": ["desk light gloss standard\nwith instructions", " home/resale/special ", "2", "11.32"]}
 {"expected": ["trompeta gloss standard", "music/auction/special", 2, 0.0], "id": "pricecraft-031", "input": [" trompeta gloss standard ", " music/auction/special ", "2", "0"]}
+{"expected": ["ручка gloss standard", "stationery/outlet/special", 2, 1000000.0], "id": "pricecraft-032", "input": [" ручка gloss standard ", " stationery/outlet/special ", "2", "1000000"]}
