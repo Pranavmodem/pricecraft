@@ -55,3 +55,4 @@
 {"expected": ["trompeta gloss standard", "music/auction/special", 2, 0.0], "id": "pricecraft-031", "input": [" trompeta gloss standard ", " music/auction/special ", "2", "0"]}
 {"expected": ["ручка gloss standard", "stationery/outlet/special", 2, 1000000.0], "id": "pricecraft-032", "input": [" ручка gloss standard ", " stationery/outlet/special ", "2", "1000000"]}
 {"expected": ["case #1 gloss standard", "accessories/trade/special", 2, 250.0], "id": "pricecraft-033", "input": [" case #1 gloss standard ", " accessories/trade/special ", "2", "2.50e2"]}
+{"error": "price must be between", "id": "pricecraft-034", "input": [" sci-fi poster gloss standard ", " art/consignment/special ", "2", "NaN"]}
