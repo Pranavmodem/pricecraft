@@ -58,3 +58,4 @@
 {"error": "price must be between", "id": "pricecraft-034", "input": [" sci-fi poster gloss standard ", " art/consignment/special ", "2", "NaN"]}
 {"error": "price must be between", "id": "pricecraft-035", "input": [" lamp clear standard ", " home/direct/special ", "3", "-0.01"]}
 {"error": "price must be between", "id": "pricecraft-036", "input": [" mug, ceramic clear standard ", " kitchen/retail/assorted ", "3", "1000000.01"]}
+{"error": "price must be a number", "id": "pricecraft-037", "input": [" café grinder clear standard ", " kitchen/resale/assorted ", "3", "not priced"]}
