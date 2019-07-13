@@ -61,3 +61,4 @@
 {"error": "price must be a number", "id": "pricecraft-037", "input": [" café grinder clear standard ", " kitchen/resale/assorted ", "3", "not priced"]}
 {"error": "condition must be", "id": "pricecraft-038", "input": [" 手袋 clear standard ", " clothing/auction/assorted ", "0", "14.28"]}
 {"error": "condition must be", "id": "pricecraft-039", "input": [" running shoes clear standard ", " sports/outlet/assorted ", "6", "14.65"]}
+{"error": "condition must be", "id": "pricecraft-040", "input": [" o'neill jacket clear standard ", " clothing/trade/assorted ", "3.0", "15.02"]}
