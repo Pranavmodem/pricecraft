@@ -66,3 +66,4 @@
 {"expected": ["linen bicycle rack studio", "secondhand/accessories", 5, -0.0], "id": "pricecraft-extension-025", "input": ["linen bicycle rack studio", "secondhand/accessories", "5", "-0"]}
 {"error": "title and category", "id": "pricecraft-042", "input": [" camera body clear standard ", " ", "3", "15.76"]}
 {"expected": ["linen travel kettle studio", "secondhand/equipment", 1, 12.5], "id": "pricecraft-extension-026", "input": ["linen travel kettle studio", "secondhand/equipment", "1", "+12.50"]}
+{"expected": ["wooden stool clear standard", "home/retail/reissue", 3, 16.13], "id": "pricecraft-043", "input": [" wooden stool clear standard ", " home/retail/reissue ", "  3", "16.13"]}
