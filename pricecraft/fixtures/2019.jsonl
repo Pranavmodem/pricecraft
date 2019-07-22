@@ -69,3 +69,4 @@
 {"expected": ["wooden stool clear standard", "home/retail/reissue", 3, 16.13], "id": "pricecraft-043", "input": [" wooden stool clear standard ", " home/retail/reissue ", "  3", "16.13"]}
 {"error": "price must be between", "id": "pricecraft-044", "input": [" toy train clear standard ", " collectibles/resale/reissue ", "3", "inf"]}
 {"expected": ["rug clear standard\nwith instructions", "home/auction/reissue", 3, 16.87], "id": "pricecraft-045", "input": ["rug clear standard\nwith instructions", " home/auction/reissue ", "3", "16.87"]}
+{"expected": ["linen watch strap studio", "secondhand/household", 2, 999999.99], "id": "pricecraft-extension-027", "input": ["linen watch strap studio", "secondhand/household", "2", " 999999.99 "]}
