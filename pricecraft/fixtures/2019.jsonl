@@ -71,3 +71,4 @@
 {"expected": ["rug clear standard\nwith instructions", "home/auction/reissue", 3, 16.87], "id": "pricecraft-045", "input": ["rug clear standard\nwith instructions", " home/auction/reissue ", "3", "16.87"]}
 {"expected": ["linen watch strap studio", "secondhand/household", 2, 999999.99], "id": "pricecraft-extension-027", "input": ["linen watch strap studio", "secondhand/household", "2", " 999999.99 "]}
 {"expected": ["linen book stand studio", "secondhand/accessories", 3, 1e-07], "id": "pricecraft-extension-028", "input": ["linen book stand studio", "secondhand/accessories", "3", "1e-7"]}
+{"error": "price must be a number", "id": "pricecraft-extension-029", "input": ["linen tuner studio", "secondhand/equipment", "4", "1,25"]}
