@@ -73,3 +73,4 @@
 {"expected": ["linen book stand studio", "secondhand/accessories", 3, 1e-07], "id": "pricecraft-extension-028", "input": ["linen book stand studio", "secondhand/accessories", "3", "1e-7"]}
 {"error": "price must be a number", "id": "pricecraft-extension-029", "input": ["linen tuner studio", "secondhand/equipment", "4", "1,25"]}
 {"error": "price must be between", "id": "pricecraft-extension-030", "input": ["linen mortar studio", "secondhand/household", "5", "1e309"]}
+{"expected": ["children’s book clear standard", "books/outlet/reissue", 3, 0.0], "id": "pricecraft-046", "input": [" children’s book clear standard ", " books/outlet/reissue ", "3", "0"]}
