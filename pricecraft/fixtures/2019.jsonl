@@ -76,3 +76,4 @@
 {"expected": ["children’s book clear standard", "books/outlet/reissue", 3, 0.0], "id": "pricecraft-046", "input": [" children’s book clear standard ", " books/outlet/reissue ", "3", "0"]}
 {"expected": ["bamboo tripod studio", "secondhand/accessories", 1, 24.75], "id": "pricecraft-extension-031", "input": ["bamboo tripod studio", "secondhand/accessories", "1", " 24.75 "]}
 {"expected": ["desk light clear standard", "home/trade/reissue", 3, 1000000.0], "id": "pricecraft-047", "input": [" desk light clear standard ", " home/trade/reissue ", "3", "1000000"]}
+{"error": "price must be between", "id": "pricecraft-extension-032", "input": ["bamboo folding table studio", "secondhand/equipment", "2", "-Infinity"]}
