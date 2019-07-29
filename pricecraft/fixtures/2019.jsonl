@@ -80,3 +80,4 @@
 {"expected": ["trompeta clear standard", "music/consignment/reissue", 3, 250.0], "id": "pricecraft-048", "input": [" trompeta clear standard ", " music/consignment/reissue ", "3", "2.50e2"]}
 {"expected": ["bamboo mixer studio", "secondhand/household", 3, -0.0], "id": "pricecraft-extension-033", "input": ["bamboo mixer studio", "secondhand/household", "3", "-0"]}
 {"expected": ["bamboo telescope studio", "secondhand/accessories", 4, 12.5], "id": "pricecraft-extension-034", "input": ["bamboo telescope studio", "secondhand/accessories", "4", "+12.50"]}
+{"error": "price must be between", "id": "pricecraft-049", "input": [" ручка clear standard ", " stationery/direct/reissue ", "3", "NaN"]}
