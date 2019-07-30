@@ -82,3 +82,4 @@
 {"expected": ["bamboo telescope studio", "secondhand/accessories", 4, 12.5], "id": "pricecraft-extension-034", "input": ["bamboo telescope studio", "secondhand/accessories", "4", "+12.50"]}
 {"error": "price must be between", "id": "pricecraft-049", "input": [" ручка clear standard ", " stationery/direct/reissue ", "3", "NaN"]}
 {"expected": ["bamboo bicycle rack studio", "secondhand/equipment", 5, 999999.99], "id": "pricecraft-extension-035", "input": ["bamboo bicycle rack studio", "secondhand/equipment", "5", " 999999.99 "]}
+{"error": "price must be between", "id": "pricecraft-050", "input": [" case #1 clear standard ", " accessories/retail/modern ", "3", "-0.01"]}
