@@ -86,3 +86,4 @@
 {"expected": ["bamboo travel kettle studio", "secondhand/household", 1, 1e-07], "id": "pricecraft-extension-036", "input": ["bamboo travel kettle studio", "secondhand/household", "1", "1e-7"]}
 {"error": "price must be between", "id": "pricecraft-051", "input": [" sci-fi poster clear standard ", " art/resale/modern ", "3", "1000000.01"]}
 {"error": "price must be a number", "id": "pricecraft-052", "input": [" lamp natural standard ", " home/auction/modern ", "4", "not priced"]}
+{"error": "condition must be", "id": "pricecraft-053", "input": [" mug, ceramic natural standard ", " kitchen/outlet/modern ", "0", "19.83"]}
