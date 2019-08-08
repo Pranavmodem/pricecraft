@@ -87,3 +87,4 @@
 {"error": "price must be between", "id": "pricecraft-051", "input": [" sci-fi poster clear standard ", " art/resale/modern ", "3", "1000000.01"]}
 {"error": "price must be a number", "id": "pricecraft-052", "input": [" lamp natural standard ", " home/auction/modern ", "4", "not priced"]}
 {"error": "condition must be", "id": "pricecraft-053", "input": [" mug, ceramic natural standard ", " kitchen/outlet/modern ", "0", "19.83"]}
+{"error": "condition must be", "id": "pricecraft-054", "input": [" café grinder natural standard ", " kitchen/trade/modern ", "6", "20.20"]}
