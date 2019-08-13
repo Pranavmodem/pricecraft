@@ -89,3 +89,4 @@
 {"error": "condition must be", "id": "pricecraft-053", "input": [" mug, ceramic natural standard ", " kitchen/outlet/modern ", "0", "19.83"]}
 {"error": "condition must be", "id": "pricecraft-054", "input": [" café grinder natural standard ", " kitchen/trade/modern ", "6", "20.20"]}
 {"error": "condition must be", "id": "pricecraft-055", "input": [" 手袋 natural standard ", " clothing/consignment/modern ", "3.0", "20.57"]}
+{"error": "title and category", "id": "pricecraft-056", "input": [" ", " sports/direct/modern ", "4", "20.94"]}
