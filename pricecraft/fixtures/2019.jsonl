@@ -90,3 +90,4 @@
 {"error": "condition must be", "id": "pricecraft-054", "input": [" café grinder natural standard ", " kitchen/trade/modern ", "6", "20.20"]}
 {"error": "condition must be", "id": "pricecraft-055", "input": [" 手袋 natural standard ", " clothing/consignment/modern ", "3.0", "20.57"]}
 {"error": "title and category", "id": "pricecraft-056", "input": [" ", " sports/direct/modern ", "4", "20.94"]}
+{"error": "title and category", "id": "pricecraft-057", "input": [" o'neill jacket natural standard ", " ", "4", "21.31"]}
