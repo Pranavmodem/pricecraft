@@ -92,3 +92,4 @@
 {"error": "title and category", "id": "pricecraft-056", "input": [" ", " sports/direct/modern ", "4", "20.94"]}
 {"error": "title and category", "id": "pricecraft-057", "input": [" o'neill jacket natural standard ", " ", "4", "21.31"]}
 {"expected": ["10\" speaker natural standard", "audio/resale/vintage", 4, 21.68], "id": "pricecraft-058", "input": [" 10\" speaker natural standard ", " audio/resale/vintage ", "  4", "21.68"]}
+{"error": "price must be between", "id": "pricecraft-059", "input": [" camera body natural standard ", " electronics/auction/vintage ", "4", "inf"]}
