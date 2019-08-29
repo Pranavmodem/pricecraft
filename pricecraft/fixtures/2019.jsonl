@@ -93,3 +93,4 @@
 {"error": "title and category", "id": "pricecraft-057", "input": [" o'neill jacket natural standard ", " ", "4", "21.31"]}
 {"expected": ["10\" speaker natural standard", "audio/resale/vintage", 4, 21.68], "id": "pricecraft-058", "input": [" 10\" speaker natural standard ", " audio/resale/vintage ", "  4", "21.68"]}
 {"error": "price must be between", "id": "pricecraft-059", "input": [" camera body natural standard ", " electronics/auction/vintage ", "4", "inf"]}
+{"expected": ["wooden stool natural standard\nwith instructions", "home/outlet/vintage", 4, 22.42], "id": "pricecraft-060", "input": ["wooden stool natural standard\nwith instructions", " home/outlet/vintage ", "4", "22.42"]}
