@@ -95,3 +95,4 @@
 {"error": "price must be between", "id": "pricecraft-059", "input": [" camera body natural standard ", " electronics/auction/vintage ", "4", "inf"]}
 {"expected": ["wooden stool natural standard\nwith instructions", "home/outlet/vintage", 4, 22.42], "id": "pricecraft-060", "input": ["wooden stool natural standard\nwith instructions", " home/outlet/vintage ", "4", "22.42"]}
 {"expected": ["toy train natural standard", "collectibles/trade/vintage", 4, 0.0], "id": "pricecraft-061", "input": [" toy train natural standard ", " collectibles/trade/vintage ", "4", "0"]}
+{"expected": ["rug natural standard", "home/consignment/vintage", 4, 1000000.0], "id": "pricecraft-062", "input": [" rug natural standard ", " home/consignment/vintage ", "4", "1000000"]}
