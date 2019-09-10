@@ -99,3 +99,4 @@
 {"expected": ["children’s book natural standard", "books/direct/vintage", 4, 250.0], "id": "pricecraft-063", "input": [" children’s book natural standard ", " books/direct/vintage ", "4", "2.50e2"]}
 {"error": "price must be between", "id": "pricecraft-064", "input": [" desk light natural standard ", " home/retail/seasonal ", "4", "NaN"]}
 {"error": "price must be between", "id": "pricecraft-065", "input": [" trompeta natural standard ", " music/resale/seasonal ", "4", "-0.01"]}
+{"error": "price must be between", "id": "pricecraft-066", "input": [" ручка natural standard ", " stationery/auction/seasonal ", "4", "1000000.01"]}
