@@ -100,3 +100,4 @@
 {"error": "price must be between", "id": "pricecraft-064", "input": [" desk light natural standard ", " home/retail/seasonal ", "4", "NaN"]}
 {"error": "price must be between", "id": "pricecraft-065", "input": [" trompeta natural standard ", " music/resale/seasonal ", "4", "-0.01"]}
 {"error": "price must be between", "id": "pricecraft-066", "input": [" ручка natural standard ", " stationery/auction/seasonal ", "4", "1000000.01"]}
+{"error": "price must be a number", "id": "pricecraft-extension-037", "input": ["bamboo watch strap studio", "secondhand/accessories", "2", "1,25"]}
