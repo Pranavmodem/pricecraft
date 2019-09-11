@@ -103,3 +103,4 @@
 {"error": "price must be a number", "id": "pricecraft-extension-037", "input": ["bamboo watch strap studio", "secondhand/accessories", "2", "1,25"]}
 {"error": "price must be between", "id": "pricecraft-extension-038", "input": ["bamboo book stand studio", "secondhand/equipment", "3", "1e309"]}
 {"error": "price must be a number", "id": "pricecraft-067", "input": [" case #1 natural standard ", " accessories/outlet/seasonal ", "4", "not priced"]}
+{"expected": ["bamboo tuner studio", "secondhand/household", 4, 24.75], "id": "pricecraft-extension-039", "input": ["bamboo tuner studio", "secondhand/household", "4", " 24.75 "]}
