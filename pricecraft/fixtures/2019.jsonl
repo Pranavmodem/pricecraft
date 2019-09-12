@@ -104,3 +104,4 @@
 {"error": "price must be between", "id": "pricecraft-extension-038", "input": ["bamboo book stand studio", "secondhand/equipment", "3", "1e309"]}
 {"error": "price must be a number", "id": "pricecraft-067", "input": [" case #1 natural standard ", " accessories/outlet/seasonal ", "4", "not priced"]}
 {"expected": ["bamboo tuner studio", "secondhand/household", 4, 24.75], "id": "pricecraft-extension-039", "input": ["bamboo tuner studio", "secondhand/household", "4", " 24.75 "]}
+{"error": "condition must be", "id": "pricecraft-068", "input": [" sci-fi poster natural standard ", " art/trade/seasonal ", "0", "25.38"]}
