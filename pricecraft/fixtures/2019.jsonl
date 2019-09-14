@@ -108,3 +108,4 @@
 {"error": "price must be between", "id": "pricecraft-extension-040", "input": ["bamboo mortar studio", "secondhand/accessories", "5", "-Infinity"]}
 {"expected": ["steel tripod studio", "secondhand/equipment", 1, -0.0], "id": "pricecraft-extension-041", "input": ["steel tripod studio", "secondhand/equipment", "1", "-0"]}
 {"error": "condition must be", "id": "pricecraft-069", "input": [" lamp brushed standard ", " home/consignment/seasonal ", "6", "25.75"]}
+{"expected": ["steel folding table studio", "secondhand/household", 2, 12.5], "id": "pricecraft-extension-042", "input": ["steel folding table studio", "secondhand/household", "2", "+12.50"]}
