@@ -111,3 +111,4 @@
 {"expected": ["steel folding table studio", "secondhand/household", 2, 12.5], "id": "pricecraft-extension-042", "input": ["steel folding table studio", "secondhand/household", "2", "+12.50"]}
 {"error": "condition must be", "id": "pricecraft-070", "input": [" mug, ceramic brushed standard ", " kitchen/direct/seasonal ", "3.0", "26.12"]}
 {"expected": ["steel mixer studio", "secondhand/accessories", 3, 999999.99], "id": "pricecraft-extension-043", "input": ["steel mixer studio", "secondhand/accessories", "3", " 999999.99 "]}
+{"error": "title and category", "id": "pricecraft-071", "input": [" ", " kitchen/retail/basic ", "5", "26.49"]}
