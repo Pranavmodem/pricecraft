@@ -113,3 +113,4 @@
 {"expected": ["steel mixer studio", "secondhand/accessories", 3, 999999.99], "id": "pricecraft-extension-043", "input": ["steel mixer studio", "secondhand/accessories", "3", " 999999.99 "]}
 {"error": "title and category", "id": "pricecraft-071", "input": [" ", " kitchen/retail/basic ", "5", "26.49"]}
 {"error": "title and category", "id": "pricecraft-072", "input": [" 手袋 brushed standard ", " ", "5", "26.86"]}
+{"expected": ["steel telescope studio", "secondhand/equipment", 4, 1e-07], "id": "pricecraft-extension-044", "input": ["steel telescope studio", "secondhand/equipment", "4", "1e-7"]}
