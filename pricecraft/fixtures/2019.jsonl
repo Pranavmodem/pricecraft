@@ -114,3 +114,4 @@
 {"error": "title and category", "id": "pricecraft-071", "input": [" ", " kitchen/retail/basic ", "5", "26.49"]}
 {"error": "title and category", "id": "pricecraft-072", "input": [" 手袋 brushed standard ", " ", "5", "26.86"]}
 {"expected": ["steel telescope studio", "secondhand/equipment", 4, 1e-07], "id": "pricecraft-extension-044", "input": ["steel telescope studio", "secondhand/equipment", "4", "1e-7"]}
+{"expected": ["running shoes brushed standard", "sports/auction/basic", 5, 27.23], "id": "pricecraft-073", "input": [" running shoes brushed standard ", " sports/auction/basic ", "  5", "27.23"]}
