@@ -117,3 +117,4 @@
 {"expected": ["running shoes brushed standard", "sports/auction/basic", 5, 27.23], "id": "pricecraft-073", "input": [" running shoes brushed standard ", " sports/auction/basic ", "  5", "27.23"]}
 {"error": "price must be between", "id": "pricecraft-074", "input": [" o'neill jacket brushed standard ", " clothing/outlet/basic ", "5", "inf"]}
 {"expected": ["10\" speaker brushed standard\nwith instructions", "audio/trade/basic", 5, 27.97], "id": "pricecraft-075", "input": ["10\" speaker brushed standard\nwith instructions", " audio/trade/basic ", "5", "27.97"]}
+{"expected": ["camera body brushed standard", "electronics/consignment/basic", 5, 0.0], "id": "pricecraft-076", "input": [" camera body brushed standard ", " electronics/consignment/basic ", "5", "0"]}
