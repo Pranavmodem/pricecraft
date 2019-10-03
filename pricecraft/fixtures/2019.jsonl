@@ -119,3 +119,4 @@
 {"expected": ["10\" speaker brushed standard\nwith instructions", "audio/trade/basic", 5, 27.97], "id": "pricecraft-075", "input": ["10\" speaker brushed standard\nwith instructions", " audio/trade/basic ", "5", "27.97"]}
 {"expected": ["camera body brushed standard", "electronics/consignment/basic", 5, 0.0], "id": "pricecraft-076", "input": [" camera body brushed standard ", " electronics/consignment/basic ", "5", "0"]}
 {"expected": ["wooden stool brushed standard", "home/direct/basic", 5, 1000000.0], "id": "pricecraft-077", "input": [" wooden stool brushed standard ", " home/direct/basic ", "5", "1000000"]}
+{"expected": ["toy train brushed standard", "collectibles/retail/special", 5, 250.0], "id": "pricecraft-078", "input": [" toy train brushed standard ", " collectibles/retail/special ", "5", "2.50e2"]}
