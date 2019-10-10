@@ -123,3 +123,4 @@
 {"error": "price must be between", "id": "pricecraft-079", "input": [" rug brushed standard ", " home/resale/special ", "5", "NaN"]}
 {"error": "price must be between", "id": "pricecraft-080", "input": [" children’s book brushed standard ", " books/auction/special ", "5", "-0.01"]}
 {"error": "price must be between", "id": "pricecraft-081", "input": [" desk light brushed standard ", " home/outlet/special ", "5", "1000000.01"]}
+{"error": "price must be a number", "id": "pricecraft-082", "input": [" trompeta brushed standard ", " music/trade/special ", "5", "not priced"]}
