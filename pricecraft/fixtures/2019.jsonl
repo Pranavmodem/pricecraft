@@ -128,3 +128,4 @@
 {"error": "condition must be", "id": "pricecraft-084", "input": [" case #1 brushed standard ", " accessories/direct/special ", "6", "31.30"]}
 {"error": "condition must be", "id": "pricecraft-085", "input": [" sci-fi poster brushed standard ", " art/retail/assorted ", "3.0", "31.67"]}
 {"error": "title and category", "id": "pricecraft-086", "input": [" ", " home/resale/assorted ", "1", "32.04"]}
+{"error": "title and category", "id": "pricecraft-087", "input": [" mug, ceramic textured standard ", " ", "1", "32.41"]}
