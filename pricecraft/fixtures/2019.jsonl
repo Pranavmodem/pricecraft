@@ -133,3 +133,4 @@
 {"error": "price must be a number", "id": "pricecraft-extension-045", "input": ["steel bicycle rack studio", "secondhand/household", "5", "1,25"]}
 {"error": "price must be between", "id": "pricecraft-089", "input": [" 手袋 textured standard ", " clothing/trade/assorted ", "1", "inf"]}
 {"error": "price must be between", "id": "pricecraft-extension-046", "input": ["steel travel kettle studio", "secondhand/accessories", "1", "1e309"]}
+{"expected": ["running shoes textured standard\nwith instructions", "sports/consignment/assorted", 1, 33.52], "id": "pricecraft-090", "input": ["running shoes textured standard\nwith instructions", " sports/consignment/assorted ", "1", "33.52"]}
