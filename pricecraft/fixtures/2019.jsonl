@@ -135,3 +135,4 @@
 {"error": "price must be between", "id": "pricecraft-extension-046", "input": ["steel travel kettle studio", "secondhand/accessories", "1", "1e309"]}
 {"expected": ["running shoes textured standard\nwith instructions", "sports/consignment/assorted", 1, 33.52], "id": "pricecraft-090", "input": ["running shoes textured standard\nwith instructions", " sports/consignment/assorted ", "1", "33.52"]}
 {"expected": ["o'neill jacket textured standard", "clothing/direct/assorted", 1, 0.0], "id": "pricecraft-091", "input": [" o'neill jacket textured standard ", " clothing/direct/assorted ", "1", "0"]}
+{"expected": ["10\" speaker textured standard", "audio/retail/reissue", 1, 1000000.0], "id": "pricecraft-092", "input": [" 10\" speaker textured standard ", " audio/retail/reissue ", "1", "1000000"]}
