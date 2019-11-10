@@ -136,3 +136,4 @@
 {"expected": ["running shoes textured standard\nwith instructions", "sports/consignment/assorted", 1, 33.52], "id": "pricecraft-090", "input": ["running shoes textured standard\nwith instructions", " sports/consignment/assorted ", "1", "33.52"]}
 {"expected": ["o'neill jacket textured standard", "clothing/direct/assorted", 1, 0.0], "id": "pricecraft-091", "input": [" o'neill jacket textured standard ", " clothing/direct/assorted ", "1", "0"]}
 {"expected": ["10\" speaker textured standard", "audio/retail/reissue", 1, 1000000.0], "id": "pricecraft-092", "input": [" 10\" speaker textured standard ", " audio/retail/reissue ", "1", "1000000"]}
+{"expected": ["camera body textured standard", "electronics/resale/reissue", 1, 250.0], "id": "pricecraft-093", "input": [" camera body textured standard ", " electronics/resale/reissue ", "1", "2.50e2"]}
