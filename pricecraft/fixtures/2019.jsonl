@@ -139,3 +139,4 @@
 {"expected": ["camera body textured standard", "electronics/resale/reissue", 1, 250.0], "id": "pricecraft-093", "input": [" camera body textured standard ", " electronics/resale/reissue ", "1", "2.50e2"]}
 {"expected": ["steel watch strap studio", "secondhand/equipment", 2, 24.75], "id": "pricecraft-extension-047", "input": ["steel watch strap studio", "secondhand/equipment", "2", " 24.75 "]}
 {"error": "price must be between", "id": "pricecraft-094", "input": [" wooden stool textured standard ", " home/auction/reissue ", "1", "NaN"]}
+{"error": "price must be between", "id": "pricecraft-extension-048", "input": ["steel book stand studio", "secondhand/household", "3", "-Infinity"]}
