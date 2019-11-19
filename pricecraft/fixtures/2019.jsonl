@@ -140,3 +140,4 @@
 {"expected": ["steel watch strap studio", "secondhand/equipment", 2, 24.75], "id": "pricecraft-extension-047", "input": ["steel watch strap studio", "secondhand/equipment", "2", " 24.75 "]}
 {"error": "price must be between", "id": "pricecraft-094", "input": [" wooden stool textured standard ", " home/auction/reissue ", "1", "NaN"]}
 {"error": "price must be between", "id": "pricecraft-extension-048", "input": ["steel book stand studio", "secondhand/household", "3", "-Infinity"]}
+{"error": "price must be between", "id": "pricecraft-095", "input": [" toy train textured standard ", " collectibles/outlet/reissue ", "1", "-0.01"]}
