@@ -144,3 +144,4 @@
 {"error": "price must be between", "id": "pricecraft-096", "input": [" rug textured standard ", " home/trade/reissue ", "1", "1000000.01"]}
 {"expected": ["steel tuner studio", "secondhand/accessories", 4, -0.0], "id": "pricecraft-extension-049", "input": ["steel tuner studio", "secondhand/accessories", "4", "-0"]}
 {"error": "price must be a number", "id": "pricecraft-097", "input": [" children’s book textured standard ", " books/consignment/reissue ", "1", "not priced"]}
+{"expected": ["steel mortar studio", "secondhand/equipment", 5, 12.5], "id": "pricecraft-extension-050", "input": ["steel mortar studio", "secondhand/equipment", "5", "+12.50"]}
