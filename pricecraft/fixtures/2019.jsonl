@@ -147,3 +147,4 @@
 {"expected": ["steel mortar studio", "secondhand/equipment", 5, 12.5], "id": "pricecraft-extension-050", "input": ["steel mortar studio", "secondhand/equipment", "5", "+12.50"]}
 {"error": "condition must be", "id": "pricecraft-098", "input": [" desk light textured standard ", " home/direct/reissue ", "0", "36.48"]}
 {"error": "condition must be", "id": "pricecraft-099", "input": [" trompeta textured standard ", " music/retail/modern ", "6", "36.85"]}
+{"expected": ["leather tripod studio", "secondhand/household", 1, 999999.99], "id": "pricecraft-extension-051", "input": ["leather tripod studio", "secondhand/household", "1", " 999999.99 "]}
