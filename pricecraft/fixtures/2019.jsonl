@@ -149,3 +149,4 @@
 {"error": "condition must be", "id": "pricecraft-099", "input": [" trompeta textured standard ", " music/retail/modern ", "6", "36.85"]}
 {"expected": ["leather tripod studio", "secondhand/household", 1, 999999.99], "id": "pricecraft-extension-051", "input": ["leather tripod studio", "secondhand/household", "1", " 999999.99 "]}
 {"error": "condition must be", "id": "pricecraft-100", "input": [" ручка textured standard ", " stationery/resale/modern ", "3.0", "37.22"]}
+{"expected": ["leather folding table studio", "secondhand/accessories", 2, 1e-07], "id": "pricecraft-extension-052", "input": ["leather folding table studio", "secondhand/accessories", "2", "1e-7"]}
