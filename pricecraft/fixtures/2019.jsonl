@@ -152,3 +152,4 @@
 {"expected": ["leather folding table studio", "secondhand/accessories", 2, 1e-07], "id": "pricecraft-extension-052", "input": ["leather folding table studio", "secondhand/accessories", "2", "1e-7"]}
 {"error": "title and category", "id": "pricecraft-101", "input": [" ", " accessories/auction/modern ", "1", "37.59"]}
 {"error": "price must be a number", "id": "pricecraft-extension-053", "input": ["leather mixer studio", "secondhand/equipment", "3", "1,25"]}
+{"error": "price must be between", "id": "pricecraft-extension-054", "input": ["leather telescope studio", "secondhand/household", "4", "1e309"]}
