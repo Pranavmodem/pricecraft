@@ -153,3 +153,4 @@
 {"error": "title and category", "id": "pricecraft-101", "input": [" ", " accessories/auction/modern ", "1", "37.59"]}
 {"error": "price must be a number", "id": "pricecraft-extension-053", "input": ["leather mixer studio", "secondhand/equipment", "3", "1,25"]}
 {"error": "price must be between", "id": "pricecraft-extension-054", "input": ["leather telescope studio", "secondhand/household", "4", "1e309"]}
+{"error": "title and category", "id": "pricecraft-102", "input": [" sci-fi poster textured standard ", " ", "1", "37.96"]}
