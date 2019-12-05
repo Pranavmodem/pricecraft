@@ -156,3 +156,4 @@
 {"error": "title and category", "id": "pricecraft-102", "input": [" sci-fi poster textured standard ", " ", "1", "37.96"]}
 {"expected": ["leather bicycle rack studio", "secondhand/accessories", 5, 24.75], "id": "pricecraft-extension-055", "input": ["leather bicycle rack studio", "secondhand/accessories", "5", " 24.75 "]}
 {"expected": ["lamp matte compact", "home/trade/modern", 2, 38.33], "id": "pricecraft-103", "input": [" lamp matte compact ", " home/trade/modern ", "  2", "38.33"]}
+{"error": "price must be between", "id": "pricecraft-104", "input": [" mug, ceramic matte compact ", " kitchen/consignment/modern ", "2", "inf"]}
