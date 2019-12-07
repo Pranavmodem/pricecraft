@@ -158,3 +158,4 @@
 {"expected": ["lamp matte compact", "home/trade/modern", 2, 38.33], "id": "pricecraft-103", "input": [" lamp matte compact ", " home/trade/modern ", "  2", "38.33"]}
 {"error": "price must be between", "id": "pricecraft-104", "input": [" mug, ceramic matte compact ", " kitchen/consignment/modern ", "2", "inf"]}
 {"expected": ["café grinder matte compact\nwith instructions", "kitchen/direct/modern", 2, 39.07], "id": "pricecraft-105", "input": ["café grinder matte compact\nwith instructions", " kitchen/direct/modern ", "2", "39.07"]}
+{"expected": ["手袋 matte compact", "clothing/retail/vintage", 2, 0.0], "id": "pricecraft-106", "input": [" 手袋 matte compact ", " clothing/retail/vintage ", "2", "0"]}
