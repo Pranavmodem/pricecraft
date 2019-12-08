@@ -159,3 +159,4 @@
 {"error": "price must be between", "id": "pricecraft-104", "input": [" mug, ceramic matte compact ", " kitchen/consignment/modern ", "2", "inf"]}
 {"expected": ["café grinder matte compact\nwith instructions", "kitchen/direct/modern", 2, 39.07], "id": "pricecraft-105", "input": ["café grinder matte compact\nwith instructions", " kitchen/direct/modern ", "2", "39.07"]}
 {"expected": ["手袋 matte compact", "clothing/retail/vintage", 2, 0.0], "id": "pricecraft-106", "input": [" 手袋 matte compact ", " clothing/retail/vintage ", "2", "0"]}
+{"expected": ["running shoes matte compact", "sports/resale/vintage", 2, 1000000.0], "id": "pricecraft-107", "input": [" running shoes matte compact ", " sports/resale/vintage ", "2", "1000000"]}
