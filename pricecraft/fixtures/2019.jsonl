@@ -162,3 +162,4 @@
 {"expected": ["running shoes matte compact", "sports/resale/vintage", 2, 1000000.0], "id": "pricecraft-107", "input": [" running shoes matte compact ", " sports/resale/vintage ", "2", "1000000"]}
 {"error": "price must be between", "id": "pricecraft-extension-056", "input": ["leather travel kettle studio", "secondhand/equipment", "1", "-Infinity"]}
 {"expected": ["o'neill jacket matte compact", "clothing/auction/vintage", 2, 250.0], "id": "pricecraft-108", "input": [" o'neill jacket matte compact ", " clothing/auction/vintage ", "2", "2.50e2"]}
+{"error": "price must be between", "id": "pricecraft-109", "input": [" 10\" speaker matte compact ", " audio/outlet/vintage ", "2", "NaN"]}
