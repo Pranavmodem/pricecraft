@@ -166,3 +166,4 @@
 {"error": "price must be between", "id": "pricecraft-110", "input": [" camera body matte compact ", " electronics/trade/vintage ", "2", "-0.01"]}
 {"error": "price must be between", "id": "pricecraft-111", "input": [" wooden stool matte compact ", " home/consignment/vintage ", "2", "1000000.01"]}
 {"error": "price must be a number", "id": "pricecraft-112", "input": [" toy train matte compact ", " collectibles/direct/vintage ", "2", "not priced"]}
+{"error": "condition must be", "id": "pricecraft-113", "input": [" rug matte compact ", " home/retail/seasonal ", "0", "42.03"]}
