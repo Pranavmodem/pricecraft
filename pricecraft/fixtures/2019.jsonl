@@ -168,3 +168,4 @@
 {"error": "price must be a number", "id": "pricecraft-112", "input": [" toy train matte compact ", " collectibles/direct/vintage ", "2", "not priced"]}
 {"error": "condition must be", "id": "pricecraft-113", "input": [" rug matte compact ", " home/retail/seasonal ", "0", "42.03"]}
 {"error": "condition must be", "id": "pricecraft-114", "input": [" children’s book matte compact ", " books/resale/seasonal ", "6", "42.40"]}
+{"error": "condition must be", "id": "pricecraft-115", "input": [" desk light matte compact ", " home/auction/seasonal ", "3.0", "42.77"]}
