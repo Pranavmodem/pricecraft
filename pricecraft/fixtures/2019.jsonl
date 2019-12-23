@@ -171,3 +171,4 @@
 {"error": "condition must be", "id": "pricecraft-115", "input": [" desk light matte compact ", " home/auction/seasonal ", "3.0", "42.77"]}
 {"error": "title and category", "id": "pricecraft-116", "input": [" ", " music/outlet/seasonal ", "2", "43.14"]}
 {"error": "title and category", "id": "pricecraft-117", "input": [" ручка matte compact ", " ", "2", "43.51"]}
+{"expected": ["case #1 matte compact", "accessories/consignment/seasonal", 2, 43.88], "id": "pricecraft-118", "input": [" case #1 matte compact ", " accessories/consignment/seasonal ", "  2", "43.88"]}
