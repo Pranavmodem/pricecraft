@@ -170,3 +170,4 @@
 {"error": "condition must be", "id": "pricecraft-114", "input": [" children’s book matte compact ", " books/resale/seasonal ", "6", "42.40"]}
 {"error": "condition must be", "id": "pricecraft-115", "input": [" desk light matte compact ", " home/auction/seasonal ", "3.0", "42.77"]}
 {"error": "title and category", "id": "pricecraft-116", "input": [" ", " music/outlet/seasonal ", "2", "43.14"]}
+{"error": "title and category", "id": "pricecraft-117", "input": [" ручка matte compact ", " ", "2", "43.51"]}
