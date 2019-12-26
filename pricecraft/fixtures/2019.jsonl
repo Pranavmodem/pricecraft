@@ -172,3 +172,4 @@
 {"error": "title and category", "id": "pricecraft-116", "input": [" ", " music/outlet/seasonal ", "2", "43.14"]}
 {"error": "title and category", "id": "pricecraft-117", "input": [" ручка matte compact ", " ", "2", "43.51"]}
 {"expected": ["case #1 matte compact", "accessories/consignment/seasonal", 2, 43.88], "id": "pricecraft-118", "input": [" case #1 matte compact ", " accessories/consignment/seasonal ", "  2", "43.88"]}
+{"error": "price must be between", "id": "pricecraft-119", "input": [" sci-fi poster matte compact ", " art/direct/seasonal ", "2", "inf"]}
