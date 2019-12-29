@@ -173,3 +173,4 @@
 {"error": "title and category", "id": "pricecraft-117", "input": [" ручка matte compact ", " ", "2", "43.51"]}
 {"expected": ["case #1 matte compact", "accessories/consignment/seasonal", 2, 43.88], "id": "pricecraft-118", "input": [" case #1 matte compact ", " accessories/consignment/seasonal ", "  2", "43.88"]}
 {"error": "price must be between", "id": "pricecraft-119", "input": [" sci-fi poster matte compact ", " art/direct/seasonal ", "2", "inf"]}
+{"expected": ["lamp gloss compact\nwith instructions", "home/retail/basic", 3, 44.62], "id": "pricecraft-120", "input": ["lamp gloss compact\nwith instructions", " home/retail/basic ", "3", "44.62"]}
