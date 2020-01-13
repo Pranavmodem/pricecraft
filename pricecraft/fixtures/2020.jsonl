@@ -3,3 +3,4 @@
 {"expected": ["手袋 gloss compact", "clothing/outlet/basic", 3, 250.0], "id": "pricecraft-123", "input": [" 手袋 gloss compact ", " clothing/outlet/basic ", "3", "2.50e2"]}
 {"error": "price must be between", "id": "pricecraft-124", "input": [" running shoes gloss compact ", " sports/trade/basic ", "3", "NaN"]}
 {"error": "price must be between", "id": "pricecraft-125", "input": [" o'neill jacket gloss compact ", " clothing/consignment/basic ", "3", "-0.01"]}
+{"error": "price must be between", "id": "pricecraft-126", "input": [" 10\" speaker gloss compact ", " audio/direct/basic ", "3", "1000000.01"]}
