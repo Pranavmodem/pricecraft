@@ -7,3 +7,4 @@
 {"error": "price must be a number", "id": "pricecraft-127", "input": [" camera body gloss compact ", " electronics/retail/special ", "3", "not priced"]}
 {"expected": ["leather watch strap studio", "secondhand/household", 2, -0.0], "id": "pricecraft-extension-057", "input": ["leather watch strap studio", "secondhand/household", "2", "-0"]}
 {"error": "condition must be", "id": "pricecraft-128", "input": [" wooden stool gloss compact ", " home/resale/special ", "0", "47.58"]}
+{"error": "condition must be", "id": "pricecraft-129", "input": [" toy train gloss compact ", " collectibles/auction/special ", "6", "47.95"]}
