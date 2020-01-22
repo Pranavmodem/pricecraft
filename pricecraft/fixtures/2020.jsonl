@@ -9,3 +9,4 @@
 {"error": "condition must be", "id": "pricecraft-128", "input": [" wooden stool gloss compact ", " home/resale/special ", "0", "47.58"]}
 {"error": "condition must be", "id": "pricecraft-129", "input": [" toy train gloss compact ", " collectibles/auction/special ", "6", "47.95"]}
 {"expected": ["leather book stand studio", "secondhand/accessories", 3, 12.5], "id": "pricecraft-extension-058", "input": ["leather book stand studio", "secondhand/accessories", "3", "+12.50"]}
+{"error": "condition must be", "id": "pricecraft-130", "input": [" rug gloss compact ", " home/outlet/special ", "3.0", "48.32"]}
