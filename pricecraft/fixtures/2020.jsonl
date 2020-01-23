@@ -12,3 +12,4 @@
 {"error": "condition must be", "id": "pricecraft-130", "input": [" rug gloss compact ", " home/outlet/special ", "3.0", "48.32"]}
 {"expected": ["leather tuner studio", "secondhand/equipment", 4, 999999.99], "id": "pricecraft-extension-059", "input": ["leather tuner studio", "secondhand/equipment", "4", " 999999.99 "]}
 {"error": "title and category", "id": "pricecraft-131", "input": [" ", " books/trade/special ", "3", "48.69"]}
+{"expected": ["leather mortar studio", "secondhand/household", 5, 1e-07], "id": "pricecraft-extension-060", "input": ["leather mortar studio", "secondhand/household", "5", "1e-7"]}
