@@ -17,3 +17,4 @@
 {"error": "title and category", "id": "pricecraft-132", "input": [" desk light gloss compact ", " ", "3", "49.06"]}
 {"error": "price must be between", "id": "pricecraft-extension-062", "input": ["aluminum folding table travel", "secondhand/equipment", "2", "1e309"]}
 {"expected": ["trompeta gloss compact", "music/direct/special", 3, 49.43], "id": "pricecraft-133", "input": [" trompeta gloss compact ", " music/direct/special ", "  3", "49.43"]}
+{"expected": ["aluminum mixer travel", "secondhand/household", 3, 24.75], "id": "pricecraft-extension-063", "input": ["aluminum mixer travel", "secondhand/household", "3", " 24.75 "]}
