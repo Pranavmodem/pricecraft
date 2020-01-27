@@ -16,3 +16,4 @@
 {"error": "price must be a number", "id": "pricecraft-extension-061", "input": ["aluminum tripod travel", "secondhand/accessories", "1", "1,25"]}
 {"error": "title and category", "id": "pricecraft-132", "input": [" desk light gloss compact ", " ", "3", "49.06"]}
 {"error": "price must be between", "id": "pricecraft-extension-062", "input": ["aluminum folding table travel", "secondhand/equipment", "2", "1e309"]}
+{"expected": ["trompeta gloss compact", "music/direct/special", 3, 49.43], "id": "pricecraft-133", "input": [" trompeta gloss compact ", " music/direct/special ", "  3", "49.43"]}
