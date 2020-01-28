@@ -18,3 +18,4 @@
 {"error": "price must be between", "id": "pricecraft-extension-062", "input": ["aluminum folding table travel", "secondhand/equipment", "2", "1e309"]}
 {"expected": ["trompeta gloss compact", "music/direct/special", 3, 49.43], "id": "pricecraft-133", "input": [" trompeta gloss compact ", " music/direct/special ", "  3", "49.43"]}
 {"expected": ["aluminum mixer travel", "secondhand/household", 3, 24.75], "id": "pricecraft-extension-063", "input": ["aluminum mixer travel", "secondhand/household", "3", " 24.75 "]}
+{"error": "price must be between", "id": "pricecraft-134", "input": [" ручка gloss compact ", " stationery/retail/assorted ", "3", "inf"]}
