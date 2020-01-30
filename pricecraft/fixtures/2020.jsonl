@@ -20,3 +20,4 @@
 {"expected": ["aluminum mixer travel", "secondhand/household", 3, 24.75], "id": "pricecraft-extension-063", "input": ["aluminum mixer travel", "secondhand/household", "3", " 24.75 "]}
 {"error": "price must be between", "id": "pricecraft-134", "input": [" ручка gloss compact ", " stationery/retail/assorted ", "3", "inf"]}
 {"error": "price must be between", "id": "pricecraft-extension-064", "input": ["aluminum telescope travel", "secondhand/accessories", "4", "-Infinity"]}
+{"expected": ["case #1 gloss compact\nwith instructions", "accessories/resale/assorted", 3, 50.17], "id": "pricecraft-135", "input": ["case #1 gloss compact\nwith instructions", " accessories/resale/assorted ", "3", "50.17"]}
