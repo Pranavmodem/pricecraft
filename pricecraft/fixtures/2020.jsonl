@@ -23,3 +23,4 @@
 {"expected": ["case #1 gloss compact\nwith instructions", "accessories/resale/assorted", 3, 50.17], "id": "pricecraft-135", "input": ["case #1 gloss compact\nwith instructions", " accessories/resale/assorted ", "3", "50.17"]}
 {"expected": ["sci-fi poster gloss compact", "art/auction/assorted", 3, 0.0], "id": "pricecraft-136", "input": [" sci-fi poster gloss compact ", " art/auction/assorted ", "3", "0"]}
 {"expected": ["lamp clear compact", "home/outlet/assorted", 4, 1000000.0], "id": "pricecraft-137", "input": [" lamp clear compact ", " home/outlet/assorted ", "4", "1000000"]}
+{"expected": ["mug, ceramic clear compact", "kitchen/trade/assorted", 4, 250.0], "id": "pricecraft-138", "input": [" mug, ceramic clear compact ", " kitchen/trade/assorted ", "4", "2.50e2"]}
