@@ -26,3 +26,4 @@
 {"expected": ["mug, ceramic clear compact", "kitchen/trade/assorted", 4, 250.0], "id": "pricecraft-138", "input": [" mug, ceramic clear compact ", " kitchen/trade/assorted ", "4", "2.50e2"]}
 {"error": "price must be between", "id": "pricecraft-139", "input": [" café grinder clear compact ", " kitchen/consignment/assorted ", "4", "NaN"]}
 {"error": "price must be between", "id": "pricecraft-140", "input": [" 手袋 clear compact ", " clothing/direct/assorted ", "4", "-0.01"]}
+{"error": "price must be between", "id": "pricecraft-141", "input": [" running shoes clear compact ", " sports/retail/reissue ", "4", "1000000.01"]}
