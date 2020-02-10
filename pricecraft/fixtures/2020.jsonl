@@ -27,3 +27,4 @@
 {"error": "price must be between", "id": "pricecraft-139", "input": [" café grinder clear compact ", " kitchen/consignment/assorted ", "4", "NaN"]}
 {"error": "price must be between", "id": "pricecraft-140", "input": [" 手袋 clear compact ", " clothing/direct/assorted ", "4", "-0.01"]}
 {"error": "price must be between", "id": "pricecraft-141", "input": [" running shoes clear compact ", " sports/retail/reissue ", "4", "1000000.01"]}
+{"error": "price must be a number", "id": "pricecraft-142", "input": [" o'neill jacket clear compact ", " clothing/resale/reissue ", "4", "not priced"]}
