@@ -30,3 +30,4 @@
 {"error": "price must be a number", "id": "pricecraft-142", "input": [" o'neill jacket clear compact ", " clothing/resale/reissue ", "4", "not priced"]}
 {"error": "condition must be", "id": "pricecraft-143", "input": [" 10\" speaker clear compact ", " audio/auction/reissue ", "0", "53.13"]}
 {"error": "condition must be", "id": "pricecraft-144", "input": [" camera body clear compact ", " electronics/outlet/reissue ", "6", "53.50"]}
+{"error": "condition must be", "id": "pricecraft-145", "input": [" wooden stool clear compact ", " home/trade/reissue ", "3.0", "53.87"]}
