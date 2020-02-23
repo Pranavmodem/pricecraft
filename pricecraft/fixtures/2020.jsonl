@@ -32,3 +32,4 @@
 {"error": "condition must be", "id": "pricecraft-144", "input": [" camera body clear compact ", " electronics/outlet/reissue ", "6", "53.50"]}
 {"error": "condition must be", "id": "pricecraft-145", "input": [" wooden stool clear compact ", " home/trade/reissue ", "3.0", "53.87"]}
 {"error": "title and category", "id": "pricecraft-146", "input": [" ", " collectibles/consignment/reissue ", "4", "54.24"]}
+{"error": "title and category", "id": "pricecraft-147", "input": [" rug clear compact ", " ", "4", "54.61"]}
