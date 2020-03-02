@@ -38,3 +38,4 @@
 {"expected": ["trompeta clear compact\nwith instructions", "music/auction/modern", 4, 55.72], "id": "pricecraft-150", "input": ["trompeta clear compact\nwith instructions", " music/auction/modern ", "4", "55.72"]}
 {"expected": ["ручка clear compact", "stationery/outlet/modern", 4, 0.0], "id": "pricecraft-151", "input": [" ручка clear compact ", " stationery/outlet/modern ", "4", "0"]}
 {"expected": ["case #1 clear compact", "accessories/trade/modern", 4, 1000000.0], "id": "pricecraft-152", "input": [" case #1 clear compact ", " accessories/trade/modern ", "4", "1000000"]}
+{"expected": ["sci-fi poster clear compact", "art/consignment/modern", 4, 250.0], "id": "pricecraft-153", "input": [" sci-fi poster clear compact ", " art/consignment/modern ", "4", "2.50e2"]}
