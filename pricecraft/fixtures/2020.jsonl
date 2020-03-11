@@ -42,3 +42,4 @@
 {"error": "price must be between", "id": "pricecraft-154", "input": [" lamp natural compact ", " home/direct/modern ", "5", "NaN"]}
 {"error": "price must be between", "id": "pricecraft-155", "input": [" mug, ceramic natural compact ", " kitchen/retail/vintage ", "5", "-0.01"]}
 {"error": "price must be between", "id": "pricecraft-156", "input": [" café grinder natural compact ", " kitchen/resale/vintage ", "5", "1000000.01"]}
+{"error": "price must be a number", "id": "pricecraft-157", "input": [" 手袋 natural compact ", " clothing/auction/vintage ", "5", "not priced"]}
