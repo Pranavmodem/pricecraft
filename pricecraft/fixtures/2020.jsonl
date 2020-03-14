@@ -45,3 +45,4 @@
 {"error": "price must be a number", "id": "pricecraft-157", "input": [" 手袋 natural compact ", " clothing/auction/vintage ", "5", "not priced"]}
 {"error": "condition must be", "id": "pricecraft-158", "input": [" running shoes natural compact ", " sports/outlet/vintage ", "0", "58.68"]}
 {"error": "condition must be", "id": "pricecraft-159", "input": [" o'neill jacket natural compact ", " clothing/trade/vintage ", "6", "59.05"]}
+{"expected": ["aluminum bicycle rack travel", "secondhand/equipment", 5, -0.0], "id": "pricecraft-extension-065", "input": ["aluminum bicycle rack travel", "secondhand/equipment", "5", "-0"]}
