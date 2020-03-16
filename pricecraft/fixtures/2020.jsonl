@@ -49,3 +49,4 @@
 {"error": "condition must be", "id": "pricecraft-160", "input": [" 10\" speaker natural compact ", " audio/consignment/vintage ", "3.0", "59.42"]}
 {"error": "title and category", "id": "pricecraft-161", "input": [" ", " electronics/direct/vintage ", "5", "59.79"]}
 {"expected": ["aluminum travel kettle travel", "secondhand/household", 1, 12.5], "id": "pricecraft-extension-066", "input": ["aluminum travel kettle travel", "secondhand/household", "1", "+12.50"]}
+{"expected": ["aluminum watch strap travel", "secondhand/accessories", 2, 999999.99], "id": "pricecraft-extension-067", "input": ["aluminum watch strap travel", "secondhand/accessories", "2", " 999999.99 "]}
