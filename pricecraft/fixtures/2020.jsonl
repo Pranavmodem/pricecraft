@@ -52,3 +52,4 @@
 {"expected": ["aluminum watch strap travel", "secondhand/accessories", 2, 999999.99], "id": "pricecraft-extension-067", "input": ["aluminum watch strap travel", "secondhand/accessories", "2", " 999999.99 "]}
 {"expected": ["aluminum book stand travel", "secondhand/equipment", 3, 1e-07], "id": "pricecraft-extension-068", "input": ["aluminum book stand travel", "secondhand/equipment", "3", "1e-7"]}
 {"error": "price must be a number", "id": "pricecraft-extension-069", "input": ["aluminum tuner travel", "secondhand/household", "4", "1,25"]}
+{"error": "price must be between", "id": "pricecraft-extension-070", "input": ["aluminum mortar travel", "secondhand/accessories", "5", "1e309"]}
