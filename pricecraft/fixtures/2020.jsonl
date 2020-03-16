@@ -51,3 +51,4 @@
 {"expected": ["aluminum travel kettle travel", "secondhand/household", 1, 12.5], "id": "pricecraft-extension-066", "input": ["aluminum travel kettle travel", "secondhand/household", "1", "+12.50"]}
 {"expected": ["aluminum watch strap travel", "secondhand/accessories", 2, 999999.99], "id": "pricecraft-extension-067", "input": ["aluminum watch strap travel", "secondhand/accessories", "2", " 999999.99 "]}
 {"expected": ["aluminum book stand travel", "secondhand/equipment", 3, 1e-07], "id": "pricecraft-extension-068", "input": ["aluminum book stand travel", "secondhand/equipment", "3", "1e-7"]}
+{"error": "price must be a number", "id": "pricecraft-extension-069", "input": ["aluminum tuner travel", "secondhand/household", "4", "1,25"]}
