@@ -55,3 +55,4 @@
 {"error": "price must be between", "id": "pricecraft-extension-070", "input": ["aluminum mortar travel", "secondhand/accessories", "5", "1e309"]}
 {"error": "title and category", "id": "pricecraft-162", "input": [" wooden stool natural compact ", " ", "5", "60.16"]}
 {"expected": ["ceramic tripod travel", "secondhand/equipment", 1, 24.75], "id": "pricecraft-extension-071", "input": ["ceramic tripod travel", "secondhand/equipment", "1", " 24.75 "]}
+{"error": "price must be between", "id": "pricecraft-extension-072", "input": ["ceramic folding table travel", "secondhand/household", "2", "-Infinity"]}
