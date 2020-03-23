@@ -58,3 +58,4 @@
 {"error": "price must be between", "id": "pricecraft-extension-072", "input": ["ceramic folding table travel", "secondhand/household", "2", "-Infinity"]}
 {"expected": ["toy train natural compact", "collectibles/resale/seasonal", 5, 60.53], "id": "pricecraft-163", "input": [" toy train natural compact ", " collectibles/resale/seasonal ", "  5", "60.53"]}
 {"expected": ["ceramic mixer travel", "secondhand/accessories", 3, -0.0], "id": "pricecraft-extension-073", "input": ["ceramic mixer travel", "secondhand/accessories", "3", "-0"]}
+{"error": "price must be between", "id": "pricecraft-164", "input": [" rug natural compact ", " home/auction/seasonal ", "5", "inf"]}
