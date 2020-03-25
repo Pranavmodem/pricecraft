@@ -61,3 +61,4 @@
 {"error": "price must be between", "id": "pricecraft-164", "input": [" rug natural compact ", " home/auction/seasonal ", "5", "inf"]}
 {"expected": ["children’s book natural compact\nwith instructions", "books/outlet/seasonal", 5, 61.27], "id": "pricecraft-165", "input": ["children’s book natural compact\nwith instructions", " books/outlet/seasonal ", "5", "61.27"]}
 {"expected": ["desk light natural compact", "home/trade/seasonal", 5, 0.0], "id": "pricecraft-166", "input": [" desk light natural compact ", " home/trade/seasonal ", "5", "0"]}
+{"expected": ["ceramic telescope travel", "secondhand/equipment", 4, 12.5], "id": "pricecraft-extension-074", "input": ["ceramic telescope travel", "secondhand/equipment", "4", "+12.50"]}
