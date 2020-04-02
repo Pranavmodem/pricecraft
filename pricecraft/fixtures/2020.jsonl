@@ -65,3 +65,4 @@
 {"expected": ["trompeta natural compact", "music/consignment/seasonal", 5, 1000000.0], "id": "pricecraft-167", "input": [" trompeta natural compact ", " music/consignment/seasonal ", "5", "1000000"]}
 {"expected": ["ручка natural compact", "stationery/direct/seasonal", 5, 250.0], "id": "pricecraft-168", "input": [" ручка natural compact ", " stationery/direct/seasonal ", "5", "2.50e2"]}
 {"error": "price must be between", "id": "pricecraft-169", "input": [" case #1 natural compact ", " accessories/retail/basic ", "5", "NaN"]}
+{"error": "price must be between", "id": "pricecraft-170", "input": [" sci-fi poster natural compact ", " art/resale/basic ", "5", "-0.01"]}
