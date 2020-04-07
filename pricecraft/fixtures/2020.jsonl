@@ -68,3 +68,4 @@
 {"error": "price must be between", "id": "pricecraft-170", "input": [" sci-fi poster natural compact ", " art/resale/basic ", "5", "-0.01"]}
 {"error": "price must be between", "id": "pricecraft-171", "input": [" lamp brushed compact ", " home/auction/basic ", "1", "1000000.01"]}
 {"error": "price must be a number", "id": "pricecraft-172", "input": [" mug, ceramic brushed compact ", " kitchen/outlet/basic ", "1", "not priced"]}
+{"error": "condition must be", "id": "pricecraft-173", "input": [" café grinder brushed compact ", " kitchen/trade/basic ", "0", "64.23"]}
