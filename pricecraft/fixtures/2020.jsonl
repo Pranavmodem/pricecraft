@@ -71,3 +71,4 @@
 {"error": "condition must be", "id": "pricecraft-173", "input": [" café grinder brushed compact ", " kitchen/trade/basic ", "0", "64.23"]}
 {"error": "condition must be", "id": "pricecraft-174", "input": [" 手袋 brushed compact ", " clothing/consignment/basic ", "6", "64.60"]}
 {"error": "condition must be", "id": "pricecraft-175", "input": [" running shoes brushed compact ", " sports/direct/basic ", "3.0", "64.97"]}
+{"error": "title and category", "id": "pricecraft-176", "input": [" ", " clothing/retail/special ", "1", "65.34"]}
