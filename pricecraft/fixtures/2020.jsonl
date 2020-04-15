@@ -72,3 +72,4 @@
 {"error": "condition must be", "id": "pricecraft-174", "input": [" 手袋 brushed compact ", " clothing/consignment/basic ", "6", "64.60"]}
 {"error": "condition must be", "id": "pricecraft-175", "input": [" running shoes brushed compact ", " sports/direct/basic ", "3.0", "64.97"]}
 {"error": "title and category", "id": "pricecraft-176", "input": [" ", " clothing/retail/special ", "1", "65.34"]}
+{"error": "title and category", "id": "pricecraft-177", "input": [" 10\" speaker brushed compact ", " ", "1", "65.71"]}
