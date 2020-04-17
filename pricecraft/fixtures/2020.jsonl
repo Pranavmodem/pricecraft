@@ -74,3 +74,4 @@
 {"error": "title and category", "id": "pricecraft-176", "input": [" ", " clothing/retail/special ", "1", "65.34"]}
 {"error": "title and category", "id": "pricecraft-177", "input": [" 10\" speaker brushed compact ", " ", "1", "65.71"]}
 {"expected": ["camera body brushed compact", "electronics/auction/special", 1, 66.08], "id": "pricecraft-178", "input": [" camera body brushed compact ", " electronics/auction/special ", "  1", "66.08"]}
+{"error": "price must be between", "id": "pricecraft-179", "input": [" wooden stool brushed compact ", " home/outlet/special ", "1", "inf"]}
