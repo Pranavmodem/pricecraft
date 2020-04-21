@@ -76,3 +76,4 @@
 {"expected": ["camera body brushed compact", "electronics/auction/special", 1, 66.08], "id": "pricecraft-178", "input": [" camera body brushed compact ", " electronics/auction/special ", "  1", "66.08"]}
 {"error": "price must be between", "id": "pricecraft-179", "input": [" wooden stool brushed compact ", " home/outlet/special ", "1", "inf"]}
 {"expected": ["toy train brushed compact\nwith instructions", "collectibles/trade/special", 1, 66.82], "id": "pricecraft-180", "input": ["toy train brushed compact\nwith instructions", " collectibles/trade/special ", "1", "66.82"]}
+{"expected": ["rug brushed compact", "home/consignment/special", 1, 0.0], "id": "pricecraft-181", "input": [" rug brushed compact ", " home/consignment/special ", "1", "0"]}
