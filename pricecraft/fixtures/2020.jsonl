@@ -77,3 +77,4 @@
 {"error": "price must be between", "id": "pricecraft-179", "input": [" wooden stool brushed compact ", " home/outlet/special ", "1", "inf"]}
 {"expected": ["toy train brushed compact\nwith instructions", "collectibles/trade/special", 1, 66.82], "id": "pricecraft-180", "input": ["toy train brushed compact\nwith instructions", " collectibles/trade/special ", "1", "66.82"]}
 {"expected": ["rug brushed compact", "home/consignment/special", 1, 0.0], "id": "pricecraft-181", "input": [" rug brushed compact ", " home/consignment/special ", "1", "0"]}
+{"expected": ["children’s book brushed compact", "books/direct/special", 1, 1000000.0], "id": "pricecraft-182", "input": [" children’s book brushed compact ", " books/direct/special ", "1", "1000000"]}
