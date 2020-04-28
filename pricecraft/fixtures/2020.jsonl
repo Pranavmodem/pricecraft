@@ -81,3 +81,4 @@
 {"expected": ["ceramic bicycle rack travel", "secondhand/household", 5, 999999.99], "id": "pricecraft-extension-075", "input": ["ceramic bicycle rack travel", "secondhand/household", "5", " 999999.99 "]}
 {"expected": ["desk light brushed compact", "home/retail/assorted", 1, 250.0], "id": "pricecraft-183", "input": [" desk light brushed compact ", " home/retail/assorted ", "1", "2.50e2"]}
 {"error": "price must be between", "id": "pricecraft-184", "input": [" trompeta brushed compact ", " music/resale/assorted ", "1", "NaN"]}
+{"expected": ["ceramic travel kettle travel", "secondhand/accessories", 1, 1e-07], "id": "pricecraft-extension-076", "input": ["ceramic travel kettle travel", "secondhand/accessories", "1", "1e-7"]}
