@@ -82,3 +82,4 @@
 {"expected": ["desk light brushed compact", "home/retail/assorted", 1, 250.0], "id": "pricecraft-183", "input": [" desk light brushed compact ", " home/retail/assorted ", "1", "2.50e2"]}
 {"error": "price must be between", "id": "pricecraft-184", "input": [" trompeta brushed compact ", " music/resale/assorted ", "1", "NaN"]}
 {"expected": ["ceramic travel kettle travel", "secondhand/accessories", 1, 1e-07], "id": "pricecraft-extension-076", "input": ["ceramic travel kettle travel", "secondhand/accessories", "1", "1e-7"]}
+{"error": "price must be between", "id": "pricecraft-185", "input": [" ручка brushed compact ", " stationery/auction/assorted ", "1", "-0.01"]}
