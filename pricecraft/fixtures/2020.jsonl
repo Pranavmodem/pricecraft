@@ -88,3 +88,4 @@
 {"error": "price must be between", "id": "pricecraft-extension-078", "input": ["ceramic book stand travel", "secondhand/household", "3", "1e309"]}
 {"error": "price must be a number", "id": "pricecraft-187", "input": [" sci-fi poster brushed compact ", " art/trade/assorted ", "1", "not priced"]}
 {"expected": ["ceramic tuner travel", "secondhand/accessories", 4, 24.75], "id": "pricecraft-extension-079", "input": ["ceramic tuner travel", "secondhand/accessories", "4", " 24.75 "]}
+{"error": "price must be between", "id": "pricecraft-extension-080", "input": ["ceramic mortar travel", "secondhand/equipment", "5", "-Infinity"]}
