@@ -91,3 +91,4 @@
 {"error": "price must be between", "id": "pricecraft-extension-080", "input": ["ceramic mortar travel", "secondhand/equipment", "5", "-Infinity"]}
 {"error": "condition must be", "id": "pricecraft-188", "input": [" lamp textured compact ", " home/consignment/assorted ", "0", "69.78"]}
 {"expected": ["linen tripod travel", "secondhand/household", 1, -0.0], "id": "pricecraft-extension-081", "input": ["linen tripod travel", "secondhand/household", "1", "-0"]}
+{"expected": ["linen folding table travel", "secondhand/accessories", 2, 12.5], "id": "pricecraft-extension-082", "input": ["linen folding table travel", "secondhand/accessories", "2", "+12.50"]}
