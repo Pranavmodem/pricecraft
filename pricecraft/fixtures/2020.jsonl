@@ -93,3 +93,4 @@
 {"expected": ["linen tripod travel", "secondhand/household", 1, -0.0], "id": "pricecraft-extension-081", "input": ["linen tripod travel", "secondhand/household", "1", "-0"]}
 {"expected": ["linen folding table travel", "secondhand/accessories", 2, 12.5], "id": "pricecraft-extension-082", "input": ["linen folding table travel", "secondhand/accessories", "2", "+12.50"]}
 {"error": "condition must be", "id": "pricecraft-189", "input": [" mug, ceramic textured compact ", " kitchen/direct/assorted ", "6", "70.15"]}
+{"error": "condition must be", "id": "pricecraft-190", "input": [" café grinder textured compact ", " kitchen/retail/reissue ", "3.0", "70.52"]}
