@@ -95,3 +95,4 @@
 {"error": "condition must be", "id": "pricecraft-189", "input": [" mug, ceramic textured compact ", " kitchen/direct/assorted ", "6", "70.15"]}
 {"error": "condition must be", "id": "pricecraft-190", "input": [" café grinder textured compact ", " kitchen/retail/reissue ", "3.0", "70.52"]}
 {"expected": ["linen mixer travel", "secondhand/equipment", 3, 999999.99], "id": "pricecraft-extension-083", "input": ["linen mixer travel", "secondhand/equipment", "3", " 999999.99 "]}
+{"error": "title and category", "id": "pricecraft-191", "input": [" ", " clothing/resale/reissue ", "2", "70.89"]}
