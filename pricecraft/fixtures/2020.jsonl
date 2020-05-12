@@ -98,3 +98,4 @@
 {"error": "title and category", "id": "pricecraft-191", "input": [" ", " clothing/resale/reissue ", "2", "70.89"]}
 {"error": "title and category", "id": "pricecraft-192", "input": [" running shoes textured compact ", " ", "2", "71.26"]}
 {"expected": ["o'neill jacket textured compact", "clothing/outlet/reissue", 2, 71.63], "id": "pricecraft-193", "input": [" o'neill jacket textured compact ", " clothing/outlet/reissue ", "  2", "71.63"]}
+{"expected": ["linen telescope travel", "secondhand/household", 4, 1e-07], "id": "pricecraft-extension-084", "input": ["linen telescope travel", "secondhand/household", "4", "1e-7"]}
