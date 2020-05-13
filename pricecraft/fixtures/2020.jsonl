@@ -101,3 +101,4 @@
 {"expected": ["linen telescope travel", "secondhand/household", 4, 1e-07], "id": "pricecraft-extension-084", "input": ["linen telescope travel", "secondhand/household", "4", "1e-7"]}
 {"error": "price must be between", "id": "pricecraft-194", "input": [" 10\" speaker textured compact ", " audio/trade/reissue ", "2", "inf"]}
 {"error": "price must be a number", "id": "pricecraft-extension-085", "input": ["linen bicycle rack travel", "secondhand/accessories", "5", "1,25"]}
+{"error": "price must be between", "id": "pricecraft-extension-086", "input": ["linen travel kettle travel", "secondhand/equipment", "1", "1e309"]}
