@@ -104,3 +104,4 @@
 {"error": "price must be between", "id": "pricecraft-extension-086", "input": ["linen travel kettle travel", "secondhand/equipment", "1", "1e309"]}
 {"expected": ["camera body textured compact\nwith instructions", "electronics/consignment/reissue", 2, 72.37], "id": "pricecraft-195", "input": ["camera body textured compact\nwith instructions", " electronics/consignment/reissue ", "2", "72.37"]}
 {"expected": ["linen watch strap travel", "secondhand/household", 2, 24.75], "id": "pricecraft-extension-087", "input": ["linen watch strap travel", "secondhand/household", "2", " 24.75 "]}
+{"expected": ["wooden stool textured compact", "home/direct/reissue", 2, 0.0], "id": "pricecraft-196", "input": [" wooden stool textured compact ", " home/direct/reissue ", "2", "0"]}
