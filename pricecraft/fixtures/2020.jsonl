@@ -106,3 +106,4 @@
 {"expected": ["linen watch strap travel", "secondhand/household", 2, 24.75], "id": "pricecraft-extension-087", "input": ["linen watch strap travel", "secondhand/household", "2", " 24.75 "]}
 {"expected": ["wooden stool textured compact", "home/direct/reissue", 2, 0.0], "id": "pricecraft-196", "input": [" wooden stool textured compact ", " home/direct/reissue ", "2", "0"]}
 {"expected": ["toy train textured compact", "collectibles/retail/modern", 2, 1000000.0], "id": "pricecraft-197", "input": [" toy train textured compact ", " collectibles/retail/modern ", "2", "1000000"]}
+{"expected": ["rug textured compact", "home/resale/modern", 2, 250.0], "id": "pricecraft-198", "input": [" rug textured compact ", " home/resale/modern ", "2", "2.50e2"]}
