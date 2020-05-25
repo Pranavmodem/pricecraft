@@ -109,3 +109,4 @@
 {"expected": ["rug textured compact", "home/resale/modern", 2, 250.0], "id": "pricecraft-198", "input": [" rug textured compact ", " home/resale/modern ", "2", "2.50e2"]}
 {"error": "price must be between", "id": "pricecraft-extension-088", "input": ["linen book stand travel", "secondhand/accessories", "3", "-Infinity"]}
 {"error": "price must be between", "id": "pricecraft-199", "input": [" children’s book textured compact ", " books/auction/modern ", "2", "NaN"]}
+{"error": "price must be between", "id": "pricecraft-200", "input": [" desk light textured compact ", " home/outlet/modern ", "2", "-0.01"]}
