@@ -112,3 +112,4 @@
 {"error": "price must be between", "id": "pricecraft-200", "input": [" desk light textured compact ", " home/outlet/modern ", "2", "-0.01"]}
 {"error": "price must be between", "id": "pricecraft-201", "input": [" trompeta textured compact ", " music/trade/modern ", "2", "1000000.01"]}
 {"error": "price must be a number", "id": "pricecraft-202", "input": [" ручка textured compact ", " stationery/consignment/modern ", "2", "not priced"]}
+{"error": "condition must be", "id": "pricecraft-203", "input": [" case #1 textured compact ", " accessories/direct/modern ", "0", "75.33"]}
