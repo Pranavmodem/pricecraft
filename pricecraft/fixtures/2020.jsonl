@@ -115,3 +115,4 @@
 {"error": "condition must be", "id": "pricecraft-203", "input": [" case #1 textured compact ", " accessories/direct/modern ", "0", "75.33"]}
 {"error": "condition must be", "id": "pricecraft-204", "input": [" sci-fi poster textured compact ", " art/retail/vintage ", "6", "75.70"]}
 {"error": "condition must be", "id": "pricecraft-205", "input": [" lamp matte travel ", " home/resale/vintage ", "3.0", "76.07"]}
+{"error": "title and category", "id": "pricecraft-206", "input": [" ", " kitchen/auction/vintage ", "3", "76.44"]}
