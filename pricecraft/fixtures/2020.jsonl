@@ -117,3 +117,4 @@
 {"error": "condition must be", "id": "pricecraft-205", "input": [" lamp matte travel ", " home/resale/vintage ", "3.0", "76.07"]}
 {"error": "title and category", "id": "pricecraft-206", "input": [" ", " kitchen/auction/vintage ", "3", "76.44"]}
 {"error": "title and category", "id": "pricecraft-207", "input": [" café grinder matte travel ", " ", "3", "76.81"]}
+{"expected": ["手袋 matte travel", "clothing/trade/vintage", 3, 77.18], "id": "pricecraft-208", "input": [" 手袋 matte travel ", " clothing/trade/vintage ", "  3", "77.18"]}
