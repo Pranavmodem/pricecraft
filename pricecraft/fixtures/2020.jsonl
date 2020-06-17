@@ -121,3 +121,4 @@
 {"error": "price must be between", "id": "pricecraft-209", "input": [" running shoes matte travel ", " sports/consignment/vintage ", "3", "inf"]}
 {"expected": ["o'neill jacket matte travel\nwith instructions", "clothing/direct/vintage", 3, 77.92], "id": "pricecraft-210", "input": ["o'neill jacket matte travel\nwith instructions", " clothing/direct/vintage ", "3", "77.92"]}
 {"expected": ["10\" speaker matte travel", "audio/retail/seasonal", 3, 0.0], "id": "pricecraft-211", "input": [" 10\" speaker matte travel ", " audio/retail/seasonal ", "3", "0"]}
+{"expected": ["camera body matte travel", "electronics/resale/seasonal", 3, 1000000.0], "id": "pricecraft-212", "input": [" camera body matte travel ", " electronics/resale/seasonal ", "3", "1000000"]}
