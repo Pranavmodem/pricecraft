@@ -126,3 +126,4 @@
 {"error": "price must be between", "id": "pricecraft-214", "input": [" toy train matte travel ", " collectibles/outlet/seasonal ", "3", "NaN"]}
 {"error": "price must be between", "id": "pricecraft-215", "input": [" rug matte travel ", " home/trade/seasonal ", "3", "-0.01"]}
 {"expected": ["linen tuner travel", "secondhand/equipment", 4, -0.0], "id": "pricecraft-extension-089", "input": ["linen tuner travel", "secondhand/equipment", "4", "-0"]}
+{"expected": ["linen mortar travel", "secondhand/household", 5, 12.5], "id": "pricecraft-extension-090", "input": ["linen mortar travel", "secondhand/household", "5", "+12.50"]}
