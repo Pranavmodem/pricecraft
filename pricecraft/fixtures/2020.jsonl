@@ -124,3 +124,4 @@
 {"expected": ["camera body matte travel", "electronics/resale/seasonal", 3, 1000000.0], "id": "pricecraft-212", "input": [" camera body matte travel ", " electronics/resale/seasonal ", "3", "1000000"]}
 {"expected": ["wooden stool matte travel", "home/auction/seasonal", 3, 250.0], "id": "pricecraft-213", "input": [" wooden stool matte travel ", " home/auction/seasonal ", "3", "2.50e2"]}
 {"error": "price must be between", "id": "pricecraft-214", "input": [" toy train matte travel ", " collectibles/outlet/seasonal ", "3", "NaN"]}
+{"error": "price must be between", "id": "pricecraft-215", "input": [" rug matte travel ", " home/trade/seasonal ", "3", "-0.01"]}
