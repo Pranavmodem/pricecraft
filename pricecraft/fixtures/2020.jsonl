@@ -128,3 +128,4 @@
 {"expected": ["linen tuner travel", "secondhand/equipment", 4, -0.0], "id": "pricecraft-extension-089", "input": ["linen tuner travel", "secondhand/equipment", "4", "-0"]}
 {"expected": ["linen mortar travel", "secondhand/household", 5, 12.5], "id": "pricecraft-extension-090", "input": ["linen mortar travel", "secondhand/household", "5", "+12.50"]}
 {"error": "price must be between", "id": "pricecraft-216", "input": [" children’s book matte travel ", " books/consignment/seasonal ", "3", "1000000.01"]}
+{"expected": ["bamboo tripod travel", "secondhand/accessories", 1, 999999.99], "id": "pricecraft-extension-091", "input": ["bamboo tripod travel", "secondhand/accessories", "1", " 999999.99 "]}
