@@ -133,3 +133,4 @@
 {"expected": ["bamboo folding table travel", "secondhand/equipment", 2, 1e-07], "id": "pricecraft-extension-092", "input": ["bamboo folding table travel", "secondhand/equipment", "2", "1e-7"]}
 {"error": "price must be a number", "id": "pricecraft-extension-093", "input": ["bamboo mixer travel", "secondhand/household", "3", "1,25"]}
 {"error": "condition must be", "id": "pricecraft-218", "input": [" trompeta matte travel ", " music/retail/basic ", "0", "80.88"]}
+{"error": "condition must be", "id": "pricecraft-219", "input": [" ручка matte travel ", " stationery/resale/basic ", "6", "81.25"]}
