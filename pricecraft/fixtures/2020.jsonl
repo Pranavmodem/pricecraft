@@ -135,3 +135,4 @@
 {"error": "condition must be", "id": "pricecraft-218", "input": [" trompeta matte travel ", " music/retail/basic ", "0", "80.88"]}
 {"error": "condition must be", "id": "pricecraft-219", "input": [" ручка matte travel ", " stationery/resale/basic ", "6", "81.25"]}
 {"error": "condition must be", "id": "pricecraft-220", "input": [" case #1 matte travel ", " accessories/auction/basic ", "3.0", "81.62"]}
+{"error": "title and category", "id": "pricecraft-221", "input": [" ", " art/outlet/basic ", "3", "81.99"]}
