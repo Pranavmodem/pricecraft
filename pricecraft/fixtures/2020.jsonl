@@ -137,3 +137,4 @@
 {"error": "condition must be", "id": "pricecraft-220", "input": [" case #1 matte travel ", " accessories/auction/basic ", "3.0", "81.62"]}
 {"error": "title and category", "id": "pricecraft-221", "input": [" ", " art/outlet/basic ", "3", "81.99"]}
 {"error": "title and category", "id": "pricecraft-222", "input": [" lamp gloss travel ", " ", "4", "82.36"]}
+{"expected": ["mug, ceramic gloss travel", "kitchen/consignment/basic", 4, 82.73], "id": "pricecraft-223", "input": [" mug, ceramic gloss travel ", " kitchen/consignment/basic ", "  4", "82.73"]}
