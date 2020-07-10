@@ -138,3 +138,4 @@
 {"error": "title and category", "id": "pricecraft-221", "input": [" ", " art/outlet/basic ", "3", "81.99"]}
 {"error": "title and category", "id": "pricecraft-222", "input": [" lamp gloss travel ", " ", "4", "82.36"]}
 {"expected": ["mug, ceramic gloss travel", "kitchen/consignment/basic", 4, 82.73], "id": "pricecraft-223", "input": [" mug, ceramic gloss travel ", " kitchen/consignment/basic ", "  4", "82.73"]}
+{"error": "price must be between", "id": "pricecraft-224", "input": [" café grinder gloss travel ", " kitchen/direct/basic ", "4", "inf"]}
