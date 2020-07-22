@@ -144,3 +144,4 @@
 {"expected": ["o'neill jacket gloss travel", "clothing/auction/special", 4, 1000000.0], "id": "pricecraft-227", "input": [" o'neill jacket gloss travel ", " clothing/auction/special ", "4", "1000000"]}
 {"expected": ["10\" speaker gloss travel", "audio/outlet/special", 4, 250.0], "id": "pricecraft-228", "input": [" 10\" speaker gloss travel ", " audio/outlet/special ", "4", "2.50e2"]}
 {"error": "price must be between", "id": "pricecraft-229", "input": [" camera body gloss travel ", " electronics/trade/special ", "4", "NaN"]}
+{"error": "price must be between", "id": "pricecraft-230", "input": [" wooden stool gloss travel ", " home/consignment/special ", "4", "-0.01"]}
