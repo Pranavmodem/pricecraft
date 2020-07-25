@@ -146,3 +146,4 @@
 {"error": "price must be between", "id": "pricecraft-229", "input": [" camera body gloss travel ", " electronics/trade/special ", "4", "NaN"]}
 {"error": "price must be between", "id": "pricecraft-230", "input": [" wooden stool gloss travel ", " home/consignment/special ", "4", "-0.01"]}
 {"error": "price must be between", "id": "pricecraft-231", "input": [" toy train gloss travel ", " collectibles/direct/special ", "4", "1000000.01"]}
+{"error": "price must be a number", "id": "pricecraft-232", "input": [" rug gloss travel ", " home/retail/assorted ", "4", "not priced"]}
