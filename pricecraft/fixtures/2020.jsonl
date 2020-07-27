@@ -148,3 +148,4 @@
 {"error": "price must be between", "id": "pricecraft-231", "input": [" toy train gloss travel ", " collectibles/direct/special ", "4", "1000000.01"]}
 {"error": "price must be a number", "id": "pricecraft-232", "input": [" rug gloss travel ", " home/retail/assorted ", "4", "not priced"]}
 {"error": "condition must be", "id": "pricecraft-233", "input": [" children’s book gloss travel ", " books/resale/assorted ", "0", "86.43"]}
+{"error": "condition must be", "id": "pricecraft-234", "input": [" desk light gloss travel ", " home/auction/assorted ", "6", "86.80"]}
