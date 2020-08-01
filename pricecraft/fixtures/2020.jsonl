@@ -150,3 +150,4 @@
 {"error": "condition must be", "id": "pricecraft-233", "input": [" children’s book gloss travel ", " books/resale/assorted ", "0", "86.43"]}
 {"error": "condition must be", "id": "pricecraft-234", "input": [" desk light gloss travel ", " home/auction/assorted ", "6", "86.80"]}
 {"error": "condition must be", "id": "pricecraft-235", "input": [" trompeta gloss travel ", " music/outlet/assorted ", "3.0", "87.17"]}
+{"error": "title and category", "id": "pricecraft-236", "input": [" ", " stationery/trade/assorted ", "4", "87.54"]}
