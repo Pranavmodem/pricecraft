@@ -154,3 +154,4 @@
 {"error": "title and category", "id": "pricecraft-237", "input": [" case #1 gloss travel ", " ", "4", "87.91"]}
 {"expected": ["sci-fi poster gloss travel", "art/direct/assorted", 4, 88.28], "id": "pricecraft-238", "input": [" sci-fi poster gloss travel ", " art/direct/assorted ", "  4", "88.28"]}
 {"error": "price must be between", "id": "pricecraft-239", "input": [" lamp clear travel ", " home/retail/reissue ", "5", "inf"]}
+{"expected": ["mug, ceramic clear travel\nwith instructions", "kitchen/resale/reissue", 5, 89.02], "id": "pricecraft-240", "input": ["mug, ceramic clear travel\nwith instructions", " kitchen/resale/reissue ", "5", "89.02"]}
