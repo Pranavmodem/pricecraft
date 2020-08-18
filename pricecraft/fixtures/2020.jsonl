@@ -158,3 +158,4 @@
 {"expected": ["café grinder clear travel", "kitchen/auction/reissue", 5, 0.0], "id": "pricecraft-241", "input": [" café grinder clear travel ", " kitchen/auction/reissue ", "5", "0"]}
 {"expected": ["手袋 clear travel", "clothing/outlet/reissue", 5, 1000000.0], "id": "pricecraft-242", "input": [" 手袋 clear travel ", " clothing/outlet/reissue ", "5", "1000000"]}
 {"expected": ["running shoes clear travel", "sports/trade/reissue", 5, 250.0], "id": "pricecraft-243", "input": [" running shoes clear travel ", " sports/trade/reissue ", "5", "2.50e2"]}
+{"error": "price must be between", "id": "pricecraft-244", "input": [" o'neill jacket clear travel ", " clothing/consignment/reissue ", "5", "NaN"]}
