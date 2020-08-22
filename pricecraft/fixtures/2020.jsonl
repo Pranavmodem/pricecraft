@@ -162,3 +162,4 @@
 {"error": "price must be between", "id": "pricecraft-245", "input": [" 10\" speaker clear travel ", " audio/direct/reissue ", "5", "-0.01"]}
 {"error": "price must be between", "id": "pricecraft-246", "input": [" camera body clear travel ", " electronics/retail/modern ", "5", "1000000.01"]}
 {"error": "price must be a number", "id": "pricecraft-247", "input": [" wooden stool clear travel ", " home/resale/modern ", "5", "not priced"]}
+{"error": "condition must be", "id": "pricecraft-248", "input": [" toy train clear travel ", " collectibles/auction/modern ", "0", "91.98"]}
