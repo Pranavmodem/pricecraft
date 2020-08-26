@@ -164,3 +164,4 @@
 {"error": "price must be a number", "id": "pricecraft-247", "input": [" wooden stool clear travel ", " home/resale/modern ", "5", "not priced"]}
 {"error": "condition must be", "id": "pricecraft-248", "input": [" toy train clear travel ", " collectibles/auction/modern ", "0", "91.98"]}
 {"error": "condition must be", "id": "pricecraft-249", "input": [" rug clear travel ", " home/outlet/modern ", "6", "92.35"]}
+{"error": "condition must be", "id": "pricecraft-250", "input": [" children’s book clear travel ", " books/trade/modern ", "3.0", "92.72"]}
