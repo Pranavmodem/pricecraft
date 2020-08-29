@@ -166,3 +166,4 @@
 {"error": "condition must be", "id": "pricecraft-249", "input": [" rug clear travel ", " home/outlet/modern ", "6", "92.35"]}
 {"error": "condition must be", "id": "pricecraft-250", "input": [" children’s book clear travel ", " books/trade/modern ", "3.0", "92.72"]}
 {"error": "title and category", "id": "pricecraft-251", "input": [" ", " home/consignment/modern ", "5", "93.09"]}
+{"error": "title and category", "id": "pricecraft-252", "input": [" trompeta clear travel ", " ", "5", "93.46"]}
