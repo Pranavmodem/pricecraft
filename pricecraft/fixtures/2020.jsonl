@@ -168,3 +168,4 @@
 {"error": "title and category", "id": "pricecraft-251", "input": [" ", " home/consignment/modern ", "5", "93.09"]}
 {"error": "title and category", "id": "pricecraft-252", "input": [" trompeta clear travel ", " ", "5", "93.46"]}
 {"error": "price must be between", "id": "pricecraft-extension-094", "input": ["bamboo telescope travel", "secondhand/accessories", "4", "1e309"]}
+{"expected": ["ручка clear travel", "stationery/retail/vintage", 5, 93.83], "id": "pricecraft-253", "input": [" ручка clear travel ", " stationery/retail/vintage ", "  5", "93.83"]}
