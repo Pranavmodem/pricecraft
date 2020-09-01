@@ -172,3 +172,4 @@
 {"expected": ["bamboo bicycle rack travel", "secondhand/equipment", 5, 24.75], "id": "pricecraft-extension-095", "input": ["bamboo bicycle rack travel", "secondhand/equipment", "5", " 24.75 "]}
 {"error": "price must be between", "id": "pricecraft-254", "input": [" case #1 clear travel ", " accessories/resale/vintage ", "5", "inf"]}
 {"error": "price must be between", "id": "pricecraft-extension-096", "input": ["bamboo travel kettle travel", "secondhand/household", "1", "-Infinity"]}
+{"expected": ["bamboo watch strap travel", "secondhand/accessories", 2, -0.0], "id": "pricecraft-extension-097", "input": ["bamboo watch strap travel", "secondhand/accessories", "2", "-0"]}
