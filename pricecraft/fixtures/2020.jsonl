@@ -173,3 +173,4 @@
 {"error": "price must be between", "id": "pricecraft-254", "input": [" case #1 clear travel ", " accessories/resale/vintage ", "5", "inf"]}
 {"error": "price must be between", "id": "pricecraft-extension-096", "input": ["bamboo travel kettle travel", "secondhand/household", "1", "-Infinity"]}
 {"expected": ["bamboo watch strap travel", "secondhand/accessories", 2, -0.0], "id": "pricecraft-extension-097", "input": ["bamboo watch strap travel", "secondhand/accessories", "2", "-0"]}
+{"expected": ["sci-fi poster clear travel\nwith instructions", "art/auction/vintage", 5, 94.57], "id": "pricecraft-255", "input": ["sci-fi poster clear travel\nwith instructions", " art/auction/vintage ", "5", "94.57"]}
