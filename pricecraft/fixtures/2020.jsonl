@@ -175,3 +175,4 @@
 {"expected": ["bamboo watch strap travel", "secondhand/accessories", 2, -0.0], "id": "pricecraft-extension-097", "input": ["bamboo watch strap travel", "secondhand/accessories", "2", "-0"]}
 {"expected": ["sci-fi poster clear travel\nwith instructions", "art/auction/vintage", 5, 94.57], "id": "pricecraft-255", "input": ["sci-fi poster clear travel\nwith instructions", " art/auction/vintage ", "5", "94.57"]}
 {"expected": ["bamboo book stand travel", "secondhand/equipment", 3, 12.5], "id": "pricecraft-extension-098", "input": ["bamboo book stand travel", "secondhand/equipment", "3", "+12.50"]}
+{"expected": ["lamp natural travel", "home/outlet/vintage", 1, 0.0], "id": "pricecraft-256", "input": [" lamp natural travel ", " home/outlet/vintage ", "1", "0"]}
