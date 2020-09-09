@@ -178,3 +178,4 @@
 {"expected": ["lamp natural travel", "home/outlet/vintage", 1, 0.0], "id": "pricecraft-256", "input": [" lamp natural travel ", " home/outlet/vintage ", "1", "0"]}
 {"expected": ["bamboo tuner travel", "secondhand/household", 4, 999999.99], "id": "pricecraft-extension-099", "input": ["bamboo tuner travel", "secondhand/household", "4", " 999999.99 "]}
 {"expected": ["mug, ceramic natural travel", "kitchen/trade/vintage", 1, 1000000.0], "id": "pricecraft-257", "input": [" mug, ceramic natural travel ", " kitchen/trade/vintage ", "1", "1000000"]}
+{"expected": ["bamboo mortar travel", "secondhand/accessories", 5, 1e-07], "id": "pricecraft-extension-100", "input": ["bamboo mortar travel", "secondhand/accessories", "5", "1e-7"]}
