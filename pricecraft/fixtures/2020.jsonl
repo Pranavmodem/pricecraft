@@ -180,3 +180,4 @@
 {"expected": ["mug, ceramic natural travel", "kitchen/trade/vintage", 1, 1000000.0], "id": "pricecraft-257", "input": [" mug, ceramic natural travel ", " kitchen/trade/vintage ", "1", "1000000"]}
 {"expected": ["bamboo mortar travel", "secondhand/accessories", 5, 1e-07], "id": "pricecraft-extension-100", "input": ["bamboo mortar travel", "secondhand/accessories", "5", "1e-7"]}
 {"error": "price must be a number", "id": "pricecraft-extension-101", "input": ["steel tripod travel", "secondhand/equipment", "1", "1,25"]}
+{"expected": ["café grinder natural travel", "kitchen/consignment/vintage", 1, 250.0], "id": "pricecraft-258", "input": [" café grinder natural travel ", " kitchen/consignment/vintage ", "1", "2.50e2"]}
