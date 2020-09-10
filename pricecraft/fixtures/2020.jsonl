@@ -181,3 +181,4 @@
 {"expected": ["bamboo mortar travel", "secondhand/accessories", 5, 1e-07], "id": "pricecraft-extension-100", "input": ["bamboo mortar travel", "secondhand/accessories", "5", "1e-7"]}
 {"error": "price must be a number", "id": "pricecraft-extension-101", "input": ["steel tripod travel", "secondhand/equipment", "1", "1,25"]}
 {"expected": ["café grinder natural travel", "kitchen/consignment/vintage", 1, 250.0], "id": "pricecraft-258", "input": [" café grinder natural travel ", " kitchen/consignment/vintage ", "1", "2.50e2"]}
+{"error": "price must be between", "id": "pricecraft-extension-102", "input": ["steel folding table travel", "secondhand/household", "2", "1e309"]}
