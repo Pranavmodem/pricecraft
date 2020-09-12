@@ -182,3 +182,4 @@
 {"error": "price must be a number", "id": "pricecraft-extension-101", "input": ["steel tripod travel", "secondhand/equipment", "1", "1,25"]}
 {"expected": ["café grinder natural travel", "kitchen/consignment/vintage", 1, 250.0], "id": "pricecraft-258", "input": [" café grinder natural travel ", " kitchen/consignment/vintage ", "1", "2.50e2"]}
 {"error": "price must be between", "id": "pricecraft-extension-102", "input": ["steel folding table travel", "secondhand/household", "2", "1e309"]}
+{"error": "price must be between", "id": "pricecraft-259", "input": [" 手袋 natural travel ", " clothing/direct/vintage ", "1", "NaN"]}
