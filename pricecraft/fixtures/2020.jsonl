@@ -187,3 +187,4 @@
 {"error": "price must be between", "id": "pricecraft-extension-104", "input": ["steel telescope travel", "secondhand/equipment", "4", "-Infinity"]}
 {"error": "price must be between", "id": "pricecraft-260", "input": [" running shoes natural travel ", " sports/retail/seasonal ", "1", "-0.01"]}
 {"expected": ["steel bicycle rack travel", "secondhand/household", 5, -0.0], "id": "pricecraft-extension-105", "input": ["steel bicycle rack travel", "secondhand/household", "5", "-0"]}
+{"expected": ["steel travel kettle travel", "secondhand/accessories", 1, 12.5], "id": "pricecraft-extension-106", "input": ["steel travel kettle travel", "secondhand/accessories", "1", "+12.50"]}
