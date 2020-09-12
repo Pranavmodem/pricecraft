@@ -185,3 +185,4 @@
 {"error": "price must be between", "id": "pricecraft-259", "input": [" 手袋 natural travel ", " clothing/direct/vintage ", "1", "NaN"]}
 {"expected": ["steel mixer travel", "secondhand/accessories", 3, 24.75], "id": "pricecraft-extension-103", "input": ["steel mixer travel", "secondhand/accessories", "3", " 24.75 "]}
 {"error": "price must be between", "id": "pricecraft-extension-104", "input": ["steel telescope travel", "secondhand/equipment", "4", "-Infinity"]}
+{"error": "price must be between", "id": "pricecraft-260", "input": [" running shoes natural travel ", " sports/retail/seasonal ", "1", "-0.01"]}
