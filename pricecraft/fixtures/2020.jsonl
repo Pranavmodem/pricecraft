@@ -189,3 +189,4 @@
 {"expected": ["steel bicycle rack travel", "secondhand/household", 5, -0.0], "id": "pricecraft-extension-105", "input": ["steel bicycle rack travel", "secondhand/household", "5", "-0"]}
 {"expected": ["steel travel kettle travel", "secondhand/accessories", 1, 12.5], "id": "pricecraft-extension-106", "input": ["steel travel kettle travel", "secondhand/accessories", "1", "+12.50"]}
 {"expected": ["steel watch strap travel", "secondhand/equipment", 2, 999999.99], "id": "pricecraft-extension-107", "input": ["steel watch strap travel", "secondhand/equipment", "2", " 999999.99 "]}
+{"error": "price must be between", "id": "pricecraft-261", "input": [" o'neill jacket natural travel ", " clothing/resale/seasonal ", "1", "1000000.01"]}
