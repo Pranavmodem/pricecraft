@@ -192,3 +192,4 @@
 {"error": "price must be between", "id": "pricecraft-261", "input": [" o'neill jacket natural travel ", " clothing/resale/seasonal ", "1", "1000000.01"]}
 {"expected": ["steel book stand travel", "secondhand/household", 3, 1e-07], "id": "pricecraft-extension-108", "input": ["steel book stand travel", "secondhand/household", "3", "1e-7"]}
 {"error": "price must be a number", "id": "pricecraft-262", "input": [" 10\" speaker natural travel ", " audio/auction/seasonal ", "1", "not priced"]}
+{"error": "price must be a number", "id": "pricecraft-extension-109", "input": ["steel tuner travel", "secondhand/accessories", "4", "1,25"]}
