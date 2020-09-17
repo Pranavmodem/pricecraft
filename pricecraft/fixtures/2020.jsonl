@@ -193,3 +193,4 @@
 {"expected": ["steel book stand travel", "secondhand/household", 3, 1e-07], "id": "pricecraft-extension-108", "input": ["steel book stand travel", "secondhand/household", "3", "1e-7"]}
 {"error": "price must be a number", "id": "pricecraft-262", "input": [" 10\" speaker natural travel ", " audio/auction/seasonal ", "1", "not priced"]}
 {"error": "price must be a number", "id": "pricecraft-extension-109", "input": ["steel tuner travel", "secondhand/accessories", "4", "1,25"]}
+{"error": "condition must be", "id": "pricecraft-263", "input": [" camera body natural travel ", " electronics/outlet/seasonal ", "0", "97.53"]}
