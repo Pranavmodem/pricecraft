@@ -195,3 +195,4 @@
 {"error": "price must be a number", "id": "pricecraft-extension-109", "input": ["steel tuner travel", "secondhand/accessories", "4", "1,25"]}
 {"error": "condition must be", "id": "pricecraft-263", "input": [" camera body natural travel ", " electronics/outlet/seasonal ", "0", "97.53"]}
 {"error": "condition must be", "id": "pricecraft-264", "input": [" wooden stool natural travel ", " home/trade/seasonal ", "6", "97.90"]}
+{"error": "condition must be", "id": "pricecraft-265", "input": [" toy train natural travel ", " collectibles/consignment/seasonal ", "3.0", "98.27"]}
