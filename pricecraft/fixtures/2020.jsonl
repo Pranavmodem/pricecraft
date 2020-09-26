@@ -197,3 +197,4 @@
 {"error": "condition must be", "id": "pricecraft-264", "input": [" wooden stool natural travel ", " home/trade/seasonal ", "6", "97.90"]}
 {"error": "condition must be", "id": "pricecraft-265", "input": [" toy train natural travel ", " collectibles/consignment/seasonal ", "3.0", "98.27"]}
 {"error": "title and category", "id": "pricecraft-266", "input": [" ", " home/direct/seasonal ", "1", "98.64"]}
+{"error": "title and category", "id": "pricecraft-267", "input": [" children’s book natural travel ", " ", "1", "99.01"]}
