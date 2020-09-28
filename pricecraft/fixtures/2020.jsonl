@@ -199,3 +199,4 @@
 {"error": "title and category", "id": "pricecraft-266", "input": [" ", " home/direct/seasonal ", "1", "98.64"]}
 {"error": "title and category", "id": "pricecraft-267", "input": [" children’s book natural travel ", " ", "1", "99.01"]}
 {"expected": ["desk light natural travel", "home/resale/basic", 1, 99.38], "id": "pricecraft-268", "input": [" desk light natural travel ", " home/resale/basic ", "  1", "99.38"]}
+{"error": "price must be between", "id": "pricecraft-269", "input": [" trompeta natural travel ", " music/auction/basic ", "1", "inf"]}
