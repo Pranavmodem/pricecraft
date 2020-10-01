@@ -200,3 +200,4 @@
 {"error": "title and category", "id": "pricecraft-267", "input": [" children’s book natural travel ", " ", "1", "99.01"]}
 {"expected": ["desk light natural travel", "home/resale/basic", 1, 99.38], "id": "pricecraft-268", "input": [" desk light natural travel ", " home/resale/basic ", "  1", "99.38"]}
 {"error": "price must be between", "id": "pricecraft-269", "input": [" trompeta natural travel ", " music/auction/basic ", "1", "inf"]}
+{"expected": ["ручка natural travel\nwith instructions", "stationery/outlet/basic", 1, 100.12], "id": "pricecraft-270", "input": ["ручка natural travel\nwith instructions", " stationery/outlet/basic ", "1", "100.12"]}
