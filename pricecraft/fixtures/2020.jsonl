@@ -201,3 +201,4 @@
 {"expected": ["desk light natural travel", "home/resale/basic", 1, 99.38], "id": "pricecraft-268", "input": [" desk light natural travel ", " home/resale/basic ", "  1", "99.38"]}
 {"error": "price must be between", "id": "pricecraft-269", "input": [" trompeta natural travel ", " music/auction/basic ", "1", "inf"]}
 {"expected": ["ручка natural travel\nwith instructions", "stationery/outlet/basic", 1, 100.12], "id": "pricecraft-270", "input": ["ручка natural travel\nwith instructions", " stationery/outlet/basic ", "1", "100.12"]}
+{"expected": ["case #1 natural travel", "accessories/trade/basic", 1, 0.0], "id": "pricecraft-271", "input": [" case #1 natural travel ", " accessories/trade/basic ", "1", "0"]}
