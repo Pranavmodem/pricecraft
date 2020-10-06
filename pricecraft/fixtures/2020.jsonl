@@ -203,3 +203,4 @@
 {"expected": ["ручка natural travel\nwith instructions", "stationery/outlet/basic", 1, 100.12], "id": "pricecraft-270", "input": ["ручка natural travel\nwith instructions", " stationery/outlet/basic ", "1", "100.12"]}
 {"expected": ["case #1 natural travel", "accessories/trade/basic", 1, 0.0], "id": "pricecraft-271", "input": [" case #1 natural travel ", " accessories/trade/basic ", "1", "0"]}
 {"expected": ["sci-fi poster natural travel", "art/consignment/basic", 1, 1000000.0], "id": "pricecraft-272", "input": [" sci-fi poster natural travel ", " art/consignment/basic ", "1", "1000000"]}
+{"expected": ["lamp brushed travel", "home/direct/basic", 2, 250.0], "id": "pricecraft-273", "input": [" lamp brushed travel ", " home/direct/basic ", "2", "2.50e2"]}
