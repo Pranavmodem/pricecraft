@@ -205,3 +205,4 @@
 {"expected": ["sci-fi poster natural travel", "art/consignment/basic", 1, 1000000.0], "id": "pricecraft-272", "input": [" sci-fi poster natural travel ", " art/consignment/basic ", "1", "1000000"]}
 {"expected": ["lamp brushed travel", "home/direct/basic", 2, 250.0], "id": "pricecraft-273", "input": [" lamp brushed travel ", " home/direct/basic ", "2", "2.50e2"]}
 {"error": "price must be between", "id": "pricecraft-274", "input": [" mug, ceramic brushed travel ", " kitchen/retail/special ", "2", "NaN"]}
+{"error": "price must be between", "id": "pricecraft-275", "input": [" café grinder brushed travel ", " kitchen/resale/special ", "2", "-0.01"]}
