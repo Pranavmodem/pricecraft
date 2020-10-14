@@ -206,3 +206,4 @@
 {"expected": ["lamp brushed travel", "home/direct/basic", 2, 250.0], "id": "pricecraft-273", "input": [" lamp brushed travel ", " home/direct/basic ", "2", "2.50e2"]}
 {"error": "price must be between", "id": "pricecraft-274", "input": [" mug, ceramic brushed travel ", " kitchen/retail/special ", "2", "NaN"]}
 {"error": "price must be between", "id": "pricecraft-275", "input": [" café grinder brushed travel ", " kitchen/resale/special ", "2", "-0.01"]}
+{"error": "price must be between", "id": "pricecraft-276", "input": [" 手袋 brushed travel ", " clothing/auction/special ", "2", "1000000.01"]}
