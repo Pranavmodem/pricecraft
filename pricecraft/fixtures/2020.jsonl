@@ -210,3 +210,4 @@
 {"error": "price must be a number", "id": "pricecraft-277", "input": [" running shoes brushed travel ", " sports/outlet/special ", "2", "not priced"]}
 {"error": "condition must be", "id": "pricecraft-278", "input": [" o'neill jacket brushed travel ", " clothing/trade/special ", "0", "103.08"]}
 {"error": "condition must be", "id": "pricecraft-279", "input": [" 10\" speaker brushed travel ", " audio/consignment/special ", "6", "103.45"]}
+{"error": "price must be between", "id": "pricecraft-extension-110", "input": ["steel mortar travel", "secondhand/equipment", "5", "1e309"]}
