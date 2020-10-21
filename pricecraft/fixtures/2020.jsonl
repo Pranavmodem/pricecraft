@@ -211,3 +211,4 @@
 {"error": "condition must be", "id": "pricecraft-278", "input": [" o'neill jacket brushed travel ", " clothing/trade/special ", "0", "103.08"]}
 {"error": "condition must be", "id": "pricecraft-279", "input": [" 10\" speaker brushed travel ", " audio/consignment/special ", "6", "103.45"]}
 {"error": "price must be between", "id": "pricecraft-extension-110", "input": ["steel mortar travel", "secondhand/equipment", "5", "1e309"]}
+{"expected": ["leather tripod travel", "secondhand/household", 1, 24.75], "id": "pricecraft-extension-111", "input": ["leather tripod travel", "secondhand/household", "1", " 24.75 "]}
