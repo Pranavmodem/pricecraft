@@ -213,3 +213,4 @@
 {"error": "price must be between", "id": "pricecraft-extension-110", "input": ["steel mortar travel", "secondhand/equipment", "5", "1e309"]}
 {"expected": ["leather tripod travel", "secondhand/household", 1, 24.75], "id": "pricecraft-extension-111", "input": ["leather tripod travel", "secondhand/household", "1", " 24.75 "]}
 {"error": "condition must be", "id": "pricecraft-280", "input": [" camera body brushed travel ", " electronics/direct/special ", "3.0", "103.82"]}
+{"error": "price must be between", "id": "pricecraft-extension-112", "input": ["leather folding table travel", "secondhand/accessories", "2", "-Infinity"]}
