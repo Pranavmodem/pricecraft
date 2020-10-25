@@ -215,3 +215,4 @@
 {"error": "condition must be", "id": "pricecraft-280", "input": [" camera body brushed travel ", " electronics/direct/special ", "3.0", "103.82"]}
 {"error": "price must be between", "id": "pricecraft-extension-112", "input": ["leather folding table travel", "secondhand/accessories", "2", "-Infinity"]}
 {"error": "title and category", "id": "pricecraft-281", "input": [" ", " home/retail/assorted ", "2", "104.19"]}
+{"expected": ["leather mixer travel", "secondhand/equipment", 3, -0.0], "id": "pricecraft-extension-113", "input": ["leather mixer travel", "secondhand/equipment", "3", "-0"]}
