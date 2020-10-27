@@ -218,3 +218,4 @@
 {"expected": ["leather mixer travel", "secondhand/equipment", 3, -0.0], "id": "pricecraft-extension-113", "input": ["leather mixer travel", "secondhand/equipment", "3", "-0"]}
 {"expected": ["leather telescope travel", "secondhand/household", 4, 12.5], "id": "pricecraft-extension-114", "input": ["leather telescope travel", "secondhand/household", "4", "+12.50"]}
 {"error": "title and category", "id": "pricecraft-282", "input": [" toy train brushed travel ", " ", "2", "104.56"]}
+{"expected": ["leather bicycle rack travel", "secondhand/accessories", 5, 999999.99], "id": "pricecraft-extension-115", "input": ["leather bicycle rack travel", "secondhand/accessories", "5", " 999999.99 "]}
