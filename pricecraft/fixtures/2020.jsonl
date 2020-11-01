@@ -221,3 +221,4 @@
 {"expected": ["leather bicycle rack travel", "secondhand/accessories", 5, 999999.99], "id": "pricecraft-extension-115", "input": ["leather bicycle rack travel", "secondhand/accessories", "5", " 999999.99 "]}
 {"expected": ["rug brushed travel", "home/auction/assorted", 2, 104.93], "id": "pricecraft-283", "input": [" rug brushed travel ", " home/auction/assorted ", "  2", "104.93"]}
 {"error": "price must be between", "id": "pricecraft-284", "input": [" children’s book brushed travel ", " books/outlet/assorted ", "2", "inf"]}
+{"expected": ["desk light brushed travel\nwith instructions", "home/trade/assorted", 2, 105.67], "id": "pricecraft-285", "input": ["desk light brushed travel\nwith instructions", " home/trade/assorted ", "2", "105.67"]}
