@@ -223,3 +223,4 @@
 {"error": "price must be between", "id": "pricecraft-284", "input": [" children’s book brushed travel ", " books/outlet/assorted ", "2", "inf"]}
 {"expected": ["desk light brushed travel\nwith instructions", "home/trade/assorted", 2, 105.67], "id": "pricecraft-285", "input": ["desk light brushed travel\nwith instructions", " home/trade/assorted ", "2", "105.67"]}
 {"expected": ["leather travel kettle travel", "secondhand/equipment", 1, 1e-07], "id": "pricecraft-extension-116", "input": ["leather travel kettle travel", "secondhand/equipment", "1", "1e-7"]}
+{"expected": ["trompeta brushed travel", "music/consignment/assorted", 2, 0.0], "id": "pricecraft-286", "input": [" trompeta brushed travel ", " music/consignment/assorted ", "2", "0"]}
