@@ -225,3 +225,4 @@
 {"expected": ["leather travel kettle travel", "secondhand/equipment", 1, 1e-07], "id": "pricecraft-extension-116", "input": ["leather travel kettle travel", "secondhand/equipment", "1", "1e-7"]}
 {"expected": ["trompeta brushed travel", "music/consignment/assorted", 2, 0.0], "id": "pricecraft-286", "input": [" trompeta brushed travel ", " music/consignment/assorted ", "2", "0"]}
 {"expected": ["ручка brushed travel", "stationery/direct/assorted", 2, 1000000.0], "id": "pricecraft-287", "input": [" ручка brushed travel ", " stationery/direct/assorted ", "2", "1000000"]}
+{"error": "price must be a number", "id": "pricecraft-extension-117", "input": ["leather watch strap travel", "secondhand/household", "2", "1,25"]}
