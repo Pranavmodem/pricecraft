@@ -226,3 +226,4 @@
 {"expected": ["trompeta brushed travel", "music/consignment/assorted", 2, 0.0], "id": "pricecraft-286", "input": [" trompeta brushed travel ", " music/consignment/assorted ", "2", "0"]}
 {"expected": ["ручка brushed travel", "stationery/direct/assorted", 2, 1000000.0], "id": "pricecraft-287", "input": [" ручка brushed travel ", " stationery/direct/assorted ", "2", "1000000"]}
 {"error": "price must be a number", "id": "pricecraft-extension-117", "input": ["leather watch strap travel", "secondhand/household", "2", "1,25"]}
+{"expected": ["case #1 brushed travel", "accessories/retail/reissue", 2, 250.0], "id": "pricecraft-288", "input": [" case #1 brushed travel ", " accessories/retail/reissue ", "2", "2.50e2"]}
