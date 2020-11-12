@@ -230,3 +230,4 @@
 {"error": "price must be between", "id": "pricecraft-289", "input": [" sci-fi poster brushed travel ", " art/resale/reissue ", "2", "NaN"]}
 {"error": "price must be between", "id": "pricecraft-extension-118", "input": ["leather book stand travel", "secondhand/accessories", "3", "1e309"]}
 {"error": "price must be between", "id": "pricecraft-290", "input": [" lamp textured travel ", " home/auction/reissue ", "3", "-0.01"]}
+{"expected": ["leather tuner travel", "secondhand/equipment", 4, 24.75], "id": "pricecraft-extension-119", "input": ["leather tuner travel", "secondhand/equipment", "4", " 24.75 "]}
