@@ -233,3 +233,4 @@
 {"expected": ["leather tuner travel", "secondhand/equipment", 4, 24.75], "id": "pricecraft-extension-119", "input": ["leather tuner travel", "secondhand/equipment", "4", " 24.75 "]}
 {"error": "price must be between", "id": "pricecraft-extension-120", "input": ["leather mortar travel", "secondhand/household", "5", "-Infinity"]}
 {"expected": ["aluminum tripod outdoor", "secondhand/accessories", 1, -0.0], "id": "pricecraft-extension-121", "input": ["aluminum tripod outdoor", "secondhand/accessories", "1", "-0"]}
+{"error": "price must be between", "id": "pricecraft-291", "input": [" mug, ceramic textured travel ", " kitchen/outlet/reissue ", "3", "1000000.01"]}
