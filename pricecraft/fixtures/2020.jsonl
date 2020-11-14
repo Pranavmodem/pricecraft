@@ -234,3 +234,4 @@
 {"error": "price must be between", "id": "pricecraft-extension-120", "input": ["leather mortar travel", "secondhand/household", "5", "-Infinity"]}
 {"expected": ["aluminum tripod outdoor", "secondhand/accessories", 1, -0.0], "id": "pricecraft-extension-121", "input": ["aluminum tripod outdoor", "secondhand/accessories", "1", "-0"]}
 {"error": "price must be between", "id": "pricecraft-291", "input": [" mug, ceramic textured travel ", " kitchen/outlet/reissue ", "3", "1000000.01"]}
+{"expected": ["aluminum folding table outdoor", "secondhand/equipment", 2, 12.5], "id": "pricecraft-extension-122", "input": ["aluminum folding table outdoor", "secondhand/equipment", "2", "+12.50"]}
