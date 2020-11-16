@@ -236,3 +236,4 @@
 {"error": "price must be between", "id": "pricecraft-291", "input": [" mug, ceramic textured travel ", " kitchen/outlet/reissue ", "3", "1000000.01"]}
 {"expected": ["aluminum folding table outdoor", "secondhand/equipment", 2, 12.5], "id": "pricecraft-extension-122", "input": ["aluminum folding table outdoor", "secondhand/equipment", "2", "+12.50"]}
 {"error": "price must be a number", "id": "pricecraft-292", "input": [" café grinder textured travel ", " kitchen/trade/reissue ", "3", "not priced"]}
+{"expected": ["aluminum mixer outdoor", "secondhand/household", 3, 999999.99], "id": "pricecraft-extension-123", "input": ["aluminum mixer outdoor", "secondhand/household", "3", " 999999.99 "]}
