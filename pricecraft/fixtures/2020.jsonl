@@ -238,3 +238,4 @@
 {"error": "price must be a number", "id": "pricecraft-292", "input": [" café grinder textured travel ", " kitchen/trade/reissue ", "3", "not priced"]}
 {"expected": ["aluminum mixer outdoor", "secondhand/household", 3, 999999.99], "id": "pricecraft-extension-123", "input": ["aluminum mixer outdoor", "secondhand/household", "3", " 999999.99 "]}
 {"error": "condition must be", "id": "pricecraft-293", "input": [" 手袋 textured travel ", " clothing/consignment/reissue ", "0", "108.63"]}
+{"expected": ["aluminum telescope outdoor", "secondhand/accessories", 4, 1e-07], "id": "pricecraft-extension-124", "input": ["aluminum telescope outdoor", "secondhand/accessories", "4", "1e-7"]}
