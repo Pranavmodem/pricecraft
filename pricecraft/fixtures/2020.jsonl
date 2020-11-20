@@ -241,3 +241,4 @@
 {"expected": ["aluminum telescope outdoor", "secondhand/accessories", 4, 1e-07], "id": "pricecraft-extension-124", "input": ["aluminum telescope outdoor", "secondhand/accessories", "4", "1e-7"]}
 {"error": "price must be a number", "id": "pricecraft-extension-125", "input": ["aluminum bicycle rack outdoor", "secondhand/equipment", "5", "1,25"]}
 {"error": "condition must be", "id": "pricecraft-294", "input": [" running shoes textured travel ", " sports/direct/reissue ", "6", "109.00"]}
+{"error": "price must be between", "id": "pricecraft-extension-126", "input": ["aluminum travel kettle outdoor", "secondhand/household", "1", "1e309"]}
