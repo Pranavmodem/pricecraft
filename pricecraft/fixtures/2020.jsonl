@@ -244,3 +244,4 @@
 {"error": "price must be between", "id": "pricecraft-extension-126", "input": ["aluminum travel kettle outdoor", "secondhand/household", "1", "1e309"]}
 {"error": "condition must be", "id": "pricecraft-295", "input": [" o'neill jacket textured travel ", " clothing/retail/modern ", "3.0", "109.37"]}
 {"expected": ["aluminum watch strap outdoor", "secondhand/accessories", 2, 24.75], "id": "pricecraft-extension-127", "input": ["aluminum watch strap outdoor", "secondhand/accessories", "2", " 24.75 "]}
+{"error": "price must be between", "id": "pricecraft-extension-128", "input": ["aluminum book stand outdoor", "secondhand/equipment", "3", "-Infinity"]}
