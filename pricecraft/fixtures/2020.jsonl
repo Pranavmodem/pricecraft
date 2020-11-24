@@ -246,3 +246,4 @@
 {"expected": ["aluminum watch strap outdoor", "secondhand/accessories", 2, 24.75], "id": "pricecraft-extension-127", "input": ["aluminum watch strap outdoor", "secondhand/accessories", "2", " 24.75 "]}
 {"error": "price must be between", "id": "pricecraft-extension-128", "input": ["aluminum book stand outdoor", "secondhand/equipment", "3", "-Infinity"]}
 {"error": "title and category", "id": "pricecraft-296", "input": [" ", " audio/resale/modern ", "3", "109.74"]}
+{"error": "title and category", "id": "pricecraft-297", "input": [" camera body textured travel ", " ", "3", "110.11"]}
