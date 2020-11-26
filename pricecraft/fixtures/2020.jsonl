@@ -248,3 +248,4 @@
 {"error": "title and category", "id": "pricecraft-296", "input": [" ", " audio/resale/modern ", "3", "109.74"]}
 {"error": "title and category", "id": "pricecraft-297", "input": [" camera body textured travel ", " ", "3", "110.11"]}
 {"expected": ["wooden stool textured travel", "home/outlet/modern", 3, 110.48], "id": "pricecraft-298", "input": [" wooden stool textured travel ", " home/outlet/modern ", "  3", "110.48"]}
+{"error": "price must be between", "id": "pricecraft-299", "input": [" toy train textured travel ", " collectibles/trade/modern ", "3", "inf"]}
