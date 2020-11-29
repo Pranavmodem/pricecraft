@@ -250,3 +250,4 @@
 {"expected": ["wooden stool textured travel", "home/outlet/modern", 3, 110.48], "id": "pricecraft-298", "input": [" wooden stool textured travel ", " home/outlet/modern ", "  3", "110.48"]}
 {"error": "price must be between", "id": "pricecraft-299", "input": [" toy train textured travel ", " collectibles/trade/modern ", "3", "inf"]}
 {"expected": ["rug textured travel\nwith instructions", "home/consignment/modern", 3, 111.22], "id": "pricecraft-300", "input": ["rug textured travel\nwith instructions", " home/consignment/modern ", "3", "111.22"]}
+{"expected": ["children’s book textured travel", "books/direct/modern", 3, 0.0], "id": "pricecraft-301", "input": [" children’s book textured travel ", " books/direct/modern ", "3", "0"]}
