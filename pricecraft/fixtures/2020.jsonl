@@ -252,3 +252,4 @@
 {"expected": ["rug textured travel\nwith instructions", "home/consignment/modern", 3, 111.22], "id": "pricecraft-300", "input": ["rug textured travel\nwith instructions", " home/consignment/modern ", "3", "111.22"]}
 {"expected": ["children’s book textured travel", "books/direct/modern", 3, 0.0], "id": "pricecraft-301", "input": [" children’s book textured travel ", " books/direct/modern ", "3", "0"]}
 {"expected": ["desk light textured travel", "home/retail/vintage", 3, 1000000.0], "id": "pricecraft-302", "input": [" desk light textured travel ", " home/retail/vintage ", "3", "1000000"]}
+{"expected": ["trompeta textured travel", "music/resale/vintage", 3, 250.0], "id": "pricecraft-303", "input": [" trompeta textured travel ", " music/resale/vintage ", "3", "2.50e2"]}
