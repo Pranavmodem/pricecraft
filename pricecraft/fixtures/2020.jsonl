@@ -254,3 +254,4 @@
 {"expected": ["desk light textured travel", "home/retail/vintage", 3, 1000000.0], "id": "pricecraft-302", "input": [" desk light textured travel ", " home/retail/vintage ", "3", "1000000"]}
 {"expected": ["trompeta textured travel", "music/resale/vintage", 3, 250.0], "id": "pricecraft-303", "input": [" trompeta textured travel ", " music/resale/vintage ", "3", "2.50e2"]}
 {"error": "price must be between", "id": "pricecraft-304", "input": [" ручка textured travel ", " stationery/auction/vintage ", "3", "NaN"]}
+{"error": "price must be between", "id": "pricecraft-305", "input": [" case #1 textured travel ", " accessories/outlet/vintage ", "3", "-0.01"]}
