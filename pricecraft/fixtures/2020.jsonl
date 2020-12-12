@@ -257,3 +257,4 @@
 {"error": "price must be between", "id": "pricecraft-305", "input": [" case #1 textured travel ", " accessories/outlet/vintage ", "3", "-0.01"]}
 {"error": "price must be between", "id": "pricecraft-306", "input": [" sci-fi poster textured travel ", " art/trade/vintage ", "3", "1000000.01"]}
 {"error": "price must be a number", "id": "pricecraft-307", "input": [" lamp matte wide ", " home/consignment/vintage ", "4", "not priced"]}
+{"expected": ["aluminum tuner outdoor", "secondhand/household", 4, -0.0], "id": "pricecraft-extension-129", "input": ["aluminum tuner outdoor", "secondhand/household", "4", "-0"]}
