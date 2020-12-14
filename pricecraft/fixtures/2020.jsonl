@@ -259,3 +259,4 @@
 {"error": "price must be a number", "id": "pricecraft-307", "input": [" lamp matte wide ", " home/consignment/vintage ", "4", "not priced"]}
 {"expected": ["aluminum tuner outdoor", "secondhand/household", 4, -0.0], "id": "pricecraft-extension-129", "input": ["aluminum tuner outdoor", "secondhand/household", "4", "-0"]}
 {"error": "condition must be", "id": "pricecraft-308", "input": [" mug, ceramic matte wide ", " kitchen/direct/vintage ", "0", "114.18"]}
+{"error": "condition must be", "id": "pricecraft-309", "input": [" café grinder matte wide ", " kitchen/retail/seasonal ", "6", "114.55"]}
