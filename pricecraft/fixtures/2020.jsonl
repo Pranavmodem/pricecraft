@@ -263,3 +263,4 @@
 {"expected": ["aluminum mortar outdoor", "secondhand/accessories", 5, 12.5], "id": "pricecraft-extension-130", "input": ["aluminum mortar outdoor", "secondhand/accessories", "5", "+12.50"]}
 {"error": "condition must be", "id": "pricecraft-310", "input": [" 手袋 matte wide ", " clothing/resale/seasonal ", "3.0", "114.92"]}
 {"expected": ["ceramic tripod outdoor", "secondhand/equipment", 1, 999999.99], "id": "pricecraft-extension-131", "input": ["ceramic tripod outdoor", "secondhand/equipment", "1", " 999999.99 "]}
+{"error": "title and category", "id": "pricecraft-311", "input": [" ", " sports/auction/seasonal ", "4", "115.29"]}
