@@ -267,3 +267,4 @@
 {"expected": ["ceramic folding table outdoor", "secondhand/household", 2, 1e-07], "id": "pricecraft-extension-132", "input": ["ceramic folding table outdoor", "secondhand/household", "2", "1e-7"]}
 {"error": "title and category", "id": "pricecraft-312", "input": [" o'neill jacket matte wide ", " ", "4", "115.66"]}
 {"error": "price must be a number", "id": "pricecraft-extension-133", "input": ["ceramic mixer outdoor", "secondhand/accessories", "3", "1,25"]}
+{"error": "price must be between", "id": "pricecraft-extension-134", "input": ["ceramic telescope outdoor", "secondhand/equipment", "4", "1e309"]}
