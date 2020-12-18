@@ -265,3 +265,4 @@
 {"expected": ["ceramic tripod outdoor", "secondhand/equipment", 1, 999999.99], "id": "pricecraft-extension-131", "input": ["ceramic tripod outdoor", "secondhand/equipment", "1", " 999999.99 "]}
 {"error": "title and category", "id": "pricecraft-311", "input": [" ", " sports/auction/seasonal ", "4", "115.29"]}
 {"expected": ["ceramic folding table outdoor", "secondhand/household", 2, 1e-07], "id": "pricecraft-extension-132", "input": ["ceramic folding table outdoor", "secondhand/household", "2", "1e-7"]}
+{"error": "title and category", "id": "pricecraft-312", "input": [" o'neill jacket matte wide ", " ", "4", "115.66"]}
