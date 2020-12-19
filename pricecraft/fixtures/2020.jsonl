@@ -268,3 +268,4 @@
 {"error": "title and category", "id": "pricecraft-312", "input": [" o'neill jacket matte wide ", " ", "4", "115.66"]}
 {"error": "price must be a number", "id": "pricecraft-extension-133", "input": ["ceramic mixer outdoor", "secondhand/accessories", "3", "1,25"]}
 {"error": "price must be between", "id": "pricecraft-extension-134", "input": ["ceramic telescope outdoor", "secondhand/equipment", "4", "1e309"]}
+{"expected": ["10\" speaker matte wide", "audio/trade/seasonal", 4, 116.03], "id": "pricecraft-313", "input": [" 10\" speaker matte wide ", " audio/trade/seasonal ", "  4", "116.03"]}
