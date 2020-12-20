@@ -274,3 +274,4 @@
 {"error": "price must be between", "id": "pricecraft-314", "input": [" camera body matte wide ", " electronics/consignment/seasonal ", "4", "inf"]}
 {"expected": ["ceramic watch strap outdoor", "secondhand/equipment", 2, -0.0], "id": "pricecraft-extension-137", "input": ["ceramic watch strap outdoor", "secondhand/equipment", "2", "-0"]}
 {"expected": ["ceramic book stand outdoor", "secondhand/household", 3, 12.5], "id": "pricecraft-extension-138", "input": ["ceramic book stand outdoor", "secondhand/household", "3", "+12.50"]}
+{"expected": ["ceramic tuner outdoor", "secondhand/accessories", 4, 999999.99], "id": "pricecraft-extension-139", "input": ["ceramic tuner outdoor", "secondhand/accessories", "4", " 999999.99 "]}
