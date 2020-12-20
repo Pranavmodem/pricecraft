@@ -272,3 +272,4 @@
 {"expected": ["ceramic bicycle rack outdoor", "secondhand/household", 5, 24.75], "id": "pricecraft-extension-135", "input": ["ceramic bicycle rack outdoor", "secondhand/household", "5", " 24.75 "]}
 {"error": "price must be between", "id": "pricecraft-extension-136", "input": ["ceramic travel kettle outdoor", "secondhand/accessories", "1", "-Infinity"]}
 {"error": "price must be between", "id": "pricecraft-314", "input": [" camera body matte wide ", " electronics/consignment/seasonal ", "4", "inf"]}
+{"expected": ["ceramic watch strap outdoor", "secondhand/equipment", 2, -0.0], "id": "pricecraft-extension-137", "input": ["ceramic watch strap outdoor", "secondhand/equipment", "2", "-0"]}
