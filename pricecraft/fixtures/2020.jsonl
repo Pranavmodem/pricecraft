@@ -278,3 +278,4 @@
 {"expected": ["ceramic mortar outdoor", "secondhand/equipment", 5, 1e-07], "id": "pricecraft-extension-140", "input": ["ceramic mortar outdoor", "secondhand/equipment", "5", "1e-7"]}
 {"error": "price must be a number", "id": "pricecraft-extension-141", "input": ["linen tripod outdoor", "secondhand/household", "1", "1,25"]}
 {"expected": ["wooden stool matte wide\nwith instructions", "home/direct/seasonal", 4, 116.77], "id": "pricecraft-315", "input": ["wooden stool matte wide\nwith instructions", " home/direct/seasonal ", "4", "116.77"]}
+{"expected": ["toy train matte wide", "collectibles/retail/basic", 4, 0.0], "id": "pricecraft-316", "input": [" toy train matte wide ", " collectibles/retail/basic ", "4", "0"]}
