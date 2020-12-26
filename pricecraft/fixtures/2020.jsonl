@@ -280,3 +280,4 @@
 {"expected": ["wooden stool matte wide\nwith instructions", "home/direct/seasonal", 4, 116.77], "id": "pricecraft-315", "input": ["wooden stool matte wide\nwith instructions", " home/direct/seasonal ", "4", "116.77"]}
 {"expected": ["toy train matte wide", "collectibles/retail/basic", 4, 0.0], "id": "pricecraft-316", "input": [" toy train matte wide ", " collectibles/retail/basic ", "4", "0"]}
 {"expected": ["rug matte wide", "home/resale/basic", 4, 1000000.0], "id": "pricecraft-317", "input": [" rug matte wide ", " home/resale/basic ", "4", "1000000"]}
+{"expected": ["children’s book matte wide", "books/auction/basic", 4, 250.0], "id": "pricecraft-318", "input": [" children’s book matte wide ", " books/auction/basic ", "4", "2.50e2"]}
