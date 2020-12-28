@@ -282,3 +282,4 @@
 {"expected": ["rug matte wide", "home/resale/basic", 4, 1000000.0], "id": "pricecraft-317", "input": [" rug matte wide ", " home/resale/basic ", "4", "1000000"]}
 {"expected": ["children’s book matte wide", "books/auction/basic", 4, 250.0], "id": "pricecraft-318", "input": [" children’s book matte wide ", " books/auction/basic ", "4", "2.50e2"]}
 {"error": "price must be between", "id": "pricecraft-319", "input": [" desk light matte wide ", " home/outlet/basic ", "4", "NaN"]}
+{"error": "price must be between", "id": "pricecraft-extension-142", "input": ["linen folding table outdoor", "secondhand/accessories", "2", "1e309"]}
