@@ -283,3 +283,4 @@
 {"expected": ["children’s book matte wide", "books/auction/basic", 4, 250.0], "id": "pricecraft-318", "input": [" children’s book matte wide ", " books/auction/basic ", "4", "2.50e2"]}
 {"error": "price must be between", "id": "pricecraft-319", "input": [" desk light matte wide ", " home/outlet/basic ", "4", "NaN"]}
 {"error": "price must be between", "id": "pricecraft-extension-142", "input": ["linen folding table outdoor", "secondhand/accessories", "2", "1e309"]}
+{"error": "price must be between", "id": "pricecraft-320", "input": [" trompeta matte wide ", " music/trade/basic ", "4", "-0.01"]}
