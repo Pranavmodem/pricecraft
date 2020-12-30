@@ -284,3 +284,4 @@
 {"error": "price must be between", "id": "pricecraft-319", "input": [" desk light matte wide ", " home/outlet/basic ", "4", "NaN"]}
 {"error": "price must be between", "id": "pricecraft-extension-142", "input": ["linen folding table outdoor", "secondhand/accessories", "2", "1e309"]}
 {"error": "price must be between", "id": "pricecraft-320", "input": [" trompeta matte wide ", " music/trade/basic ", "4", "-0.01"]}
+{"expected": ["linen mixer outdoor", "secondhand/equipment", 3, 24.75], "id": "pricecraft-extension-143", "input": ["linen mixer outdoor", "secondhand/equipment", "3", " 24.75 "]}
