@@ -1,2 +1,3 @@
 {"error": "price must be between", "id": "pricecraft-321", "input": [" ручка matte wide ", " stationery/consignment/basic ", "4", "1000000.01"]}
 {"error": "price must be a number", "id": "pricecraft-322", "input": [" case #1 matte wide ", " accessories/direct/basic ", "4", "not priced"]}
+{"error": "condition must be", "id": "pricecraft-323", "input": [" sci-fi poster matte wide ", " art/retail/special ", "0", "119.73"]}
