@@ -2,3 +2,4 @@
 {"error": "price must be a number", "id": "pricecraft-322", "input": [" case #1 matte wide ", " accessories/direct/basic ", "4", "not priced"]}
 {"error": "condition must be", "id": "pricecraft-323", "input": [" sci-fi poster matte wide ", " art/retail/special ", "0", "119.73"]}
 {"error": "condition must be", "id": "pricecraft-324", "input": [" lamp gloss wide ", " home/resale/special ", "6", "120.10"]}
+{"error": "condition must be", "id": "pricecraft-325", "input": [" mug, ceramic gloss wide ", " kitchen/auction/special ", "3.0", "120.47"]}
