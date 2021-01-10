@@ -3,3 +3,4 @@
 {"error": "condition must be", "id": "pricecraft-323", "input": [" sci-fi poster matte wide ", " art/retail/special ", "0", "119.73"]}
 {"error": "condition must be", "id": "pricecraft-324", "input": [" lamp gloss wide ", " home/resale/special ", "6", "120.10"]}
 {"error": "condition must be", "id": "pricecraft-325", "input": [" mug, ceramic gloss wide ", " kitchen/auction/special ", "3.0", "120.47"]}
+{"error": "title and category", "id": "pricecraft-326", "input": [" ", " kitchen/outlet/special ", "5", "120.84"]}
