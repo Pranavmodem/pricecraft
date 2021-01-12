@@ -4,3 +4,4 @@
 {"error": "condition must be", "id": "pricecraft-324", "input": [" lamp gloss wide ", " home/resale/special ", "6", "120.10"]}
 {"error": "condition must be", "id": "pricecraft-325", "input": [" mug, ceramic gloss wide ", " kitchen/auction/special ", "3.0", "120.47"]}
 {"error": "title and category", "id": "pricecraft-326", "input": [" ", " kitchen/outlet/special ", "5", "120.84"]}
+{"error": "title and category", "id": "pricecraft-327", "input": [" 手袋 gloss wide ", " ", "5", "121.21"]}
