@@ -10,3 +10,4 @@
 {"expected": ["linen travel kettle outdoor", "secondhand/equipment", 1, 12.5], "id": "pricecraft-extension-146", "input": ["linen travel kettle outdoor", "secondhand/equipment", "1", "+12.50"]}
 {"expected": ["running shoes gloss wide", "sports/consignment/special", 5, 121.58], "id": "pricecraft-328", "input": [" running shoes gloss wide ", " sports/consignment/special ", "  5", "121.58"]}
 {"expected": ["linen watch strap outdoor", "secondhand/household", 2, 999999.99], "id": "pricecraft-extension-147", "input": ["linen watch strap outdoor", "secondhand/household", "2", " 999999.99 "]}
+{"expected": ["linen book stand outdoor", "secondhand/accessories", 3, 1e-07], "id": "pricecraft-extension-148", "input": ["linen book stand outdoor", "secondhand/accessories", "3", "1e-7"]}
