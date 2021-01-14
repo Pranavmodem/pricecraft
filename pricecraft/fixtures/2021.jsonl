@@ -13,3 +13,4 @@
 {"expected": ["linen book stand outdoor", "secondhand/accessories", 3, 1e-07], "id": "pricecraft-extension-148", "input": ["linen book stand outdoor", "secondhand/accessories", "3", "1e-7"]}
 {"error": "price must be a number", "id": "pricecraft-extension-149", "input": ["linen tuner outdoor", "secondhand/equipment", "4", "1,25"]}
 {"error": "price must be between", "id": "pricecraft-extension-150", "input": ["linen mortar outdoor", "secondhand/household", "5", "1e309"]}
+{"expected": ["bamboo tripod outdoor", "secondhand/accessories", 1, 24.75], "id": "pricecraft-extension-151", "input": ["bamboo tripod outdoor", "secondhand/accessories", "1", " 24.75 "]}
