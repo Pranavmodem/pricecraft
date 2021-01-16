@@ -16,3 +16,4 @@
 {"expected": ["bamboo tripod outdoor", "secondhand/accessories", 1, 24.75], "id": "pricecraft-extension-151", "input": ["bamboo tripod outdoor", "secondhand/accessories", "1", " 24.75 "]}
 {"error": "price must be between", "id": "pricecraft-329", "input": [" o'neill jacket gloss wide ", " clothing/direct/special ", "5", "inf"]}
 {"error": "price must be between", "id": "pricecraft-extension-152", "input": ["bamboo folding table outdoor", "secondhand/equipment", "2", "-Infinity"]}
+{"expected": ["10\" speaker gloss wide\nwith instructions", "audio/retail/assorted", 5, 122.32], "id": "pricecraft-330", "input": ["10\" speaker gloss wide\nwith instructions", " audio/retail/assorted ", "5", "122.32"]}
