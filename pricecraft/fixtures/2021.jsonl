@@ -18,3 +18,4 @@
 {"error": "price must be between", "id": "pricecraft-extension-152", "input": ["bamboo folding table outdoor", "secondhand/equipment", "2", "-Infinity"]}
 {"expected": ["10\" speaker gloss wide\nwith instructions", "audio/retail/assorted", 5, 122.32], "id": "pricecraft-330", "input": ["10\" speaker gloss wide\nwith instructions", " audio/retail/assorted ", "5", "122.32"]}
 {"expected": ["bamboo mixer outdoor", "secondhand/household", 3, -0.0], "id": "pricecraft-extension-153", "input": ["bamboo mixer outdoor", "secondhand/household", "3", "-0"]}
+{"expected": ["camera body gloss wide", "electronics/resale/assorted", 5, 0.0], "id": "pricecraft-331", "input": [" camera body gloss wide ", " electronics/resale/assorted ", "5", "0"]}
