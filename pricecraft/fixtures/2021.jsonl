@@ -20,3 +20,4 @@
 {"expected": ["bamboo mixer outdoor", "secondhand/household", 3, -0.0], "id": "pricecraft-extension-153", "input": ["bamboo mixer outdoor", "secondhand/household", "3", "-0"]}
 {"expected": ["camera body gloss wide", "electronics/resale/assorted", 5, 0.0], "id": "pricecraft-331", "input": [" camera body gloss wide ", " electronics/resale/assorted ", "5", "0"]}
 {"expected": ["bamboo telescope outdoor", "secondhand/accessories", 4, 12.5], "id": "pricecraft-extension-154", "input": ["bamboo telescope outdoor", "secondhand/accessories", "4", "+12.50"]}
+{"expected": ["wooden stool gloss wide", "home/auction/assorted", 5, 1000000.0], "id": "pricecraft-332", "input": [" wooden stool gloss wide ", " home/auction/assorted ", "5", "1000000"]}
