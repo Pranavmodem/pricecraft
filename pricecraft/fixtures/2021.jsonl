@@ -23,3 +23,4 @@
 {"expected": ["wooden stool gloss wide", "home/auction/assorted", 5, 1000000.0], "id": "pricecraft-332", "input": [" wooden stool gloss wide ", " home/auction/assorted ", "5", "1000000"]}
 {"expected": ["toy train gloss wide", "collectibles/outlet/assorted", 5, 250.0], "id": "pricecraft-333", "input": [" toy train gloss wide ", " collectibles/outlet/assorted ", "5", "2.50e2"]}
 {"error": "price must be between", "id": "pricecraft-334", "input": [" rug gloss wide ", " home/trade/assorted ", "5", "NaN"]}
+{"error": "price must be between", "id": "pricecraft-335", "input": [" children’s book gloss wide ", " books/consignment/assorted ", "5", "-0.01"]}
