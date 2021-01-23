@@ -25,3 +25,4 @@
 {"error": "price must be between", "id": "pricecraft-334", "input": [" rug gloss wide ", " home/trade/assorted ", "5", "NaN"]}
 {"error": "price must be between", "id": "pricecraft-335", "input": [" children’s book gloss wide ", " books/consignment/assorted ", "5", "-0.01"]}
 {"error": "price must be between", "id": "pricecraft-336", "input": [" desk light gloss wide ", " home/direct/assorted ", "5", "1000000.01"]}
+{"expected": ["bamboo bicycle rack outdoor", "secondhand/equipment", 5, 999999.99], "id": "pricecraft-extension-155", "input": ["bamboo bicycle rack outdoor", "secondhand/equipment", "5", " 999999.99 "]}
