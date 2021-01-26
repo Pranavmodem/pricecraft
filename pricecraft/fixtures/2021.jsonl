@@ -29,3 +29,4 @@
 {"error": "price must be a number", "id": "pricecraft-337", "input": [" trompeta gloss wide ", " music/retail/reissue ", "5", "not priced"]}
 {"expected": ["bamboo travel kettle outdoor", "secondhand/household", 1, 1e-07], "id": "pricecraft-extension-156", "input": ["bamboo travel kettle outdoor", "secondhand/household", "1", "1e-7"]}
 {"error": "condition must be", "id": "pricecraft-338", "input": [" ручка gloss wide ", " stationery/resale/reissue ", "0", "125.28"]}
+{"error": "condition must be", "id": "pricecraft-339", "input": [" case #1 gloss wide ", " accessories/auction/reissue ", "6", "125.65"]}
