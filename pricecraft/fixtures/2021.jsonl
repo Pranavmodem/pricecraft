@@ -33,3 +33,4 @@
 {"error": "condition must be", "id": "pricecraft-340", "input": [" sci-fi poster gloss wide ", " art/outlet/reissue ", "3.0", "126.02"]}
 {"error": "title and category", "id": "pricecraft-341", "input": [" ", " home/trade/reissue ", "1", "126.39"]}
 {"error": "title and category", "id": "pricecraft-342", "input": [" mug, ceramic clear wide ", " ", "1", "126.76"]}
+{"expected": ["café grinder clear wide", "kitchen/direct/reissue", 1, 127.13], "id": "pricecraft-343", "input": [" café grinder clear wide ", " kitchen/direct/reissue ", "  1", "127.13"]}
