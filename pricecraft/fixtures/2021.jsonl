@@ -34,3 +34,4 @@
 {"error": "title and category", "id": "pricecraft-341", "input": [" ", " home/trade/reissue ", "1", "126.39"]}
 {"error": "title and category", "id": "pricecraft-342", "input": [" mug, ceramic clear wide ", " ", "1", "126.76"]}
 {"expected": ["café grinder clear wide", "kitchen/direct/reissue", 1, 127.13], "id": "pricecraft-343", "input": [" café grinder clear wide ", " kitchen/direct/reissue ", "  1", "127.13"]}
+{"error": "price must be between", "id": "pricecraft-344", "input": [" 手袋 clear wide ", " clothing/retail/modern ", "1", "inf"]}
