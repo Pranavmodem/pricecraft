@@ -35,3 +35,4 @@
 {"error": "title and category", "id": "pricecraft-342", "input": [" mug, ceramic clear wide ", " ", "1", "126.76"]}
 {"expected": ["café grinder clear wide", "kitchen/direct/reissue", 1, 127.13], "id": "pricecraft-343", "input": [" café grinder clear wide ", " kitchen/direct/reissue ", "  1", "127.13"]}
 {"error": "price must be between", "id": "pricecraft-344", "input": [" 手袋 clear wide ", " clothing/retail/modern ", "1", "inf"]}
+{"expected": ["running shoes clear wide\nwith instructions", "sports/resale/modern", 1, 127.87], "id": "pricecraft-345", "input": ["running shoes clear wide\nwith instructions", " sports/resale/modern ", "1", "127.87"]}
