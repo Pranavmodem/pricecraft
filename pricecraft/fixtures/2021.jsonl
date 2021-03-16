@@ -42,3 +42,4 @@
 {"expected": ["camera body clear wide", "electronics/trade/modern", 1, 250.0], "id": "pricecraft-348", "input": [" camera body clear wide ", " electronics/trade/modern ", "1", "2.50e2"]}
 {"error": "price must be between", "id": "pricecraft-349", "input": [" wooden stool clear wide ", " home/consignment/modern ", "1", "NaN"]}
 {"error": "price must be between", "id": "pricecraft-extension-158", "input": ["bamboo book stand outdoor", "secondhand/equipment", "3", "1e309"]}
+{"error": "price must be between", "id": "pricecraft-350", "input": [" toy train clear wide ", " collectibles/direct/modern ", "1", "-0.01"]}
