@@ -46,3 +46,4 @@
 {"error": "price must be between", "id": "pricecraft-351", "input": [" rug clear wide ", " home/retail/vintage ", "1", "1000000.01"]}
 {"expected": ["bamboo tuner outdoor", "secondhand/household", 4, 24.75], "id": "pricecraft-extension-159", "input": ["bamboo tuner outdoor", "secondhand/household", "4", " 24.75 "]}
 {"error": "price must be a number", "id": "pricecraft-352", "input": [" children’s book clear wide ", " books/resale/vintage ", "1", "not priced"]}
+{"error": "condition must be", "id": "pricecraft-353", "input": [" desk light clear wide ", " home/auction/vintage ", "0", "130.83"]}
