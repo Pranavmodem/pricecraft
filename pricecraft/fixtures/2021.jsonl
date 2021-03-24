@@ -47,3 +47,4 @@
 {"expected": ["bamboo tuner outdoor", "secondhand/household", 4, 24.75], "id": "pricecraft-extension-159", "input": ["bamboo tuner outdoor", "secondhand/household", "4", " 24.75 "]}
 {"error": "price must be a number", "id": "pricecraft-352", "input": [" children’s book clear wide ", " books/resale/vintage ", "1", "not priced"]}
 {"error": "condition must be", "id": "pricecraft-353", "input": [" desk light clear wide ", " home/auction/vintage ", "0", "130.83"]}
+{"error": "condition must be", "id": "pricecraft-354", "input": [" trompeta clear wide ", " music/outlet/vintage ", "6", "131.20"]}
