@@ -50,3 +50,4 @@
 {"error": "condition must be", "id": "pricecraft-354", "input": [" trompeta clear wide ", " music/outlet/vintage ", "6", "131.20"]}
 {"error": "condition must be", "id": "pricecraft-355", "input": [" ручка clear wide ", " stationery/trade/vintage ", "3.0", "131.57"]}
 {"error": "title and category", "id": "pricecraft-356", "input": [" ", " accessories/consignment/vintage ", "1", "131.94"]}
+{"error": "title and category", "id": "pricecraft-357", "input": [" sci-fi poster clear wide ", " ", "1", "132.31"]}
