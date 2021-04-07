@@ -52,3 +52,4 @@
 {"error": "title and category", "id": "pricecraft-356", "input": [" ", " accessories/consignment/vintage ", "1", "131.94"]}
 {"error": "title and category", "id": "pricecraft-357", "input": [" sci-fi poster clear wide ", " ", "1", "132.31"]}
 {"expected": ["lamp natural wide", "home/retail/seasonal", 2, 132.68], "id": "pricecraft-358", "input": [" lamp natural wide ", " home/retail/seasonal ", "  2", "132.68"]}
+{"error": "price must be between", "id": "pricecraft-359", "input": [" mug, ceramic natural wide ", " kitchen/resale/seasonal ", "2", "inf"]}
