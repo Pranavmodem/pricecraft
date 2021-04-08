@@ -53,3 +53,4 @@
 {"error": "title and category", "id": "pricecraft-357", "input": [" sci-fi poster clear wide ", " ", "1", "132.31"]}
 {"expected": ["lamp natural wide", "home/retail/seasonal", 2, 132.68], "id": "pricecraft-358", "input": [" lamp natural wide ", " home/retail/seasonal ", "  2", "132.68"]}
 {"error": "price must be between", "id": "pricecraft-359", "input": [" mug, ceramic natural wide ", " kitchen/resale/seasonal ", "2", "inf"]}
+{"expected": ["café grinder natural wide\nwith instructions", "kitchen/auction/seasonal", 2, 133.42], "id": "pricecraft-360", "input": ["café grinder natural wide\nwith instructions", " kitchen/auction/seasonal ", "2", "133.42"]}
