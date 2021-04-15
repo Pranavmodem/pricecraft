@@ -56,3 +56,4 @@
 {"expected": ["café grinder natural wide\nwith instructions", "kitchen/auction/seasonal", 2, 133.42], "id": "pricecraft-360", "input": ["café grinder natural wide\nwith instructions", " kitchen/auction/seasonal ", "2", "133.42"]}
 {"expected": ["手袋 natural wide", "clothing/outlet/seasonal", 2, 0.0], "id": "pricecraft-361", "input": [" 手袋 natural wide ", " clothing/outlet/seasonal ", "2", "0"]}
 {"expected": ["running shoes natural wide", "sports/trade/seasonal", 2, 1000000.0], "id": "pricecraft-362", "input": [" running shoes natural wide ", " sports/trade/seasonal ", "2", "1000000"]}
+{"expected": ["o'neill jacket natural wide", "clothing/consignment/seasonal", 2, 250.0], "id": "pricecraft-363", "input": [" o'neill jacket natural wide ", " clothing/consignment/seasonal ", "2", "2.50e2"]}
