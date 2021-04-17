@@ -58,3 +58,4 @@
 {"expected": ["running shoes natural wide", "sports/trade/seasonal", 2, 1000000.0], "id": "pricecraft-362", "input": [" running shoes natural wide ", " sports/trade/seasonal ", "2", "1000000"]}
 {"expected": ["o'neill jacket natural wide", "clothing/consignment/seasonal", 2, 250.0], "id": "pricecraft-363", "input": [" o'neill jacket natural wide ", " clothing/consignment/seasonal ", "2", "2.50e2"]}
 {"error": "price must be between", "id": "pricecraft-364", "input": [" 10\" speaker natural wide ", " audio/direct/seasonal ", "2", "NaN"]}
+{"error": "price must be between", "id": "pricecraft-365", "input": [" camera body natural wide ", " electronics/retail/basic ", "2", "-0.01"]}
