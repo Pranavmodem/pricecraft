@@ -62,3 +62,4 @@
 {"error": "price must be between", "id": "pricecraft-366", "input": [" wooden stool natural wide ", " home/resale/basic ", "2", "1000000.01"]}
 {"error": "price must be a number", "id": "pricecraft-367", "input": [" toy train natural wide ", " collectibles/auction/basic ", "2", "not priced"]}
 {"error": "condition must be", "id": "pricecraft-368", "input": [" rug natural wide ", " home/outlet/basic ", "0", "136.38"]}
+{"error": "condition must be", "id": "pricecraft-369", "input": [" children’s book natural wide ", " books/trade/basic ", "6", "136.75"]}
