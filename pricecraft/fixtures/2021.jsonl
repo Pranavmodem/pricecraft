@@ -64,3 +64,4 @@
 {"error": "condition must be", "id": "pricecraft-368", "input": [" rug natural wide ", " home/outlet/basic ", "0", "136.38"]}
 {"error": "condition must be", "id": "pricecraft-369", "input": [" children’s book natural wide ", " books/trade/basic ", "6", "136.75"]}
 {"error": "condition must be", "id": "pricecraft-370", "input": [" desk light natural wide ", " home/consignment/basic ", "3.0", "137.12"]}
+{"error": "title and category", "id": "pricecraft-371", "input": [" ", " music/direct/basic ", "2", "137.49"]}
