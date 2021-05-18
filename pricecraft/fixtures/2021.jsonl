@@ -68,3 +68,4 @@
 {"error": "title and category", "id": "pricecraft-372", "input": [" ручка natural wide ", " ", "2", "137.86"]}
 {"expected": ["case #1 natural wide", "accessories/resale/special", 2, 138.23], "id": "pricecraft-373", "input": [" case #1 natural wide ", " accessories/resale/special ", "  2", "138.23"]}
 {"error": "price must be between", "id": "pricecraft-374", "input": [" sci-fi poster natural wide ", " art/auction/special ", "2", "inf"]}
+{"expected": ["lamp brushed wide\nwith instructions", "home/outlet/special", 3, 138.97], "id": "pricecraft-375", "input": ["lamp brushed wide\nwith instructions", " home/outlet/special ", "3", "138.97"]}
