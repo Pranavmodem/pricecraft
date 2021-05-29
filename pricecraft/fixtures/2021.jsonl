@@ -71,3 +71,4 @@
 {"expected": ["lamp brushed wide\nwith instructions", "home/outlet/special", 3, 138.97], "id": "pricecraft-375", "input": ["lamp brushed wide\nwith instructions", " home/outlet/special ", "3", "138.97"]}
 {"expected": ["mug, ceramic brushed wide", "kitchen/trade/special", 3, 0.0], "id": "pricecraft-376", "input": [" mug, ceramic brushed wide ", " kitchen/trade/special ", "3", "0"]}
 {"expected": ["café grinder brushed wide", "kitchen/consignment/special", 3, 1000000.0], "id": "pricecraft-377", "input": [" café grinder brushed wide ", " kitchen/consignment/special ", "3", "1000000"]}
+{"error": "price must be between", "id": "pricecraft-extension-160", "input": ["bamboo mortar outdoor", "secondhand/accessories", "5", "-Infinity"]}
