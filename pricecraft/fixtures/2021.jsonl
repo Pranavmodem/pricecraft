@@ -73,3 +73,4 @@
 {"expected": ["café grinder brushed wide", "kitchen/consignment/special", 3, 1000000.0], "id": "pricecraft-377", "input": [" café grinder brushed wide ", " kitchen/consignment/special ", "3", "1000000"]}
 {"error": "price must be between", "id": "pricecraft-extension-160", "input": ["bamboo mortar outdoor", "secondhand/accessories", "5", "-Infinity"]}
 {"expected": ["手袋 brushed wide", "clothing/direct/special", 3, 250.0], "id": "pricecraft-378", "input": [" 手袋 brushed wide ", " clothing/direct/special ", "3", "2.50e2"]}
+{"error": "price must be between", "id": "pricecraft-379", "input": [" running shoes brushed wide ", " sports/retail/assorted ", "3", "NaN"]}
