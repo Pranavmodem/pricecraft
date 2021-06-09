@@ -76,3 +76,4 @@
 {"error": "price must be between", "id": "pricecraft-379", "input": [" running shoes brushed wide ", " sports/retail/assorted ", "3", "NaN"]}
 {"error": "price must be between", "id": "pricecraft-380", "input": [" o'neill jacket brushed wide ", " clothing/resale/assorted ", "3", "-0.01"]}
 {"expected": ["steel tripod outdoor", "secondhand/equipment", 1, -0.0], "id": "pricecraft-extension-161", "input": ["steel tripod outdoor", "secondhand/equipment", "1", "-0"]}
+{"error": "price must be between", "id": "pricecraft-381", "input": [" 10\" speaker brushed wide ", " audio/auction/assorted ", "3", "1000000.01"]}
