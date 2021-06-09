@@ -77,3 +77,4 @@
 {"error": "price must be between", "id": "pricecraft-380", "input": [" o'neill jacket brushed wide ", " clothing/resale/assorted ", "3", "-0.01"]}
 {"expected": ["steel tripod outdoor", "secondhand/equipment", 1, -0.0], "id": "pricecraft-extension-161", "input": ["steel tripod outdoor", "secondhand/equipment", "1", "-0"]}
 {"error": "price must be between", "id": "pricecraft-381", "input": [" 10\" speaker brushed wide ", " audio/auction/assorted ", "3", "1000000.01"]}
+{"expected": ["steel folding table outdoor", "secondhand/household", 2, 12.5], "id": "pricecraft-extension-162", "input": ["steel folding table outdoor", "secondhand/household", "2", "+12.50"]}
