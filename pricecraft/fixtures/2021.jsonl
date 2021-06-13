@@ -79,3 +79,4 @@
 {"error": "price must be between", "id": "pricecraft-381", "input": [" 10\" speaker brushed wide ", " audio/auction/assorted ", "3", "1000000.01"]}
 {"expected": ["steel folding table outdoor", "secondhand/household", 2, 12.5], "id": "pricecraft-extension-162", "input": ["steel folding table outdoor", "secondhand/household", "2", "+12.50"]}
 {"error": "price must be a number", "id": "pricecraft-382", "input": [" camera body brushed wide ", " electronics/outlet/assorted ", "3", "not priced"]}
+{"error": "condition must be", "id": "pricecraft-383", "input": [" wooden stool brushed wide ", " home/trade/assorted ", "0", "141.93"]}
