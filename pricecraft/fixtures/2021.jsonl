@@ -81,3 +81,4 @@
 {"error": "price must be a number", "id": "pricecraft-382", "input": [" camera body brushed wide ", " electronics/outlet/assorted ", "3", "not priced"]}
 {"error": "condition must be", "id": "pricecraft-383", "input": [" wooden stool brushed wide ", " home/trade/assorted ", "0", "141.93"]}
 {"error": "condition must be", "id": "pricecraft-384", "input": [" toy train brushed wide ", " collectibles/consignment/assorted ", "6", "142.30"]}
+{"error": "condition must be", "id": "pricecraft-385", "input": [" rug brushed wide ", " home/direct/assorted ", "3.0", "142.67"]}
