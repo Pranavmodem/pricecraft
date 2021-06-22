@@ -83,3 +83,4 @@
 {"error": "condition must be", "id": "pricecraft-384", "input": [" toy train brushed wide ", " collectibles/consignment/assorted ", "6", "142.30"]}
 {"error": "condition must be", "id": "pricecraft-385", "input": [" rug brushed wide ", " home/direct/assorted ", "3.0", "142.67"]}
 {"error": "title and category", "id": "pricecraft-386", "input": [" ", " books/retail/reissue ", "3", "143.04"]}
+{"error": "title and category", "id": "pricecraft-387", "input": [" desk light brushed wide ", " ", "3", "143.41"]}
