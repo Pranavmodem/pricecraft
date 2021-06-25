@@ -85,3 +85,4 @@
 {"error": "title and category", "id": "pricecraft-386", "input": [" ", " books/retail/reissue ", "3", "143.04"]}
 {"error": "title and category", "id": "pricecraft-387", "input": [" desk light brushed wide ", " ", "3", "143.41"]}
 {"expected": ["trompeta brushed wide", "music/auction/reissue", 3, 143.78], "id": "pricecraft-388", "input": [" trompeta brushed wide ", " music/auction/reissue ", "  3", "143.78"]}
+{"error": "price must be between", "id": "pricecraft-389", "input": [" ручка brushed wide ", " stationery/outlet/reissue ", "3", "inf"]}
