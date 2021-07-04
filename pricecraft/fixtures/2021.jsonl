@@ -87,3 +87,4 @@
 {"expected": ["trompeta brushed wide", "music/auction/reissue", 3, 143.78], "id": "pricecraft-388", "input": [" trompeta brushed wide ", " music/auction/reissue ", "  3", "143.78"]}
 {"error": "price must be between", "id": "pricecraft-389", "input": [" ручка brushed wide ", " stationery/outlet/reissue ", "3", "inf"]}
 {"expected": ["case #1 brushed wide\nwith instructions", "accessories/trade/reissue", 3, 144.52], "id": "pricecraft-390", "input": ["case #1 brushed wide\nwith instructions", " accessories/trade/reissue ", "3", "144.52"]}
+{"expected": ["sci-fi poster brushed wide", "art/consignment/reissue", 3, 0.0], "id": "pricecraft-391", "input": [" sci-fi poster brushed wide ", " art/consignment/reissue ", "3", "0"]}
