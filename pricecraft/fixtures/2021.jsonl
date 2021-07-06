@@ -88,3 +88,4 @@
 {"error": "price must be between", "id": "pricecraft-389", "input": [" ручка brushed wide ", " stationery/outlet/reissue ", "3", "inf"]}
 {"expected": ["case #1 brushed wide\nwith instructions", "accessories/trade/reissue", 3, 144.52], "id": "pricecraft-390", "input": ["case #1 brushed wide\nwith instructions", " accessories/trade/reissue ", "3", "144.52"]}
 {"expected": ["sci-fi poster brushed wide", "art/consignment/reissue", 3, 0.0], "id": "pricecraft-391", "input": [" sci-fi poster brushed wide ", " art/consignment/reissue ", "3", "0"]}
+{"expected": ["lamp textured wide", "home/direct/reissue", 4, 1000000.0], "id": "pricecraft-392", "input": [" lamp textured wide ", " home/direct/reissue ", "4", "1000000"]}
