@@ -90,3 +90,4 @@
 {"expected": ["sci-fi poster brushed wide", "art/consignment/reissue", 3, 0.0], "id": "pricecraft-391", "input": [" sci-fi poster brushed wide ", " art/consignment/reissue ", "3", "0"]}
 {"expected": ["lamp textured wide", "home/direct/reissue", 4, 1000000.0], "id": "pricecraft-392", "input": [" lamp textured wide ", " home/direct/reissue ", "4", "1000000"]}
 {"expected": ["mug, ceramic textured wide", "kitchen/retail/modern", 4, 250.0], "id": "pricecraft-393", "input": [" mug, ceramic textured wide ", " kitchen/retail/modern ", "4", "2.50e2"]}
+{"error": "price must be between", "id": "pricecraft-394", "input": [" café grinder textured wide ", " kitchen/resale/modern ", "4", "NaN"]}
