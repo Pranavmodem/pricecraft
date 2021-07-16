@@ -93,3 +93,4 @@
 {"error": "price must be between", "id": "pricecraft-394", "input": [" café grinder textured wide ", " kitchen/resale/modern ", "4", "NaN"]}
 {"error": "price must be between", "id": "pricecraft-395", "input": [" 手袋 textured wide ", " clothing/auction/modern ", "4", "-0.01"]}
 {"error": "price must be between", "id": "pricecraft-396", "input": [" running shoes textured wide ", " sports/outlet/modern ", "4", "1000000.01"]}
+{"error": "price must be a number", "id": "pricecraft-397", "input": [" o'neill jacket textured wide ", " clothing/trade/modern ", "4", "not priced"]}
