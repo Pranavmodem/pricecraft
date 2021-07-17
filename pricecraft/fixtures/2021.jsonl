@@ -94,3 +94,4 @@
 {"error": "price must be between", "id": "pricecraft-395", "input": [" 手袋 textured wide ", " clothing/auction/modern ", "4", "-0.01"]}
 {"error": "price must be between", "id": "pricecraft-396", "input": [" running shoes textured wide ", " sports/outlet/modern ", "4", "1000000.01"]}
 {"error": "price must be a number", "id": "pricecraft-397", "input": [" o'neill jacket textured wide ", " clothing/trade/modern ", "4", "not priced"]}
+{"error": "condition must be", "id": "pricecraft-398", "input": [" 10\" speaker textured wide ", " audio/consignment/modern ", "0", "147.48"]}
