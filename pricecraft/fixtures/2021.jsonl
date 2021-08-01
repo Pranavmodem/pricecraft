@@ -98,3 +98,4 @@
 {"error": "condition must be", "id": "pricecraft-399", "input": [" camera body textured wide ", " electronics/direct/modern ", "6", "147.85"]}
 {"error": "condition must be", "id": "pricecraft-400", "input": [" wooden stool textured wide ", " home/retail/vintage ", "3.0", "148.22"]}
 {"error": "title and category", "id": "pricecraft-401", "input": [" ", " collectibles/resale/vintage ", "4", "148.59"]}
+{"error": "title and category", "id": "pricecraft-402", "input": [" rug textured wide ", " ", "4", "148.96"]}
