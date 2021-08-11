@@ -99,3 +99,4 @@
 {"error": "condition must be", "id": "pricecraft-400", "input": [" wooden stool textured wide ", " home/retail/vintage ", "3.0", "148.22"]}
 {"error": "title and category", "id": "pricecraft-401", "input": [" ", " collectibles/resale/vintage ", "4", "148.59"]}
 {"error": "title and category", "id": "pricecraft-402", "input": [" rug textured wide ", " ", "4", "148.96"]}
+{"expected": ["children’s book textured wide", "books/outlet/vintage", 4, 149.33], "id": "pricecraft-403", "input": [" children’s book textured wide ", " books/outlet/vintage ", "  4", "149.33"]}
