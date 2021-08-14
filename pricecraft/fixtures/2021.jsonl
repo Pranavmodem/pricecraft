@@ -104,3 +104,4 @@
 {"error": "price must be between", "id": "pricecraft-404", "input": [" desk light textured wide ", " home/trade/vintage ", "4", "inf"]}
 {"expected": ["steel telescope outdoor", "secondhand/equipment", 4, 1e-07], "id": "pricecraft-extension-164", "input": ["steel telescope outdoor", "secondhand/equipment", "4", "1e-7"]}
 {"error": "price must be a number", "id": "pricecraft-extension-165", "input": ["steel bicycle rack outdoor", "secondhand/household", "5", "1,25"]}
+{"expected": ["trompeta textured wide\nwith instructions", "music/consignment/vintage", 4, 150.07], "id": "pricecraft-405", "input": ["trompeta textured wide\nwith instructions", " music/consignment/vintage ", "4", "150.07"]}
