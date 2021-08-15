@@ -107,3 +107,4 @@
 {"expected": ["trompeta textured wide\nwith instructions", "music/consignment/vintage", 4, 150.07], "id": "pricecraft-405", "input": ["trompeta textured wide\nwith instructions", " music/consignment/vintage ", "4", "150.07"]}
 {"error": "price must be between", "id": "pricecraft-extension-166", "input": ["steel travel kettle outdoor", "secondhand/accessories", "1", "1e309"]}
 {"expected": ["steel watch strap outdoor", "secondhand/equipment", 2, 24.75], "id": "pricecraft-extension-167", "input": ["steel watch strap outdoor", "secondhand/equipment", "2", " 24.75 "]}
+{"expected": ["ручка textured wide", "stationery/direct/vintage", 4, 0.0], "id": "pricecraft-406", "input": [" ручка textured wide ", " stationery/direct/vintage ", "4", "0"]}
