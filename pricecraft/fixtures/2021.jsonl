@@ -110,3 +110,4 @@
 {"expected": ["ручка textured wide", "stationery/direct/vintage", 4, 0.0], "id": "pricecraft-406", "input": [" ручка textured wide ", " stationery/direct/vintage ", "4", "0"]}
 {"error": "price must be between", "id": "pricecraft-extension-168", "input": ["steel book stand outdoor", "secondhand/household", "3", "-Infinity"]}
 {"expected": ["steel tuner outdoor", "secondhand/accessories", 4, -0.0], "id": "pricecraft-extension-169", "input": ["steel tuner outdoor", "secondhand/accessories", "4", "-0"]}
+{"expected": ["steel mortar outdoor", "secondhand/equipment", 5, 12.5], "id": "pricecraft-extension-170", "input": ["steel mortar outdoor", "secondhand/equipment", "5", "+12.50"]}
