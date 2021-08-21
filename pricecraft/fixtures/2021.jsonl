@@ -115,3 +115,4 @@
 {"expected": ["case #1 textured wide", "accessories/retail/seasonal", 4, 1000000.0], "id": "pricecraft-407", "input": [" case #1 textured wide ", " accessories/retail/seasonal ", "4", "1000000"]}
 {"expected": ["leather folding table outdoor", "secondhand/accessories", 2, 1e-07], "id": "pricecraft-extension-172", "input": ["leather folding table outdoor", "secondhand/accessories", "2", "1e-7"]}
 {"expected": ["sci-fi poster textured wide", "art/resale/seasonal", 4, 250.0], "id": "pricecraft-408", "input": [" sci-fi poster textured wide ", " art/resale/seasonal ", "4", "2.50e2"]}
+{"error": "price must be a number", "id": "pricecraft-extension-173", "input": ["leather mixer outdoor", "secondhand/equipment", "3", "1,25"]}
