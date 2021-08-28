@@ -117,3 +117,4 @@
 {"expected": ["sci-fi poster textured wide", "art/resale/seasonal", 4, 250.0], "id": "pricecraft-408", "input": [" sci-fi poster textured wide ", " art/resale/seasonal ", "4", "2.50e2"]}
 {"error": "price must be a number", "id": "pricecraft-extension-173", "input": ["leather mixer outdoor", "secondhand/equipment", "3", "1,25"]}
 {"error": "price must be between", "id": "pricecraft-extension-174", "input": ["leather telescope outdoor", "secondhand/household", "4", "1e309"]}
+{"error": "price must be between", "id": "pricecraft-409", "input": [" lamp matte classic ", " home/auction/seasonal ", "5", "NaN"]}
