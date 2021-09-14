@@ -122,3 +122,4 @@
 {"error": "price must be between", "id": "pricecraft-411", "input": [" café grinder matte classic ", " kitchen/trade/seasonal ", "5", "1000000.01"]}
 {"error": "price must be a number", "id": "pricecraft-412", "input": [" 手袋 matte classic ", " clothing/consignment/seasonal ", "5", "not priced"]}
 {"error": "condition must be", "id": "pricecraft-413", "input": [" running shoes matte classic ", " sports/direct/seasonal ", "0", "153.03"]}
+{"expected": ["leather bicycle rack outdoor", "secondhand/accessories", 5, 24.75], "id": "pricecraft-extension-175", "input": ["leather bicycle rack outdoor", "secondhand/accessories", "5", " 24.75 "]}
