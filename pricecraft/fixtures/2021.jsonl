@@ -124,3 +124,4 @@
 {"error": "condition must be", "id": "pricecraft-413", "input": [" running shoes matte classic ", " sports/direct/seasonal ", "0", "153.03"]}
 {"expected": ["leather bicycle rack outdoor", "secondhand/accessories", 5, 24.75], "id": "pricecraft-extension-175", "input": ["leather bicycle rack outdoor", "secondhand/accessories", "5", " 24.75 "]}
 {"error": "condition must be", "id": "pricecraft-414", "input": [" o'neill jacket matte classic ", " clothing/retail/basic ", "6", "153.40"]}
+{"error": "price must be between", "id": "pricecraft-extension-176", "input": ["leather travel kettle outdoor", "secondhand/equipment", "1", "-Infinity"]}
