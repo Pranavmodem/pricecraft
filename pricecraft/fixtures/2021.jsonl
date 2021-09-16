@@ -129,3 +129,4 @@
 {"error": "condition must be", "id": "pricecraft-415", "input": [" 10\" speaker matte classic ", " audio/resale/basic ", "3.0", "153.77"]}
 {"expected": ["leather book stand outdoor", "secondhand/accessories", 3, 12.5], "id": "pricecraft-extension-178", "input": ["leather book stand outdoor", "secondhand/accessories", "3", "+12.50"]}
 {"expected": ["leather tuner outdoor", "secondhand/equipment", 4, 999999.99], "id": "pricecraft-extension-179", "input": ["leather tuner outdoor", "secondhand/equipment", "4", " 999999.99 "]}
+{"expected": ["leather mortar outdoor", "secondhand/household", 5, 1e-07], "id": "pricecraft-extension-180", "input": ["leather mortar outdoor", "secondhand/household", "5", "1e-7"]}
