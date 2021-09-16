@@ -125,3 +125,4 @@
 {"expected": ["leather bicycle rack outdoor", "secondhand/accessories", 5, 24.75], "id": "pricecraft-extension-175", "input": ["leather bicycle rack outdoor", "secondhand/accessories", "5", " 24.75 "]}
 {"error": "condition must be", "id": "pricecraft-414", "input": [" o'neill jacket matte classic ", " clothing/retail/basic ", "6", "153.40"]}
 {"error": "price must be between", "id": "pricecraft-extension-176", "input": ["leather travel kettle outdoor", "secondhand/equipment", "1", "-Infinity"]}
+{"expected": ["leather watch strap outdoor", "secondhand/household", 2, -0.0], "id": "pricecraft-extension-177", "input": ["leather watch strap outdoor", "secondhand/household", "2", "-0"]}
