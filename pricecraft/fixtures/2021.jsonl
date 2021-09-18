@@ -130,3 +130,4 @@
 {"expected": ["leather book stand outdoor", "secondhand/accessories", 3, 12.5], "id": "pricecraft-extension-178", "input": ["leather book stand outdoor", "secondhand/accessories", "3", "+12.50"]}
 {"expected": ["leather tuner outdoor", "secondhand/equipment", 4, 999999.99], "id": "pricecraft-extension-179", "input": ["leather tuner outdoor", "secondhand/equipment", "4", " 999999.99 "]}
 {"expected": ["leather mortar outdoor", "secondhand/household", 5, 1e-07], "id": "pricecraft-extension-180", "input": ["leather mortar outdoor", "secondhand/household", "5", "1e-7"]}
+{"error": "title and category", "id": "pricecraft-416", "input": [" ", " electronics/auction/basic ", "5", "154.14"]}
