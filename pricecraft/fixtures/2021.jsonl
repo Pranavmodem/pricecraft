@@ -134,3 +134,4 @@
 {"error": "price must be a number", "id": "pricecraft-extension-181", "input": ["aluminum tripod compact", "secondhand/accessories", "1", "1,25"]}
 {"error": "title and category", "id": "pricecraft-417", "input": [" wooden stool matte classic ", " ", "5", "154.51"]}
 {"expected": ["toy train matte classic", "collectibles/trade/basic", 5, 154.88], "id": "pricecraft-418", "input": [" toy train matte classic ", " collectibles/trade/basic ", "  5", "154.88"]}
+{"error": "price must be between", "id": "pricecraft-419", "input": [" rug matte classic ", " home/consignment/basic ", "5", "inf"]}
