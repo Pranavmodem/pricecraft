@@ -136,3 +136,4 @@
 {"expected": ["toy train matte classic", "collectibles/trade/basic", 5, 154.88], "id": "pricecraft-418", "input": [" toy train matte classic ", " collectibles/trade/basic ", "  5", "154.88"]}
 {"error": "price must be between", "id": "pricecraft-419", "input": [" rug matte classic ", " home/consignment/basic ", "5", "inf"]}
 {"expected": ["children’s book matte classic\nwith instructions", "books/direct/basic", 5, 155.62], "id": "pricecraft-420", "input": ["children’s book matte classic\nwith instructions", " books/direct/basic ", "5", "155.62"]}
+{"expected": ["desk light matte classic", "home/retail/special", 5, 0.0], "id": "pricecraft-421", "input": [" desk light matte classic ", " home/retail/special ", "5", "0"]}
