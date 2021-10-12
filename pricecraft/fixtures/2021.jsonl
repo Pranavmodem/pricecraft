@@ -137,3 +137,4 @@
 {"error": "price must be between", "id": "pricecraft-419", "input": [" rug matte classic ", " home/consignment/basic ", "5", "inf"]}
 {"expected": ["children’s book matte classic\nwith instructions", "books/direct/basic", 5, 155.62], "id": "pricecraft-420", "input": ["children’s book matte classic\nwith instructions", " books/direct/basic ", "5", "155.62"]}
 {"expected": ["desk light matte classic", "home/retail/special", 5, 0.0], "id": "pricecraft-421", "input": [" desk light matte classic ", " home/retail/special ", "5", "0"]}
+{"expected": ["trompeta matte classic", "music/resale/special", 5, 1000000.0], "id": "pricecraft-422", "input": [" trompeta matte classic ", " music/resale/special ", "5", "1000000"]}
