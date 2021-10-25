@@ -144,3 +144,4 @@
 {"error": "price must be between", "id": "pricecraft-426", "input": [" lamp gloss classic ", " home/consignment/special ", "1", "1000000.01"]}
 {"error": "price must be a number", "id": "pricecraft-427", "input": [" mug, ceramic gloss classic ", " kitchen/direct/special ", "1", "not priced"]}
 {"error": "condition must be", "id": "pricecraft-428", "input": [" café grinder gloss classic ", " kitchen/retail/assorted ", "0", "158.58"]}
+{"error": "condition must be", "id": "pricecraft-429", "input": [" 手袋 gloss classic ", " clothing/resale/assorted ", "6", "158.95"]}
