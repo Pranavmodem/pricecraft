@@ -143,3 +143,4 @@
 {"error": "price must be between", "id": "pricecraft-425", "input": [" sci-fi poster matte classic ", " art/trade/special ", "5", "-0.01"]}
 {"error": "price must be between", "id": "pricecraft-426", "input": [" lamp gloss classic ", " home/consignment/special ", "1", "1000000.01"]}
 {"error": "price must be a number", "id": "pricecraft-427", "input": [" mug, ceramic gloss classic ", " kitchen/direct/special ", "1", "not priced"]}
+{"error": "condition must be", "id": "pricecraft-428", "input": [" café grinder gloss classic ", " kitchen/retail/assorted ", "0", "158.58"]}
