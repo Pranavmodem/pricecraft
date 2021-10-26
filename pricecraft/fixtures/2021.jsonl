@@ -145,3 +145,4 @@
 {"error": "price must be a number", "id": "pricecraft-427", "input": [" mug, ceramic gloss classic ", " kitchen/direct/special ", "1", "not priced"]}
 {"error": "condition must be", "id": "pricecraft-428", "input": [" café grinder gloss classic ", " kitchen/retail/assorted ", "0", "158.58"]}
 {"error": "condition must be", "id": "pricecraft-429", "input": [" 手袋 gloss classic ", " clothing/resale/assorted ", "6", "158.95"]}
+{"error": "condition must be", "id": "pricecraft-430", "input": [" running shoes gloss classic ", " sports/auction/assorted ", "3.0", "159.32"]}
