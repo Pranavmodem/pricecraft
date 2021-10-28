@@ -147,3 +147,4 @@
 {"error": "condition must be", "id": "pricecraft-429", "input": [" 手袋 gloss classic ", " clothing/resale/assorted ", "6", "158.95"]}
 {"error": "condition must be", "id": "pricecraft-430", "input": [" running shoes gloss classic ", " sports/auction/assorted ", "3.0", "159.32"]}
 {"error": "title and category", "id": "pricecraft-431", "input": [" ", " clothing/outlet/assorted ", "1", "159.69"]}
+{"error": "title and category", "id": "pricecraft-432", "input": [" 10\" speaker gloss classic ", " ", "1", "160.06"]}
