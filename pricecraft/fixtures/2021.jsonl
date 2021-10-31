@@ -148,3 +148,4 @@
 {"error": "condition must be", "id": "pricecraft-430", "input": [" running shoes gloss classic ", " sports/auction/assorted ", "3.0", "159.32"]}
 {"error": "title and category", "id": "pricecraft-431", "input": [" ", " clothing/outlet/assorted ", "1", "159.69"]}
 {"error": "title and category", "id": "pricecraft-432", "input": [" 10\" speaker gloss classic ", " ", "1", "160.06"]}
+{"expected": ["camera body gloss classic", "electronics/consignment/assorted", 1, 160.43], "id": "pricecraft-433", "input": [" camera body gloss classic ", " electronics/consignment/assorted ", "  1", "160.43"]}
