@@ -151,3 +151,4 @@
 {"expected": ["camera body gloss classic", "electronics/consignment/assorted", 1, 160.43], "id": "pricecraft-433", "input": [" camera body gloss classic ", " electronics/consignment/assorted ", "  1", "160.43"]}
 {"error": "price must be between", "id": "pricecraft-434", "input": [" wooden stool gloss classic ", " home/direct/assorted ", "1", "inf"]}
 {"expected": ["toy train gloss classic\nwith instructions", "collectibles/retail/reissue", 1, 161.17], "id": "pricecraft-435", "input": ["toy train gloss classic\nwith instructions", " collectibles/retail/reissue ", "1", "161.17"]}
+{"expected": ["rug gloss classic", "home/resale/reissue", 1, 0.0], "id": "pricecraft-436", "input": [" rug gloss classic ", " home/resale/reissue ", "1", "0"]}
