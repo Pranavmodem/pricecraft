@@ -152,3 +152,4 @@
 {"error": "price must be between", "id": "pricecraft-434", "input": [" wooden stool gloss classic ", " home/direct/assorted ", "1", "inf"]}
 {"expected": ["toy train gloss classic\nwith instructions", "collectibles/retail/reissue", 1, 161.17], "id": "pricecraft-435", "input": ["toy train gloss classic\nwith instructions", " collectibles/retail/reissue ", "1", "161.17"]}
 {"expected": ["rug gloss classic", "home/resale/reissue", 1, 0.0], "id": "pricecraft-436", "input": [" rug gloss classic ", " home/resale/reissue ", "1", "0"]}
+{"expected": ["children’s book gloss classic", "books/auction/reissue", 1, 1000000.0], "id": "pricecraft-437", "input": [" children’s book gloss classic ", " books/auction/reissue ", "1", "1000000"]}
