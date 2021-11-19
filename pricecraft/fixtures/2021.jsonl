@@ -156,3 +156,4 @@
 {"expected": ["desk light gloss classic", "home/outlet/reissue", 1, 250.0], "id": "pricecraft-438", "input": [" desk light gloss classic ", " home/outlet/reissue ", "1", "2.50e2"]}
 {"error": "price must be between", "id": "pricecraft-extension-182", "input": ["aluminum folding table compact", "secondhand/equipment", "2", "1e309"]}
 {"error": "price must be between", "id": "pricecraft-439", "input": [" trompeta gloss classic ", " music/trade/reissue ", "1", "NaN"]}
+{"expected": ["aluminum mixer compact", "secondhand/household", 3, 24.75], "id": "pricecraft-extension-183", "input": ["aluminum mixer compact", "secondhand/household", "3", " 24.75 "]}
