@@ -155,3 +155,4 @@
 {"expected": ["children’s book gloss classic", "books/auction/reissue", 1, 1000000.0], "id": "pricecraft-437", "input": [" children’s book gloss classic ", " books/auction/reissue ", "1", "1000000"]}
 {"expected": ["desk light gloss classic", "home/outlet/reissue", 1, 250.0], "id": "pricecraft-438", "input": [" desk light gloss classic ", " home/outlet/reissue ", "1", "2.50e2"]}
 {"error": "price must be between", "id": "pricecraft-extension-182", "input": ["aluminum folding table compact", "secondhand/equipment", "2", "1e309"]}
+{"error": "price must be between", "id": "pricecraft-439", "input": [" trompeta gloss classic ", " music/trade/reissue ", "1", "NaN"]}
