@@ -162,3 +162,4 @@
 {"error": "price must be between", "id": "pricecraft-441", "input": [" case #1 gloss classic ", " accessories/direct/reissue ", "1", "1000000.01"]}
 {"expected": ["aluminum bicycle rack compact", "secondhand/equipment", 5, -0.0], "id": "pricecraft-extension-185", "input": ["aluminum bicycle rack compact", "secondhand/equipment", "5", "-0"]}
 {"error": "price must be a number", "id": "pricecraft-442", "input": [" sci-fi poster gloss classic ", " art/retail/modern ", "1", "not priced"]}
+{"expected": ["aluminum travel kettle compact", "secondhand/household", 1, 12.5], "id": "pricecraft-extension-186", "input": ["aluminum travel kettle compact", "secondhand/household", "1", "+12.50"]}
