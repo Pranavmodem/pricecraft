@@ -164,3 +164,4 @@
 {"error": "price must be a number", "id": "pricecraft-442", "input": [" sci-fi poster gloss classic ", " art/retail/modern ", "1", "not priced"]}
 {"expected": ["aluminum travel kettle compact", "secondhand/household", 1, 12.5], "id": "pricecraft-extension-186", "input": ["aluminum travel kettle compact", "secondhand/household", "1", "+12.50"]}
 {"error": "condition must be", "id": "pricecraft-443", "input": [" lamp clear classic ", " home/resale/modern ", "0", "164.13"]}
+{"error": "condition must be", "id": "pricecraft-444", "input": [" mug, ceramic clear classic ", " kitchen/auction/modern ", "6", "164.50"]}
