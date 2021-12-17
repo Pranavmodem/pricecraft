@@ -167,3 +167,4 @@
 {"error": "condition must be", "id": "pricecraft-444", "input": [" mug, ceramic clear classic ", " kitchen/auction/modern ", "6", "164.50"]}
 {"error": "condition must be", "id": "pricecraft-445", "input": [" café grinder clear classic ", " kitchen/outlet/modern ", "3.0", "164.87"]}
 {"error": "title and category", "id": "pricecraft-446", "input": [" ", " clothing/trade/modern ", "2", "165.24"]}
+{"error": "title and category", "id": "pricecraft-447", "input": [" running shoes clear classic ", " ", "2", "165.61"]}
