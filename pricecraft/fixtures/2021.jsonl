@@ -170,3 +170,4 @@
 {"error": "title and category", "id": "pricecraft-447", "input": [" running shoes clear classic ", " ", "2", "165.61"]}
 {"expected": ["o'neill jacket clear classic", "clothing/direct/modern", 2, 165.98], "id": "pricecraft-448", "input": [" o'neill jacket clear classic ", " clothing/direct/modern ", "  2", "165.98"]}
 {"error": "price must be between", "id": "pricecraft-449", "input": [" 10\" speaker clear classic ", " audio/retail/vintage ", "2", "inf"]}
+{"expected": ["camera body clear classic\nwith instructions", "electronics/resale/vintage", 2, 166.72], "id": "pricecraft-450", "input": ["camera body clear classic\nwith instructions", " electronics/resale/vintage ", "2", "166.72"]}
