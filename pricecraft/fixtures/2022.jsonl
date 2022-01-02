@@ -1,1 +1,2 @@
 {"expected": ["wooden stool clear classic", "home/auction/vintage", 2, 0.0], "id": "pricecraft-451", "input": [" wooden stool clear classic ", " home/auction/vintage ", "2", "0"]}
+{"expected": ["aluminum watch strap compact", "secondhand/accessories", 2, 999999.99], "id": "pricecraft-extension-187", "input": ["aluminum watch strap compact", "secondhand/accessories", "2", " 999999.99 "]}
