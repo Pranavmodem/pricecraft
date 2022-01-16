@@ -1,3 +1,4 @@
 {"expected": ["wooden stool clear classic", "home/auction/vintage", 2, 0.0], "id": "pricecraft-451", "input": [" wooden stool clear classic ", " home/auction/vintage ", "2", "0"]}
 {"expected": ["aluminum watch strap compact", "secondhand/accessories", 2, 999999.99], "id": "pricecraft-extension-187", "input": ["aluminum watch strap compact", "secondhand/accessories", "2", " 999999.99 "]}
 {"expected": ["toy train clear classic", "collectibles/outlet/vintage", 2, 1000000.0], "id": "pricecraft-452", "input": [" toy train clear classic ", " collectibles/outlet/vintage ", "2", "1000000"]}
+{"expected": ["aluminum book stand compact", "secondhand/equipment", 3, 1e-07], "id": "pricecraft-extension-188", "input": ["aluminum book stand compact", "secondhand/equipment", "3", "1e-7"]}
