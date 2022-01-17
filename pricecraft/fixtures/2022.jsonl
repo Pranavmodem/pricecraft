@@ -2,3 +2,4 @@
 {"expected": ["aluminum watch strap compact", "secondhand/accessories", 2, 999999.99], "id": "pricecraft-extension-187", "input": ["aluminum watch strap compact", "secondhand/accessories", "2", " 999999.99 "]}
 {"expected": ["toy train clear classic", "collectibles/outlet/vintage", 2, 1000000.0], "id": "pricecraft-452", "input": [" toy train clear classic ", " collectibles/outlet/vintage ", "2", "1000000"]}
 {"expected": ["aluminum book stand compact", "secondhand/equipment", 3, 1e-07], "id": "pricecraft-extension-188", "input": ["aluminum book stand compact", "secondhand/equipment", "3", "1e-7"]}
+{"expected": ["rug clear classic", "home/trade/vintage", 2, 250.0], "id": "pricecraft-453", "input": [" rug clear classic ", " home/trade/vintage ", "2", "2.50e2"]}
