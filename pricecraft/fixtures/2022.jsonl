@@ -4,3 +4,4 @@
 {"expected": ["aluminum book stand compact", "secondhand/equipment", 3, 1e-07], "id": "pricecraft-extension-188", "input": ["aluminum book stand compact", "secondhand/equipment", "3", "1e-7"]}
 {"expected": ["rug clear classic", "home/trade/vintage", 2, 250.0], "id": "pricecraft-453", "input": [" rug clear classic ", " home/trade/vintage ", "2", "2.50e2"]}
 {"error": "price must be between", "id": "pricecraft-454", "input": [" children’s book clear classic ", " books/consignment/vintage ", "2", "NaN"]}
+{"error": "price must be between", "id": "pricecraft-455", "input": [" desk light clear classic ", " home/direct/vintage ", "2", "-0.01"]}
