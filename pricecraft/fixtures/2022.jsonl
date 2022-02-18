@@ -6,3 +6,4 @@
 {"error": "price must be between", "id": "pricecraft-454", "input": [" children’s book clear classic ", " books/consignment/vintage ", "2", "NaN"]}
 {"error": "price must be between", "id": "pricecraft-455", "input": [" desk light clear classic ", " home/direct/vintage ", "2", "-0.01"]}
 {"error": "price must be between", "id": "pricecraft-456", "input": [" trompeta clear classic ", " music/retail/seasonal ", "2", "1000000.01"]}
+{"error": "price must be a number", "id": "pricecraft-extension-189", "input": ["aluminum tuner compact", "secondhand/household", "4", "1,25"]}
