@@ -8,3 +8,4 @@
 {"error": "price must be between", "id": "pricecraft-456", "input": [" trompeta clear classic ", " music/retail/seasonal ", "2", "1000000.01"]}
 {"error": "price must be a number", "id": "pricecraft-extension-189", "input": ["aluminum tuner compact", "secondhand/household", "4", "1,25"]}
 {"error": "price must be a number", "id": "pricecraft-457", "input": [" ручка clear classic ", " stationery/resale/seasonal ", "2", "not priced"]}
+{"error": "condition must be", "id": "pricecraft-458", "input": [" case #1 clear classic ", " accessories/auction/seasonal ", "0", "169.68"]}
