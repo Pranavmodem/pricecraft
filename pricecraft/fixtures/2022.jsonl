@@ -10,3 +10,4 @@
 {"error": "price must be a number", "id": "pricecraft-457", "input": [" ручка clear classic ", " stationery/resale/seasonal ", "2", "not priced"]}
 {"error": "condition must be", "id": "pricecraft-458", "input": [" case #1 clear classic ", " accessories/auction/seasonal ", "0", "169.68"]}
 {"error": "condition must be", "id": "pricecraft-459", "input": [" sci-fi poster clear classic ", " art/outlet/seasonal ", "6", "170.05"]}
+{"error": "price must be between", "id": "pricecraft-extension-190", "input": ["aluminum mortar compact", "secondhand/accessories", "5", "1e309"]}
