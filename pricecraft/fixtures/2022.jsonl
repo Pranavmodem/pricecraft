@@ -11,3 +11,4 @@
 {"error": "condition must be", "id": "pricecraft-458", "input": [" case #1 clear classic ", " accessories/auction/seasonal ", "0", "169.68"]}
 {"error": "condition must be", "id": "pricecraft-459", "input": [" sci-fi poster clear classic ", " art/outlet/seasonal ", "6", "170.05"]}
 {"error": "price must be between", "id": "pricecraft-extension-190", "input": ["aluminum mortar compact", "secondhand/accessories", "5", "1e309"]}
+{"error": "condition must be", "id": "pricecraft-460", "input": [" lamp natural classic ", " home/trade/seasonal ", "3.0", "170.42"]}
