@@ -14,3 +14,4 @@
 {"error": "condition must be", "id": "pricecraft-460", "input": [" lamp natural classic ", " home/trade/seasonal ", "3.0", "170.42"]}
 {"error": "title and category", "id": "pricecraft-461", "input": [" ", " kitchen/consignment/seasonal ", "3", "170.79"]}
 {"error": "title and category", "id": "pricecraft-462", "input": [" café grinder natural classic ", " ", "3", "171.16"]}
+{"expected": ["手袋 natural classic", "clothing/retail/basic", 3, 171.53], "id": "pricecraft-463", "input": [" 手袋 natural classic ", " clothing/retail/basic ", "  3", "171.53"]}
