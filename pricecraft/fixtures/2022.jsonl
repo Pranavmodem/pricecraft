@@ -16,3 +16,4 @@
 {"error": "title and category", "id": "pricecraft-462", "input": [" café grinder natural classic ", " ", "3", "171.16"]}
 {"expected": ["手袋 natural classic", "clothing/retail/basic", 3, 171.53], "id": "pricecraft-463", "input": [" 手袋 natural classic ", " clothing/retail/basic ", "  3", "171.53"]}
 {"error": "price must be between", "id": "pricecraft-464", "input": [" running shoes natural classic ", " sports/resale/basic ", "3", "inf"]}
+{"expected": ["o'neill jacket natural classic\nwith instructions", "clothing/auction/basic", 3, 172.27], "id": "pricecraft-465", "input": ["o'neill jacket natural classic\nwith instructions", " clothing/auction/basic ", "3", "172.27"]}
