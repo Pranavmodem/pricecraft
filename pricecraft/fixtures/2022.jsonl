@@ -19,3 +19,4 @@
 {"expected": ["o'neill jacket natural classic\nwith instructions", "clothing/auction/basic", 3, 172.27], "id": "pricecraft-465", "input": ["o'neill jacket natural classic\nwith instructions", " clothing/auction/basic ", "3", "172.27"]}
 {"expected": ["10\" speaker natural classic", "audio/outlet/basic", 3, 0.0], "id": "pricecraft-466", "input": [" 10\" speaker natural classic ", " audio/outlet/basic ", "3", "0"]}
 {"expected": ["camera body natural classic", "electronics/trade/basic", 3, 1000000.0], "id": "pricecraft-467", "input": [" camera body natural classic ", " electronics/trade/basic ", "3", "1000000"]}
+{"expected": ["wooden stool natural classic", "home/consignment/basic", 3, 250.0], "id": "pricecraft-468", "input": [" wooden stool natural classic ", " home/consignment/basic ", "3", "2.50e2"]}
