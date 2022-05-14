@@ -22,3 +22,4 @@
 {"expected": ["wooden stool natural classic", "home/consignment/basic", 3, 250.0], "id": "pricecraft-468", "input": [" wooden stool natural classic ", " home/consignment/basic ", "3", "2.50e2"]}
 {"error": "price must be between", "id": "pricecraft-469", "input": [" toy train natural classic ", " collectibles/direct/basic ", "3", "NaN"]}
 {"expected": ["ceramic tripod compact", "secondhand/equipment", 1, 24.75], "id": "pricecraft-extension-191", "input": ["ceramic tripod compact", "secondhand/equipment", "1", " 24.75 "]}
+{"error": "price must be between", "id": "pricecraft-extension-192", "input": ["ceramic folding table compact", "secondhand/household", "2", "-Infinity"]}
