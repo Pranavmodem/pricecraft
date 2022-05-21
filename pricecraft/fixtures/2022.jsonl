@@ -24,3 +24,4 @@
 {"expected": ["ceramic tripod compact", "secondhand/equipment", 1, 24.75], "id": "pricecraft-extension-191", "input": ["ceramic tripod compact", "secondhand/equipment", "1", " 24.75 "]}
 {"error": "price must be between", "id": "pricecraft-extension-192", "input": ["ceramic folding table compact", "secondhand/household", "2", "-Infinity"]}
 {"error": "price must be between", "id": "pricecraft-470", "input": [" rug natural classic ", " home/retail/special ", "3", "-0.01"]}
+{"error": "price must be between", "id": "pricecraft-471", "input": [" children’s book natural classic ", " books/resale/special ", "3", "1000000.01"]}
