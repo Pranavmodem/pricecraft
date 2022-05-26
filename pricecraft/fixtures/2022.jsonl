@@ -26,3 +26,4 @@
 {"error": "price must be between", "id": "pricecraft-470", "input": [" rug natural classic ", " home/retail/special ", "3", "-0.01"]}
 {"error": "price must be between", "id": "pricecraft-471", "input": [" children’s book natural classic ", " books/resale/special ", "3", "1000000.01"]}
 {"expected": ["ceramic mixer compact", "secondhand/accessories", 3, -0.0], "id": "pricecraft-extension-193", "input": ["ceramic mixer compact", "secondhand/accessories", "3", "-0"]}
+{"error": "price must be a number", "id": "pricecraft-472", "input": [" desk light natural classic ", " home/auction/special ", "3", "not priced"]}
