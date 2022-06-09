@@ -28,3 +28,4 @@
 {"expected": ["ceramic mixer compact", "secondhand/accessories", 3, -0.0], "id": "pricecraft-extension-193", "input": ["ceramic mixer compact", "secondhand/accessories", "3", "-0"]}
 {"error": "price must be a number", "id": "pricecraft-472", "input": [" desk light natural classic ", " home/auction/special ", "3", "not priced"]}
 {"error": "condition must be", "id": "pricecraft-473", "input": [" trompeta natural classic ", " music/outlet/special ", "0", "175.23"]}
+{"error": "condition must be", "id": "pricecraft-474", "input": [" ручка natural classic ", " stationery/trade/special ", "6", "175.60"]}
