@@ -30,3 +30,4 @@
 {"error": "condition must be", "id": "pricecraft-473", "input": [" trompeta natural classic ", " music/outlet/special ", "0", "175.23"]}
 {"error": "condition must be", "id": "pricecraft-474", "input": [" ручка natural classic ", " stationery/trade/special ", "6", "175.60"]}
 {"error": "condition must be", "id": "pricecraft-475", "input": [" case #1 natural classic ", " accessories/consignment/special ", "3.0", "175.97"]}
+{"error": "title and category", "id": "pricecraft-476", "input": [" ", " art/direct/special ", "3", "176.34"]}
