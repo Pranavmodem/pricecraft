@@ -32,3 +32,4 @@
 {"error": "condition must be", "id": "pricecraft-475", "input": [" case #1 natural classic ", " accessories/consignment/special ", "3.0", "175.97"]}
 {"error": "title and category", "id": "pricecraft-476", "input": [" ", " art/direct/special ", "3", "176.34"]}
 {"error": "title and category", "id": "pricecraft-477", "input": [" lamp brushed classic ", " ", "4", "176.71"]}
+{"expected": ["mug, ceramic brushed classic", "kitchen/resale/assorted", 4, 177.08], "id": "pricecraft-478", "input": [" mug, ceramic brushed classic ", " kitchen/resale/assorted ", "  4", "177.08"]}
