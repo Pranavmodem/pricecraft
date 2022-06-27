@@ -34,3 +34,4 @@
 {"error": "title and category", "id": "pricecraft-477", "input": [" lamp brushed classic ", " ", "4", "176.71"]}
 {"expected": ["mug, ceramic brushed classic", "kitchen/resale/assorted", 4, 177.08], "id": "pricecraft-478", "input": [" mug, ceramic brushed classic ", " kitchen/resale/assorted ", "  4", "177.08"]}
 {"error": "price must be between", "id": "pricecraft-479", "input": [" café grinder brushed classic ", " kitchen/auction/assorted ", "4", "inf"]}
+{"expected": ["手袋 brushed classic\nwith instructions", "clothing/outlet/assorted", 4, 177.82], "id": "pricecraft-480", "input": ["手袋 brushed classic\nwith instructions", " clothing/outlet/assorted ", "4", "177.82"]}
