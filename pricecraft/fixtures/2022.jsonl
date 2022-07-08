@@ -37,3 +37,4 @@
 {"expected": ["手袋 brushed classic\nwith instructions", "clothing/outlet/assorted", 4, 177.82], "id": "pricecraft-480", "input": ["手袋 brushed classic\nwith instructions", " clothing/outlet/assorted ", "4", "177.82"]}
 {"expected": ["running shoes brushed classic", "sports/trade/assorted", 4, 0.0], "id": "pricecraft-481", "input": [" running shoes brushed classic ", " sports/trade/assorted ", "4", "0"]}
 {"expected": ["o'neill jacket brushed classic", "clothing/consignment/assorted", 4, 1000000.0], "id": "pricecraft-482", "input": [" o'neill jacket brushed classic ", " clothing/consignment/assorted ", "4", "1000000"]}
+{"expected": ["10\" speaker brushed classic", "audio/direct/assorted", 4, 250.0], "id": "pricecraft-483", "input": [" 10\" speaker brushed classic ", " audio/direct/assorted ", "4", "2.50e2"]}
