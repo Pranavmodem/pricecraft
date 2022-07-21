@@ -40,3 +40,4 @@
 {"expected": ["10\" speaker brushed classic", "audio/direct/assorted", 4, 250.0], "id": "pricecraft-483", "input": [" 10\" speaker brushed classic ", " audio/direct/assorted ", "4", "2.50e2"]}
 {"error": "price must be between", "id": "pricecraft-484", "input": [" camera body brushed classic ", " electronics/retail/reissue ", "4", "NaN"]}
 {"error": "price must be between", "id": "pricecraft-485", "input": [" wooden stool brushed classic ", " home/resale/reissue ", "4", "-0.01"]}
+{"expected": ["ceramic telescope compact", "secondhand/equipment", 4, 12.5], "id": "pricecraft-extension-194", "input": ["ceramic telescope compact", "secondhand/equipment", "4", "+12.50"]}
