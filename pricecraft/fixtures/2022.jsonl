@@ -43,3 +43,4 @@
 {"expected": ["ceramic telescope compact", "secondhand/equipment", 4, 12.5], "id": "pricecraft-extension-194", "input": ["ceramic telescope compact", "secondhand/equipment", "4", "+12.50"]}
 {"error": "price must be between", "id": "pricecraft-486", "input": [" toy train brushed classic ", " collectibles/auction/reissue ", "4", "1000000.01"]}
 {"error": "price must be a number", "id": "pricecraft-487", "input": [" rug brushed classic ", " home/outlet/reissue ", "4", "not priced"]}
+{"error": "condition must be", "id": "pricecraft-488", "input": [" children’s book brushed classic ", " books/trade/reissue ", "0", "180.78"]}
