@@ -20,8 +20,11 @@ def read_listings(path, *, priced):
         required.add("price")
 
     with open(path, encoding="utf-8-sig", newline="") as source:
-        rows = csv.DictReader(source)
-        headers = rows.fieldnames or []
+        rows = csv.DictReader(source, strict=True)
+        try:
+            headers = rows.fieldnames or []
+        except csv.Error as exc:
+            raise ValueError("malformed CSV header: {}".format(exc)) from exc
         missing = required.difference(headers)
         if missing:
             raise ValueError("missing columns: " + ", ".join(sorted(missing)))
@@ -29,11 +32,14 @@ def read_listings(path, *, priced):
             raise ValueError("duplicate column names")
 
         listings = []
-        for row in rows:
-            try:
-                listings.append(_parse_row(row, priced=priced))
-            except ValueError as exc:
-                raise ValueError("line {}: {}".format(rows.line_num, exc)) from exc
+        try:
+            for row in rows:
+                try:
+                    listings.append(_parse_row(row, priced=priced))
+                except ValueError as exc:
+                    raise ValueError("line {}: {}".format(rows.line_num, exc)) from exc
+        except csv.Error as exc:
+            raise ValueError("malformed CSV: {}".format(exc)) from exc
 
     if not listings:
         raise ValueError("no listings found")

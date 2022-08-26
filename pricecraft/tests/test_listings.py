@@ -38,3 +38,7 @@ class ListingTests(unittest.TestCase):
             self.read("title,category,condition,title\n", priced=False)
         with self.assertRaisesRegex(ValueError, "no listings found"):
             self.read("title,category,condition\n", priced=False)
+
+    def test_rejects_unterminated_quotes(self):
+        with self.assertRaisesRegex(ValueError, "malformed CSV"):
+            self.read('title,category,condition\n"lamp,home,4\n', priced=False)
