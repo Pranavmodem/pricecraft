@@ -45,3 +45,4 @@
 {"error": "price must be a number", "id": "pricecraft-487", "input": [" rug brushed classic ", " home/outlet/reissue ", "4", "not priced"]}
 {"error": "condition must be", "id": "pricecraft-488", "input": [" children’s book brushed classic ", " books/trade/reissue ", "0", "180.78"]}
 {"error": "condition must be", "id": "pricecraft-489", "input": [" desk light brushed classic ", " home/consignment/reissue ", "6", "181.15"]}
+{"error": "condition must be", "id": "pricecraft-490", "input": [" trompeta brushed classic ", " music/direct/reissue ", "3.0", "181.52"]}
