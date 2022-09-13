@@ -46,3 +46,4 @@
 {"error": "condition must be", "id": "pricecraft-488", "input": [" children’s book brushed classic ", " books/trade/reissue ", "0", "180.78"]}
 {"error": "condition must be", "id": "pricecraft-489", "input": [" desk light brushed classic ", " home/consignment/reissue ", "6", "181.15"]}
 {"error": "condition must be", "id": "pricecraft-490", "input": [" trompeta brushed classic ", " music/direct/reissue ", "3.0", "181.52"]}
+{"error": "title and category", "id": "pricecraft-491", "input": [" ", " stationery/retail/modern ", "4", "181.89"]}
