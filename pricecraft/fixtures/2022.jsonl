@@ -49,3 +49,4 @@
 {"error": "title and category", "id": "pricecraft-491", "input": [" ", " stationery/retail/modern ", "4", "181.89"]}
 {"expected": ["ceramic bicycle rack compact", "secondhand/household", 5, 999999.99], "id": "pricecraft-extension-195", "input": ["ceramic bicycle rack compact", "secondhand/household", "5", " 999999.99 "]}
 {"expected": ["ceramic travel kettle compact", "secondhand/accessories", 1, 1e-07], "id": "pricecraft-extension-196", "input": ["ceramic travel kettle compact", "secondhand/accessories", "1", "1e-7"]}
+{"error": "price must be a number", "id": "pricecraft-extension-197", "input": ["ceramic watch strap compact", "secondhand/equipment", "2", "1,25"]}
