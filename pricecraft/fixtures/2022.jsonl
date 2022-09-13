@@ -47,3 +47,4 @@
 {"error": "condition must be", "id": "pricecraft-489", "input": [" desk light brushed classic ", " home/consignment/reissue ", "6", "181.15"]}
 {"error": "condition must be", "id": "pricecraft-490", "input": [" trompeta brushed classic ", " music/direct/reissue ", "3.0", "181.52"]}
 {"error": "title and category", "id": "pricecraft-491", "input": [" ", " stationery/retail/modern ", "4", "181.89"]}
+{"expected": ["ceramic bicycle rack compact", "secondhand/household", 5, 999999.99], "id": "pricecraft-extension-195", "input": ["ceramic bicycle rack compact", "secondhand/household", "5", " 999999.99 "]}
