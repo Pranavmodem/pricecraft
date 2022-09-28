@@ -54,3 +54,4 @@
 {"error": "title and category", "id": "pricecraft-492", "input": [" case #1 brushed classic ", " ", "4", "182.26"]}
 {"expected": ["sci-fi poster brushed classic", "art/auction/modern", 4, 182.63], "id": "pricecraft-493", "input": [" sci-fi poster brushed classic ", " art/auction/modern ", "  4", "182.63"]}
 {"expected": ["ceramic tuner compact", "secondhand/accessories", 4, 24.75], "id": "pricecraft-extension-199", "input": ["ceramic tuner compact", "secondhand/accessories", "4", " 24.75 "]}
+{"error": "price must be between", "id": "pricecraft-494", "input": [" lamp textured classic ", " home/outlet/modern ", "5", "inf"]}
