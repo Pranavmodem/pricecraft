@@ -56,3 +56,4 @@
 {"expected": ["ceramic tuner compact", "secondhand/accessories", 4, 24.75], "id": "pricecraft-extension-199", "input": ["ceramic tuner compact", "secondhand/accessories", "4", " 24.75 "]}
 {"error": "price must be between", "id": "pricecraft-494", "input": [" lamp textured classic ", " home/outlet/modern ", "5", "inf"]}
 {"expected": ["mug, ceramic textured classic\nwith instructions", "kitchen/trade/modern", 5, 183.37], "id": "pricecraft-495", "input": ["mug, ceramic textured classic\nwith instructions", " kitchen/trade/modern ", "5", "183.37"]}
+{"expected": ["café grinder textured classic", "kitchen/consignment/modern", 5, 0.0], "id": "pricecraft-496", "input": [" café grinder textured classic ", " kitchen/consignment/modern ", "5", "0"]}
