@@ -58,3 +58,4 @@
 {"expected": ["mug, ceramic textured classic\nwith instructions", "kitchen/trade/modern", 5, 183.37], "id": "pricecraft-495", "input": ["mug, ceramic textured classic\nwith instructions", " kitchen/trade/modern ", "5", "183.37"]}
 {"expected": ["café grinder textured classic", "kitchen/consignment/modern", 5, 0.0], "id": "pricecraft-496", "input": [" café grinder textured classic ", " kitchen/consignment/modern ", "5", "0"]}
 {"error": "price must be between", "id": "pricecraft-extension-200", "input": ["ceramic mortar compact", "secondhand/equipment", "5", "-Infinity"]}
+{"expected": ["手袋 textured classic", "clothing/direct/modern", 5, 1000000.0], "id": "pricecraft-497", "input": [" 手袋 textured classic ", " clothing/direct/modern ", "5", "1000000"]}
