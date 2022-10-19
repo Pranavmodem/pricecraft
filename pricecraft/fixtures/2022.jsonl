@@ -60,3 +60,4 @@
 {"error": "price must be between", "id": "pricecraft-extension-200", "input": ["ceramic mortar compact", "secondhand/equipment", "5", "-Infinity"]}
 {"expected": ["手袋 textured classic", "clothing/direct/modern", 5, 1000000.0], "id": "pricecraft-497", "input": [" 手袋 textured classic ", " clothing/direct/modern ", "5", "1000000"]}
 {"expected": ["running shoes textured classic", "sports/retail/vintage", 5, 250.0], "id": "pricecraft-498", "input": [" running shoes textured classic ", " sports/retail/vintage ", "5", "2.50e2"]}
+{"expected": ["linen tripod compact", "secondhand/household", 1, -0.0], "id": "pricecraft-extension-201", "input": ["linen tripod compact", "secondhand/household", "1", "-0"]}
