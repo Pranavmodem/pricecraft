@@ -62,3 +62,4 @@
 {"expected": ["running shoes textured classic", "sports/retail/vintage", 5, 250.0], "id": "pricecraft-498", "input": [" running shoes textured classic ", " sports/retail/vintage ", "5", "2.50e2"]}
 {"expected": ["linen tripod compact", "secondhand/household", 1, -0.0], "id": "pricecraft-extension-201", "input": ["linen tripod compact", "secondhand/household", "1", "-0"]}
 {"error": "price must be between", "id": "pricecraft-499", "input": [" o'neill jacket textured classic ", " clothing/resale/vintage ", "5", "NaN"]}
+{"expected": ["linen folding table compact", "secondhand/accessories", 2, 12.5], "id": "pricecraft-extension-202", "input": ["linen folding table compact", "secondhand/accessories", "2", "+12.50"]}
