@@ -64,3 +64,4 @@
 {"error": "price must be between", "id": "pricecraft-499", "input": [" o'neill jacket textured classic ", " clothing/resale/vintage ", "5", "NaN"]}
 {"expected": ["linen folding table compact", "secondhand/accessories", 2, 12.5], "id": "pricecraft-extension-202", "input": ["linen folding table compact", "secondhand/accessories", "2", "+12.50"]}
 {"error": "price must be between", "id": "pricecraft-500", "input": [" 10\" speaker textured classic ", " audio/auction/vintage ", "5", "-0.01"]}
+{"expected": ["linen mixer compact", "secondhand/equipment", 3, 999999.99], "id": "pricecraft-extension-203", "input": ["linen mixer compact", "secondhand/equipment", "3", " 999999.99 "]}
