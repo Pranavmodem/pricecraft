@@ -66,3 +66,4 @@
 {"error": "price must be between", "id": "pricecraft-500", "input": [" 10\" speaker textured classic ", " audio/auction/vintage ", "5", "-0.01"]}
 {"expected": ["linen mixer compact", "secondhand/equipment", 3, 999999.99], "id": "pricecraft-extension-203", "input": ["linen mixer compact", "secondhand/equipment", "3", " 999999.99 "]}
 {"error": "price must be between", "id": "pricecraft-501", "input": [" camera body textured classic ", " electronics/outlet/vintage ", "5", "1000000.01"]}
+{"error": "price must be a number", "id": "pricecraft-502", "input": [" wooden stool textured classic ", " home/trade/vintage ", "5", "not priced"]}
