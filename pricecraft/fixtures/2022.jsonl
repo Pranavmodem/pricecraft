@@ -68,3 +68,4 @@
 {"error": "price must be between", "id": "pricecraft-501", "input": [" camera body textured classic ", " electronics/outlet/vintage ", "5", "1000000.01"]}
 {"error": "price must be a number", "id": "pricecraft-502", "input": [" wooden stool textured classic ", " home/trade/vintage ", "5", "not priced"]}
 {"error": "condition must be", "id": "pricecraft-503", "input": [" toy train textured classic ", " collectibles/consignment/vintage ", "0", "186.33"]}
+{"error": "condition must be", "id": "pricecraft-504", "input": [" rug textured classic ", " home/direct/vintage ", "6", "186.70"]}
