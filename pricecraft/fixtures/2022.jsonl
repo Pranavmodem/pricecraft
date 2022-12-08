@@ -69,3 +69,4 @@
 {"error": "price must be a number", "id": "pricecraft-502", "input": [" wooden stool textured classic ", " home/trade/vintage ", "5", "not priced"]}
 {"error": "condition must be", "id": "pricecraft-503", "input": [" toy train textured classic ", " collectibles/consignment/vintage ", "0", "186.33"]}
 {"error": "condition must be", "id": "pricecraft-504", "input": [" rug textured classic ", " home/direct/vintage ", "6", "186.70"]}
+{"error": "condition must be", "id": "pricecraft-505", "input": [" children’s book textured classic ", " books/retail/seasonal ", "3.0", "187.07"]}
