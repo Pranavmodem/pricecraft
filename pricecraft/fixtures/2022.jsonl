@@ -71,3 +71,4 @@
 {"error": "condition must be", "id": "pricecraft-504", "input": [" rug textured classic ", " home/direct/vintage ", "6", "186.70"]}
 {"error": "condition must be", "id": "pricecraft-505", "input": [" children’s book textured classic ", " books/retail/seasonal ", "3.0", "187.07"]}
 {"error": "title and category", "id": "pricecraft-506", "input": [" ", " home/resale/seasonal ", "5", "187.44"]}
+{"error": "title and category", "id": "pricecraft-507", "input": [" trompeta textured classic ", " ", "5", "187.81"]}
