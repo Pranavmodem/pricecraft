@@ -26,13 +26,34 @@ def holdout(listings, seed):
     return shuffled[:cutoff], shuffled[cutoff:]
 
 
-def evaluate(listings, seed):
-    train, test = holdout(listings, seed)
+def _product_holdout(listings, seed):
+    if len(listings) < 5:
+        raise ValueError("evaluation requires at least five listings")
+    groups = {}
+    for row in listings:
+        if row.group is None:
+            raise ValueError("grouped evaluation requires a product_group on every row")
+        groups.setdefault(row.group, []).append(row)
+    if len(groups) < 2:
+        raise ValueError("grouped evaluation requires at least two product groups")
+
+    names = sorted(groups)
+    random.Random(seed).shuffle(names)
+    cutoff = len(names) - max(1, len(names) // 5)
+    train = [row for name in names[:cutoff] for row in groups[name]]
+    test = [row for name in names[cutoff:] for row in groups[name]]
+    return train, test
+
+
+def evaluate(listings, seed, *, by_product=False):
+    split = _product_holdout if by_product else holdout
+    train, test = split(listings, seed)
     model = fit(train)
     reference = median(row.price for row in train)
     actual = [row.price for row in test]
     return {
         "seed": seed,
+        "split": "product_group" if by_product else "row",
         "train_rows": len(train),
         "test_rows": len(test),
         "training_median": reference,

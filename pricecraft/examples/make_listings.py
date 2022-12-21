@@ -20,7 +20,7 @@ def main():
     )
 
     writer = csv.writer(sys.stdout, lineterminator="\n")
-    writer.writerow(("title", "category", "condition", "price"))
+    writer.writerow(("title", "category", "condition", "price", "product_group"))
     for category, title, base in products:
         for condition in range(1, 6):
             for variant in range(6):
@@ -31,6 +31,7 @@ def main():
                     category,
                     condition,
                     "{:.2f}".format(price),
+                    title,
                 ))
 
 

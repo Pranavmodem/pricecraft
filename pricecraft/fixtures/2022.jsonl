@@ -72,3 +72,4 @@
 {"error": "condition must be", "id": "pricecraft-505", "input": [" children’s book textured classic ", " books/retail/seasonal ", "3.0", "187.07"]}
 {"error": "title and category", "id": "pricecraft-506", "input": [" ", " home/resale/seasonal ", "5", "187.44"]}
 {"error": "title and category", "id": "pricecraft-507", "input": [" trompeta textured classic ", " ", "5", "187.81"]}
+{"expected": ["ручка textured classic", "stationery/outlet/seasonal", 5, 188.18], "id": "pricecraft-508", "input": [" ручка textured classic ", " stationery/outlet/seasonal ", "  5", "188.18"]}

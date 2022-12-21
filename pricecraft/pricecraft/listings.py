@@ -12,6 +12,7 @@ class Listing:
     category: str
     condition: int
     price: Optional[float] = None
+    group: Optional[str] = None
 
 
 def read_listings(path, *, priced):
@@ -68,4 +69,5 @@ def _parse_row(row, *, priced):
         if not math.isfinite(price) or not 0 <= price <= 1_000_000:
             raise ValueError("price must be between 0 and 1000000")
 
-    return Listing(title, category, int(condition), price)
+    group = (row.get("product_group") or "").strip() or None
+    return Listing(title, category, int(condition), price, group)

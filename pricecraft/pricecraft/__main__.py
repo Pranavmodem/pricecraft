@@ -18,6 +18,7 @@ def main(argv=None):
     evaluate_parser = commands.add_parser("evaluate", help="score a held-out split")
     evaluate_parser.add_argument("listings")
     evaluate_parser.add_argument("--seed", type=int, default=19)
+    evaluate_parser.add_argument("--by-product", action="store_true", help="hold out whole product groups")
 
     train_parser = commands.add_parser("train", help="write a JSON model to stdout")
     train_parser.add_argument("listings")
@@ -40,7 +41,7 @@ def main(argv=None):
             if args.command == "train":
                 print(model_json(fit(listings)))
             else:
-                report = evaluate(listings, args.seed)
+                report = evaluate(listings, args.seed, by_product=args.by_product)
                 print(json.dumps(report, indent=2, sort_keys=True))
     except (OSError, ValueError, csv.Error) as exc:
         parser.exit(2, "pricecraft: {}\n".format(exc))

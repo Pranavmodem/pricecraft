@@ -5,7 +5,8 @@ Pricecraft estimates resale listing prices from a title, category, and condition
 ## Run locally
 
 The project uses the Python standard library and has no third-party
-dependencies. Its historical reference runtime is
+dependencies. Historical reference runtimes are
+[Python 3.7.3](https://www.python.org/downloads/release/python-373/) and
 [Python 3.7.5](https://www.python.org/downloads/release/python-375/).
 Use a supported Python release for ordinary use. Run the historical
 interpreter offline with the example fixture if you need to replay it.
@@ -47,3 +48,22 @@ On the included generator with evaluation seed 19, the split contains
 variants can appear on both sides of the split. These scores verify the
 example pipeline and do not estimate accuracy on unseen product families or
 real marketplace listings.
+
+For a stricter comparison, add a `product_group` to every input row and run:
+
+```sh
+python3 -m pricecraft evaluate listings.csv --seed 19 --by-product
+```
+
+The grouped split holds out entire product groups so that variants of a held-out
+product cannot leak into training. Treat the two split modes as different
+evaluation questions and report which one produced each result.
+
+The validation corpus in `fixtures/` exercises the listing format across
+conditions, categories, Unicode text, numeric price boundaries, and invalid
+values. The tests read the same CSV interface used by the CLI.
+
+With seed 19, the grouped split holds out 30 rows from one complete group.
+The model scores **0.8355 RMSLE** and the median baseline scores **0.2830**.
+The median wins on this split. Use the grouped result when considering
+generalization to a new product family.
