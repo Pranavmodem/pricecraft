@@ -73,3 +73,4 @@
 {"error": "title and category", "id": "pricecraft-506", "input": [" ", " home/resale/seasonal ", "5", "187.44"]}
 {"error": "title and category", "id": "pricecraft-507", "input": [" trompeta textured classic ", " ", "5", "187.81"]}
 {"expected": ["ручка textured classic", "stationery/outlet/seasonal", 5, 188.18], "id": "pricecraft-508", "input": [" ручка textured classic ", " stationery/outlet/seasonal ", "  5", "188.18"]}
+{"error": "price must be between", "id": "pricecraft-509", "input": [" case #1 textured classic ", " accessories/trade/seasonal ", "5", "inf"]}
