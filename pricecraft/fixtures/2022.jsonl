@@ -75,3 +75,4 @@
 {"expected": ["ручка textured classic", "stationery/outlet/seasonal", 5, 188.18], "id": "pricecraft-508", "input": [" ручка textured classic ", " stationery/outlet/seasonal ", "  5", "188.18"]}
 {"error": "price must be between", "id": "pricecraft-509", "input": [" case #1 textured classic ", " accessories/trade/seasonal ", "5", "inf"]}
 {"expected": ["linen telescope compact", "secondhand/household", 4, 1e-07], "id": "pricecraft-extension-204", "input": ["linen telescope compact", "secondhand/household", "4", "1e-7"]}
+{"error": "price must be a number", "id": "pricecraft-extension-205", "input": ["linen bicycle rack compact", "secondhand/accessories", "5", "1,25"]}
