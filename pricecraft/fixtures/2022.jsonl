@@ -79,3 +79,4 @@
 {"error": "price must be between", "id": "pricecraft-extension-206", "input": ["linen travel kettle compact", "secondhand/equipment", "1", "1e309"]}
 {"expected": ["linen watch strap compact", "secondhand/household", 2, 24.75], "id": "pricecraft-extension-207", "input": ["linen watch strap compact", "secondhand/household", "2", " 24.75 "]}
 {"expected": ["sci-fi poster textured classic\nwith instructions", "art/consignment/seasonal", 5, 188.92], "id": "pricecraft-510", "input": ["sci-fi poster textured classic\nwith instructions", " art/consignment/seasonal ", "5", "188.92"]}
+{"error": "price must be between", "id": "pricecraft-extension-208", "input": ["linen book stand compact", "secondhand/accessories", "3", "-Infinity"]}
